@@ -1,0 +1,12 @@
+Relevant provision (emphasis added):
+(b)(2)(B): No funds shall be made available under any applicable program to any educational agency or institution which has a policy or practice of releasing, or providing access to, any personally identifiable information in education records other than directory information, or as is permitted under paragraph (1) of this subsection, unless— except as provided in paragraph (1)(J), such information is furnished in compliance with judicial order, or pursuant to any lawfully issued subpoena, upon condition that parents and the students are notified of all such orders or subpoenas in advance of the compliance therewith by the educational institution or agency, except when a parent is a party to a court proceeding involving child abuse and neglect… and the order is issued in the context of that proceeding, additional notice to the parent by the educational agency or institution is not required.
+
+(b)(1)(J)(i): the entity or persons designated in a Federal grand jury subpoena, in which case the court shall order, for good cause shown, the educational agency or institution (and any officer, director, employee, agent, or attorney for such agency or institution) on which the subpoena is served, to not disclose to any person the existence or contents of the subpoena or any information furnished to the grand jury in response to the subpoena; and
+User Query:
+I am the principal of a middle school. We just received a subpoena demanding education records for one of our students. Under FERPA, can we hand over the records?
+Expected follow-up question:
+What type of subpoena is it—a federal grand jury subpoena, a law enforcement subpoena, or a standard civil or judicial subpoena?
+Query continuation:
+User answer to follow-up q: It is a federal grand jury subpoena.
+Expected response:
+Final output: Yes, FERPA permits you to comply with a federal grand jury subpoena. But there is an important caveat that distinguishes this from an ordinary subpoena: under a federal grand jury subpoena, the court is required to order your school not to disclose the existence or contents of the subpoena to anyone—including the student’s parents. This means the usual FERPA requirement that you notify parents in advance of compliance does not apply here; in fact, your federal funding is at risk if you notify the parents in advance. 

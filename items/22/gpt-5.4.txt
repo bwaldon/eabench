@@ -1,0 +1,43 @@
+Yes—potentially, without parental consent, if the request fits FERPA’s child-welfare exception.
+
+Relevant provision: **20 U.S.C. § 1232g(b)(1)(L)**. FERPA permits disclosure to:
+
+- **“an agency caseworker or other representative of a State or local child welfare agency, or tribal organization”**
+- **who has the right to access a student’s case plan**
+- **when that agency or organization is legally responsible, under State or tribal law, for the care and protection of the student**
+- and only if the records **will not be re-disclosed except to individuals/entities addressing the student’s educational needs and authorized under applicable law**.
+
+## What that means for your situation
+If the county child welfare agency is legally responsible for the child’s care/protection and the caseworker is an authorized representative with access to the child’s case plan, then **FERPA permits disclosure without parental consent**.
+
+That can include education records such as:
+- grades
+- attendance
+- disciplinary records
+- IEP/special education records
+
+## But do not treat this as automatic
+Before disclosing, you should verify:
+1. **Identity** of the caseworker.
+2. **Agency authority**—that this is in fact the State/local child welfare agency responsible for the child.
+3. **That the student is under that agency’s care/protection authority** (for example, foster care placement under the agency’s legal responsibility).
+4. **That the caseworker is authorized to access the student’s case plan**.
+5. Preferably, obtain this in **writing** or through agency credentials/documentation.
+
+## Important limitation
+FERPA **permits** the disclosure; it does not necessarily require you to hand over the **entire file** just because requested. You should disclose what is appropriate for the stated educational-placement purpose, consistent with district policy and any state law. Also document the disclosure.
+
+## Recordkeeping
+Under FERPA, the school generally must keep a record of who requested/received access to the student’s records and their legitimate interest. See **20 U.S.C. § 1232g(b)(4)(A)**.
+
+## Practical answer
+So, **yes, you may disclose without parental consent** if the caseworker falls within § 1232g(b)(1)(L). If you have not yet verified the caseworker’s authority and the agency’s legal responsibility for the child, **pause and verify before releasing the records**.
+
+## Best practice response
+Ask for:
+- agency ID,
+- written confirmation the agency is legally responsible for the child,
+- confirmation the caseworker is authorized to access the child’s case plan,
+- and, ideally, a written request stating the educational purpose.
+
+If you want, I can draft a **short FERPA-compliant checklist** for front office staff or a **sample response script** for this situation.

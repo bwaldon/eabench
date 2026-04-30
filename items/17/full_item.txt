@@ -1,0 +1,26 @@
+Relevant
+(a) (5) (A)-(B): For the purposes of this section the term “directory information” relating to a student includes the following: the student’s name, address, telephone listing, date and place of birth, major field of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, and the most recent previous educational agency or institution attended by the student.
+
+(B)Any educational agency or institution making public directory information shall give public notice of the categories of information which it has designated as such information with respect to each student attending the institution or agency and shall allow a reasonable period of time after such notice has been given for a parent to inform the institution or agency that any or all of the information designated should not be released without the parent’s prior consent.
+
+Query
+As a university, we have designated student email addresses and student ID numbers as directory information under FERPA. We provide notice of directory information through a general privacy policy posted on our website. The notice is accessible via a link in the student portal, but students are not required to acknowledge it. A student later discovered that their email address and student ID were included in a dataset shared with a third-party vendor that aggregates student information for career networking purposes. The student claims they attempted to opt out by emailing the registrar but never received confirmation, and their information was still disclosed. We want to know whether our disclosure of this information as directory information was permissible under FERPA.
+
+Expected follow-up question:
+
+Can you clarify (1) how the university ensures that students receive effective notice of the specific categories designated as directory information and the opt-out process, and (2) whether the student’s opt-out request was received, processed, and recorded before the disclosure occurred?
+
+Query Continuation
+
+The university does not require students to acknowledge the directory information notice and does not send a direct notification email, students must navigate to the policy themselves. The registrar’s office received the student’s opt-out email before the disclosure but failed to process it due to an internal backlog. The student’s information was included in the dataset shared with the third-party vendor.
+
+Expected Final Answer
+
+The disclosure was likely not permissible under FERPA. FERPA allows institutions to designate and disclose directory information, this is conditioned on providing effective public notice and a real opportunity to opt out. A passive notice buried within a website or student portal, without direct communication or clear acknowledgment, raises serious questions about whether the university has satisfied the requirement to “give public notice” in a meaningful way. Although FERPA does not prescribe a specific method, the notice must be reasonably calculated to inform students of their rights.
+
+The student did in fact exercise their opt-out right prior to the disclosure. FERPA requires that once a student opts out, the institution must not disclose that student’s directory information. The failure of the registrar’s office to process the request in time is an internal administrative failure that does not excuse compliance.
+
+The university’s notice practices are likely deficient or at least vulnerable to challenge;
+The student’s opt-out was valid and timely, and should have been honored;
+The disclosure of the student’s directory information after that opt-out violates FERPA.
+

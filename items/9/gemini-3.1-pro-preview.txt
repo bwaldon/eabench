@@ -1,0 +1,28 @@
+Based on the provided text of the Family Educational Rights and Privacy Act (FERPA), **no, you cannot share personally identifiable student records for general academic research without written parental consent unless very specific conditions are met.**
+
+To share student-level data without parental consent, the request must fall under one of FERPA’s strict exceptions. For researchers, the relevant exception is the **"Studies Exception"** found in **Subsection (b)(1)(F)**. 
+
+To legally release this data without parental consent under this exception, the university's study must meet all of the following requirements:
+
+**1. The study must be for a specific, permitted purpose**
+Under (b)(1)(F), the study *must* be for the purpose of:
+*   Developing, validating, or administering predictive tests;
+*   Administering student aid programs; or
+*   **Improving instruction.**
+
+*Application to your scenario:* General academic research on socioeconomic factors and academic outcomes for a peer-reviewed journal does not automatically qualify. The district would have to establish that this study is specifically being conducted to "improve instruction" within your district. 
+
+**2. The study must be conducted "for, or on behalf of" your school district**
+The law states the organization must be conducting the study "for, or on behalf of, educational agencies or institutions." You cannot hand over records simply because a university wants to publish a paper; your district must officially commission or agree to the study as something being done on the district's behalf to improve your instructional programs. 
+
+**3. Strict privacy and data destruction protocols must be followed**
+If the study meets the first two criteria, the university must still guarantee that:
+*   The study will not permit the personal identification of students and their parents by anyone other than the representatives of the university conducting the study.
+*   The personally identifiable information will be destroyed when it is no longer needed for the purposes of the study.
+*(Note: Subsection (b)(4)(B) also penalizes third parties who violate these terms by prohibiting them from accessing records for at least five years).*
+
+### What are your alternatives?
+If the university’s project is purely independent research for publication and does not qualify as a study "on behalf of" your district to "improve instruction," you have two options under FERPA:
+
+1.  **De-identified Data:** FERPA protects "personally identifiable information" contained in education records. If you strip the data of any personally identifiable information (names, exact addresses, IDs, etc., leaving only aggregate or fully anonymized data), FERPA's consent requirements do not apply. 
+2.  **Parental Consent:** Under **Subsection (b)(2)(A)**, the researchers can proceed with identifiable data if they (or the district) obtain written consent from the students' parents specifying what records are to be released, the reasons for the release, and to whom they are being released.

@@ -1,0 +1,48 @@
+Yes—sometimes, but not automatically.
+
+Under FERPA, a school may disclose education records in response to a judicial order or a lawfully issued subpoena without parental consent, but the key conditions matter.
+
+## General FERPA rule
+Under 20 U.S.C. § 1232g(b)(2)(B), you may disclose records:
+
+- **in compliance with a judicial order**, or
+- **pursuant to a lawfully issued subpoena**
+
+**if** you first make a reasonable effort to notify the parent (or the student, if the student is an eligible student) **in advance of compliance**, so they have a chance to seek protective action.
+
+## Important exceptions to the notice requirement
+You generally **do not notify** the parent/student if:
+
+1. **Federal grand jury subpoena**  
+   If the subpoena/court order says you must not disclose the existence or contents of the subpoena.
+
+2. **Other law enforcement subpoena with a nondisclosure order**  
+   If the court or issuing agency has ordered, for good cause, that you not disclose it.
+
+3. **Certain child abuse/neglect or dependency proceedings**  
+   If a parent is a party to such a proceeding and the order is issued in that context, additional notice to that parent is not required.
+
+## Practical answer for your school
+Before handing over records, you should confirm:
+
+- Is this a **valid judicial order or lawfully issued subpoena**?
+- Does it include a **gag/nondisclosure order**?
+- Who is the student:
+  - if under 18 and not postsecondary: notify the **parent**
+  - if 18+ or in postsecondary: notify the **student**
+- Is the subpoena limited to specific records?  
+  You should disclose **only what is required**, not the full file unless demanded.
+
+## Best practice steps
+1. **Do not ignore the subpoena.**
+2. **Send it immediately to district counsel/school attorney.**
+3. **Verify authenticity and scope.**
+4. **Check for any nondisclosure language.**
+5. **If no gag order applies, give advance notice** to the parent/eligible student before producing records.
+6. **Log the disclosure** in the student’s FERPA access record, unless a special exception applies.
+7. Produce only the records actually required.
+
+## Bottom line
+**Yes, FERPA permits disclosure in response to a valid subpoena or court order, but usually only after advance notice to the parent or eligible student—unless the subpoena/order specifically prohibits notice or falls within a statutory exception.**
+
+If you want, I can give you a **principal’s step-by-step FERPA subpoena checklist** or a **parent notice template**.

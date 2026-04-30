@@ -1,0 +1,13 @@
+Based on the provided text of the Family Educational Rights and Privacy Act (FERPA), **yes**, the sending school is legally permitted to share the student’s disciplinary records with you without the prior written consent of the parents. 
+
+FERPA contains specific exceptions to the general requirement for parental consent that apply directly to your situation:
+
+**1. The "Transfer to Another School" Exception**
+Under subsection **(b)(1)(B)**, a school is allowed to release education records to *"officials of other schools or school systems in which the student seeks or intends to enroll."* The sending school must ensure the parents are notified of the transfer of records, have the right to receive a copy of the record if they desire, and have an opportunity for a hearing to challenge the content of the record (often this notification requirement is covered by the sending district's annual FERPA notice to parents).
+
+**2. The "Disciplinary Records and Safety" Exception**
+Because the incident involves a weapon, subsection **(h) (Disciplinary Records; Disclosure)** specifically protects the sharing of this information. It states that nothing in FERPA prohibits a school from:
+*   **(h)(1):** Including appropriate information in the student's education record concerning disciplinary action taken for *"conduct that posed a significant risk to the safety or well-being of that student, other students, or other members of the school community."* Bringing a weapon to school clearly falls under this category.
+*   **(h)(2):** Disclosing such disciplinary information to *"teachers and school officials, including teachers and school officials in other schools, who have legitimate educational interests in the behavior of the student."* 
+
+As the principal of the school where the student is enrolling, you have a "legitimate educational interest" in understanding the student's behavior to plan appropriate safety measures. Therefore, you are well within your rights under FERPA to formally request these records, and the sending school is fully authorized to provide them to you.

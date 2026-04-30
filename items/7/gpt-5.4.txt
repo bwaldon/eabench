@@ -1,0 +1,59 @@
+Yes—sometimes, but not automatically.
+
+Under FERPA, a school may disclose education records in response to a judicial order or a lawfully issued subpoena without parent consent, but there are important conditions.
+
+Key FERPA rule  
+20 U.S.C. § 1232g(b)(2)(B) allows disclosure:
+
+- in compliance with a judicial order, or
+- pursuant to a lawfully issued subpoena,
+
+if the school gives advance notice to the parent and student before complying, so they have a chance to object,
+
+except in certain situations.
+
+Main exceptions to the notice requirement  
+You generally do not have to notify in advance if:
+
+1. Federal grand jury subpoena  
+   If it is a federal grand jury subpoena and the court orders nondisclosure.
+
+2. Law-enforcement subpoena with nondisclosure order  
+   If it is another subpoena issued for a law-enforcement purpose and the court or issuing agency orders you not to disclose its existence or contents.
+
+3. Certain child abuse/neglect or dependency proceedings  
+   If a parent is a party to a court proceeding involving child abuse and neglect or dependency matters, and the order was issued in that proceeding, additional notice to the parent is not required.
+
+What you should do as principal  
+Before releasing anything, confirm:
+
+- Is it actually a valid subpoena or court order?
+- Who issued it?
+- Does it include a nondisclosure/gag order?
+- Is it for law enforcement, civil litigation, custody, abuse/neglect, etc.?
+- Who is the “eligible student”? If the student is 18 or attending postsecondary, notice/rights belong to the student, not the parent.
+
+Best practice steps
+
+1. Send it to district counsel immediately.  
+   Do not respond on your own if you can avoid it.
+
+2. Verify validity.  
+   Check whether it is signed/issued properly and served correctly under state law.
+
+3. Determine whether FERPA notice is required.  
+   If no FERPA exception applies, provide advance notice before producing records.
+
+4. Produce only what is required.  
+   Don’t send the entire cumulative file unless the subpoena actually requires it.
+
+5. Keep a record of disclosure.  
+   FERPA generally requires maintaining a record of who requested/received access and their legitimate interest, though not in the terrorism-order situation.
+
+Short answer  
+- Yes, FERPA can permit disclosure in response to a subpoena.  
+- But unless a specific exception applies, you must give advance notice to the parent (or eligible student) before complying.  
+- If there is a nondisclosure order, follow that and do not notify.  
+- In practice, have your district lawyer review it first.
+
+If you want, I can give you a step-by-step FERPA subpoena response checklist or help you analyze the specific subpoena language.

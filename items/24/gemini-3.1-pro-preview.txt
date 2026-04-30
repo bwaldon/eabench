@@ -1,0 +1,27 @@
+Based on the provided text of the Family Educational Rights and Privacy Act (FERPA), **yes, you are obligated to provide this information to the parent, though there are specific exceptions to who must be included on that list.** 
+
+Furthermore, the fact that your district has not maintained this record means you are currently out of compliance with federal law. 
+
+Here is the breakdown of your obligations under the statute:
+
+**1. The Requirement to Maintain an Access Log**
+Under **Subsection (b)(4)(A)**, your school district is legally required to maintain a record of access. Specifically, the law states:
+> *"Each educational agency or institution shall maintain a record, kept with the education records of each student, which will indicate all individuals... agencies, or organizations which have requested or obtained access to a student's education records..."*
+
+This log must also explicitly indicate the "legitimate interest" that the person or organization had in obtaining the information. The statute requires this log to be kept *with* the student's education records, so a lack of a "centralized" log is not a defense; a log should exist within each individual student's file.
+
+**2. The Parent's Right to View the Log**
+**Subsection (b)(4)(A)** explicitly grants parents the right to see this tracking document. It states: 
+> *"Such record of access shall be available only to parents, to the school official and his assistants who are responsible for the custody of such records, and to persons or organizations authorized... as a means of auditing the operation of the system."*
+
+**3. Exceptions: Who Does NOT Need to be on the List?**
+You do not have to provide the parent with a list of *every single* person who has accessed the file. The law provides specific exemptions for who must be logged:
+*   **School Officials and Teachers:** According to the exception noted in **(b)(4)(A)**, you do not need to log access by individuals specified in **Subsection (b)(1)(A)**. This means you do not have to log access by *"other school officials, including teachers within the educational institution or local educational agency, who have been determined by such agency or institution to have legitimate educational interests."*
+*   **Terrorism Investigations:** Under **Subsection (j)(4)**, the record-keeping requirement does not apply to education records that were accessed by the Attorney General (or their designee) under a court order related to the investigation or prosecution of terrorism.
+
+**Summary for your next steps:**
+You must provide the parent with the access log detailing any external individuals, agencies, or organizations (and their legitimate interests) that have requested or obtained access to her child's records. You do not need to include internal teachers and school officials who had a legitimate educational interest. 
+
+Because you have not been maintaining these records, your district is in violation of FERPA's recordkeeping requirements. Under **Subsection (f)**, the Secretary of Education has the authority to enforce this section and deal with violations, which can ultimately lead to the termination of federal assistance if compliance cannot be secured. You should immediately begin implementing a compliant logging procedure to track third-party access to student records. 
+
+*(Note: While this analysis is based strictly on the statutory text provided, FERPA regulations outline further nuances—such as exemptions for logging access made by the parents themselves, or access accompanied by written parental consent. You should consult your district's legal counsel to rectify the compliance failure and respond to the parent appropriately.)*

@@ -1,0 +1,69 @@
+Yes. If the order was issued under **20 U.S.C. § 1232g(j)**, you generally **must comply**, and FERPA’s usual consent and notice rules do **not** apply.
+
+## Why
+FERPA subsection **(j)** says:
+
+- **Notwithstanding subsections (a) through (i) or any provision of State law**, the Attorney General or a properly designated federal official may apply **ex parte** for a court order requiring an educational agency or institution to permit DOJ to collect education records relevant to certain terrorism investigations or prosecutions.
+- The court **shall issue** the order if the application contains the required certification of “specific and articulable facts.”
+- An institution that produces records **in good faith** under such an order is shielded from liability.
+- FERPA’s normal access-log requirement in **§ 1232g(b)(4)** **does not apply** to records produced under such an order.
+
+## What that means for your university
+
+### 1) You should comply
+If the order on its face is from a court of competent jurisdiction and directs production under this authority, FERPA permits and requires compliance.
+
+### 2) Do **not** notify the student
+Unlike ordinary subpoenas under **§ 1232g(b)(2)(B)**, subsection **(j)** is a special override. Because it operates “[n]otwithstanding subsections (a) through (i),” the normal advance-notice rule does not apply.  
+And because the order is **ex parte**, notifying the student would be inconsistent with the structure and purpose of the provision.
+
+### 3) You do **not** make the usual FERPA disclosure record
+Subsection **(j)(4)** expressly says **§ 1232g(b)(4)** does not apply. So you do not create the standard FERPA record of disclosure kept with the student’s file.
+
+### 4) Limit internal dissemination
+Only those personnel necessary to identify, collect, review for responsiveness, and produce the records should be involved. Even though FERPA does not spell out a nondisclosure command to the institution in subsection (j) the way it does for certain grand jury/law-enforcement subpoenas, as a practical and risk-management matter you should treat the order as highly restricted and disclose internally strictly on a need-to-know basis.
+
+## Practical steps I would recommend immediately
+
+1. **Verify the order**
+   - Confirm it is signed by a federal judge or magistrate judge with apparent jurisdiction.
+   - Confirm it invokes **20 U.S.C. § 1232g(j)** or otherwise clearly tracks that authority.
+   - Confirm the applicant is the Attorney General or an official not lower than an Assistant Attorney General designated by the AG.
+
+2. **Read the order closely**
+   - Scope: “complete education records” vs. narrower categories.
+   - Deadline and method of production.
+   - Any sealing, nondisclosure, or handling instructions.
+
+3. **Preserve and collect**
+   - Issue a narrow legal hold internally.
+   - Gather all FERPA “education records” maintained by the university or persons acting for it.
+
+4. **Produce only what the order requires**
+   - If the order truly says “complete education records,” produce that universe.
+   - If there is ambiguity, seek clarification from DOJ or the court rather than narrowing unilaterally.
+
+5. **Do not notify the student or parents**
+   - No advance notice.
+   - No after-the-fact notice unless the order or DOJ later authorizes it.
+
+6. **Document your compliance in a privileged file**
+   - Keep the order, correspondence, collection steps, and production record in legal files.
+   - Just don’t place the usual FERPA access notation in the student’s education record.
+
+## Important nuance
+If what you received is **not** a § 1232g(j) order, but instead a more ordinary subpoena or law-enforcement order, the analysis changes materially:
+- ordinary subpoenas usually trigger advance notice unless the court orders otherwise,
+- grand jury and certain law-enforcement subpoenas may include gag provisions,
+- and ordinary FERPA disclosure logging usually applies unless an exception removes it.
+
+So the key first question is whether this is specifically a **FERPA subsection (j) anti-terrorism ex parte order**.
+
+## Bottom line
+- **Must comply?** Yes, if it is a valid order under **20 U.S.C. § 1232g(j)**.
+- **Notify the student?** **No.**
+- **Get consent?** **No.**
+- **Make the usual FERPA disclosure log entry?** **No.**
+- **Internal handling?** Need-to-know only, preserve confidentiality, and follow the order exactly.
+
+If you want, I can also give you a **GC checklist** for responding to a § 1232g(j) order, or help you distinguish this from a standard subpoena/gag-order scenario.

@@ -1,0 +1,51 @@
+# Police Requests for Student Records Under FERPA
+
+## Short Answer
+
+**No, you generally do NOT have to provide them**, and in most cases, you **cannot** release education records to a police department without proper authorization. FERPA restricts disclosure of education records and personally identifiable information.
+
+## When You **Can** Disclose to Law Enforcement
+
+There are only specific circumstances under which disclosure is permissible:
+
+### 1. **Written Parental/Student Consent** — §(b)(1)/(b)(2)(A)
+- The parent (or eligible student if 18+/postsecondary) provides written consent specifying the records, reasons, and recipient.
+
+### 2. **Judicial Order or Lawfully Issued Subpoena** — §(b)(2)(B)
+- You **may** comply with a valid court order or subpoena, **but** you must:
+  - Notify the parent and student **in advance** of compliance
+  - **Exception:** A court may order the institution *not* to disclose the existence of the subpoena for good cause (§(b)(1)(J)(ii))
+
+### 3. **Health or Safety Emergency** — §(b)(1)(I)
+- Disclosure to "appropriate persons" is permitted if knowledge of the information is **necessary to protect the health or safety** of the student or others
+- This is narrowly construed and subject to the Secretary's regulations
+- Must be a genuine, immediate emergency
+
+### 4. **Attorney General — Terrorism Investigation** — §(j)
+- The Attorney General can obtain an **ex parte court order** for records relevant to terrorism investigations
+- This requires specific and articulable facts and a court order
+
+### 5. **Law Enforcement Unit Records Exception** — §(a)(4)(B)(ii)
+- Records **created and maintained by the institution's own law enforcement unit** for law enforcement purposes are **not considered education records** under FERPA and can be shared more freely
+- This does **not** apply to regular education records
+
+### 6. **Grand Jury Subpoena** — §(b)(1)(J)(i)
+- A federal grand jury subpoena compels production, and the court may impose a gag order on the institution
+
+## Key Points to Remember
+
+- **A routine police request — even a formal letter — is NOT sufficient.** Without a subpoena, court order, consent, or applicable exception, you must decline.
+- **Directory information** (name, address, etc.) may be releasable if your institution has designated it as such and followed proper public notice procedures under §(a)(5) — but even this has limits.
+- You must **maintain a record of access** documenting who requested and obtained records and their legitimate interest — §(b)(4)(A).
+- Violations can result in **termination of federal funding** — §(f).
+
+## Recommended Steps
+
+1. **Ask the police department for the legal basis** of their request (subpoena, court order, etc.)
+2. **Consult your institution's legal counsel** before releasing anything
+3. **If a valid subpoena/court order exists**, notify the parent/eligible student before complying (unless a court has ordered otherwise)
+4. **Document everything** in the student's access record
+
+> **Bottom line:** A police request alone, without a court order, subpoena, parental consent, or a qualifying emergency, does **not** obligate or permit you to release education records under FERPA.
+
+Would you like guidance on any specific scenario involving this request?

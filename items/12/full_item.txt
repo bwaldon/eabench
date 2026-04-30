@@ -1,0 +1,11 @@
+Relevant provision (emphasis added):
+(h)(1): [Nothing in this section shall prohibit an educational agency or institution from—] including appropriate information in the education record of any student concerning disciplinary action taken against such student for conduct that posed a significant risk to the safety or well-being of that student, other students, or other members of the school community; or 
+(h)(2): [Nothing in this section shall prohibit an educational agency or institution from—] disclosing such information to teachers and school officials, including teachers and school officials in other schools, who have legitimate educational interests in the behavior of the student.
+User Query:
+I am the principal of an elementary school. A student is transferring to our school from another district, and a colleague at the sending school informally told me the student was suspended for bringing a weapon to school. I want to ask the sending school to formally share the student’s disciplinary records with us so we can plan appropriate safety measures. Under FERPA, is the sending school allowed to share those records with us?
+Expected follow-up question:
+Did the disciplinary action involve conduct that posed a significant risk to the safety or well-being of the student, other students, or other members of the school community?
+Query continuation:
+User answer to follow-up question: Yes, the student brought a knife to school and threatened another student with it.
+Expected response:
+Final output: Yes, FERPA permits the sending school to share those disciplinary records with you. FERPA explicitly allows an educational institution to disclose information about disciplinary action taken for conduct that posed a significant risk to safety, to teachers and school officials, including those in other schools, who have legitimate educational interests in the student’s behavior. As the receiving principal responsible for campus safety, you have a clear legitimate educational interest. But there is an important caveat: this provision applies only to disciplinary records involving conduct that posed a “significant risk” to safety. It does not authorize blanket disclosure of the student’s entire disciplinary history, minor infractions that did not rise to that threshold remain subject to FERPA’s ordinary consent requirements.

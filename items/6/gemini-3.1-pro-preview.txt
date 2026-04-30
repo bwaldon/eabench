@@ -1,0 +1,19 @@
+Based on the provided text of the Family Educational Rights and Privacy Act (FERPA), **yes, you are permitted to share this information, provided you have met specific notification and opt-out requirements.**
+
+Here is the breakdown of how FERPA applies to your situation:
+
+**1. The requested data is classified as "Directory Information"**
+Under subsection **(a)(5)(A)**, FERPA explicitly defines "directory information" to include a student's **"name"** as well as their **"participation in officially recognized activities and sports."** (It also includes the weight and height of members of athletic teams).
+
+**2. Directory Information can be shared without prior written consent**
+Under subsection **(b)(1)**, schools are generally prohibited from releasing personally identifiable information from education records without a parent's written consent. However, it explicitly makes an exception for **"directory information, as defined in paragraph (5) of subsection (a)."**
+
+**3. The Conditions You Must Meet**
+Before you can release this directory information to the newspaper, subsection **(a)(5)(B)** states you must have done the following:
+*   **Given Public Notice:** You must have given public notice to parents regarding the categories of information your school has designated as "directory information."
+*   **Allowed an Opt-Out Period:** You must have allowed a "reasonable period of time after such notice has been given for a parent to inform the institution or agency that any or all of the information designated should not be released without the parent's prior consent."
+
+**Summary for your action plan:**
+You may provide the newspaper with the list of student athletes' names and the sports they play *only if* your school has previously designated these items as directory information, issued the required public notice to parents, and the opt-out period has passed. 
+
+*Important Caveat:* If any parent has utilized their right to opt-out and informed the school that their child's directory information should *not* be released, you must remove that specific student's name and sport from the list before handing it over to the newspaper.

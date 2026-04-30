@@ -1,0 +1,10 @@
+Relevant provision (emphasis added):
+(b)(1)(I): [No funds shall be made available under any applicable program to any educational agency or institution which has a policy or practice of permitting the release of education records (or personally identifiable information contained therein other than directory information, as defined in paragraph (5) of subsection (a)) of students without the written consent of their parents to any individual, agency, or organization, other than to the following—] subject to regulations of the Secretary, in connection with an emergency, appropriate persons if the knowledge of such information is necessary to protect the health or safety of the student or other persons.
+User Query:
+I am a school counselor at a high school. A student has written an essay containing graphic descriptions of harming other students. I want to immediately share the student’s records, including past behavioral reports and counseling notes, with local law enforcement without getting parental consent first. Does FERPA allow this?
+Expected follow-up question:
+Do you believe there is an emergency that threatens the health or safety of the student or other persons?
+Query continuation:
+User answer to follow-up q: Yes, I genuinely believe other students may be in imminent danger based on the specificity and severity of what the student wrote.
+Expected response:
+Final output: Yes, FERPA permits you to disclose the records without written consent in this situation, but with important caveats. The disclosure is limited to “appropriate persons”—which would include law enforcement and the parents in a genuine emergency—and only if the knowledge of the information is actually “necessary to protect the health or safety of the student or other persons.” This is not a blanket authorization to share the entire student file; you should disclose only the information that is necessary to address the emergency. Moreover, the exception is “subject to regulations of the Secretary [of Education],” meaning additional regulatory requirements issued by the Department of Education may further constrain the scope and manner of emergency disclosures.

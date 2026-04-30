@@ -1,0 +1,42 @@
+Yes—generally, **yes**.
+
+Under FERPA, a school or district that receives federal education funds must **allow parents of students who are or have been in attendance** to **inspect and review their children’s education records**. If your district **denies** that right, or has a policy that **effectively prevents** access, that can place the district **out of compliance with FERPA**.
+
+Key points from the statute you provided:
+
+- Parents have the right to **inspect and review** their child’s **education records**.
+- The district must have procedures to provide access **within a reasonable time**, and **no later than 45 days** after the request.
+- If a record contains information about **more than one student**, the parent is entitled only to the portion relating to **their own child**, or to be informed of that specific information.
+- Parents also must be given an opportunity for a **hearing** to challenge records they believe are inaccurate, misleading, or privacy-invasive.
+
+Important limits/exceptions:
+
+1. **Only “education records” must be disclosed**  
+   FERPA does not require access to everything in the school’s possession. Certain items are excluded, such as:
+   - sole-possession notes,
+   - law-enforcement-unit records,
+   - certain employee records,
+   - certain treatment records for eligible students.
+
+2. **Once rights transfer to the student**
+   If the student is:
+   - **18 or older**, or
+   - attending a **postsecondary institution**  
+   then the FERPA rights generally belong to the **student**, not the parent, unless another FERPA exception applies.
+
+3. **You may need to redact**
+   If disclosure would reveal information about another student, you should **redact** or otherwise limit access.
+
+4. **FERPA gives a right to inspect and review, not always a right to copies**
+   Unless circumstances make in-person inspection impractical, FERPA generally requires access, though not necessarily free copies in every case.
+
+Bottom line:
+
+- If these are **parents of K–12 students** asking for **their own children’s education records**, and you simply deny access, that is **very likely a FERPA violation**.
+- The safer FERPA-compliant approach is to:
+  1. verify the requester’s identity and parental status,
+  2. identify what requested materials qualify as “education records,”
+  3. redact non-disclosable information, and
+  4. provide inspection/review within **45 days**.
+
+If you want, I can help you evaluate a **specific type of record**—for example emails, incident reports, counseling notes, surveillance video, or special education records—to determine whether FERPA requires access.

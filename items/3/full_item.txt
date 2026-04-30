@@ -1,0 +1,20 @@
+Relevant provision (emphasis added): 
+
+(b)(3): Nothing contained in this section shall preclude authorized representatives of (A) the Comptroller General of the United States, (B) the Secretary, or (C) State educational authorities from having access to student or other records which may be necessary in connection with the audit and evaluation of Federally-supported education programs, or in connection with the enforcement of the Federal legal requirements which relate to such programs: Provided, That except when collection of personally identifiable information is specifically authorized by Federal law, any data collected by such officials shall be protected in a manner which will not permit the personal identification of students and their parents by other than those officials, and such personally identifiable data shall be destroyed when no longer needed for such audit, evaluation, and enforcement of Federal legal requirements.
+
+User Query:
+
+I am an official of the Los Angeles Unified School District. The Secretary of Education is requesting access to our students’ education records. The requested records include information that could personally identify our students. Under FERPA, is the Department of Education allowed to access these records?
+
+Expected follow-up question:
+
+
+Why is the Department of Education requesting these records?
+
+Query continuation: 
+
+User answer to follow-up q: The Department of Education is requesting these records as part of an audit of the Upward Bound Program. 
+
+Expected response (assumes: system has correctly identified that Upward Bound is a federally-supported education program): 
+
+Final output: FERPA does not prohibit the Department of Education from accessing these records, with an important caveat: the Department must protect student information so that students can’t be personally identified by anyone other than ED officials, and ED must destroy personally identifiable information once the audit is over, unless Federal law specifically authorizes otherwise. 

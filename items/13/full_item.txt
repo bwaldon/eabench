@@ -1,0 +1,19 @@
+Relevant provision 
+(b)(3) Nothing contained in this section shall preclude authorized representatives of (A) the Comptroller General of the United States, (B) the Secretary, or (C) State educational authorities from having access to student or other records which may be necessary in connection with the audit and evaluation of Federally-supported education programs, or in connection with the enforcement of the Federal legal requirements which relate to such programs: Provided, That except when collection of personally identifiable information is specifically authorized by Federal law, any data collected by such officials shall be protected in a manner which will not permit the personal identification of students and their parents by other than those officials, and such personally identifiable data shall be destroyed when no longer needed for such audit, evaluation, and enforcement of Federal legal requirements.
+
+Query
+
+As a State Educational Authority (SEA), we have collected student-level data from several universities under FERPA’s audit and evaluation exception to assess a federally funded education program. We now want to share this dataset with a third-party research organization that will conduct statistical modeling on our behalf. Before sharing, we plan to remove direct identifiers such as names and Social Security numbers, but we intend to retain unique student identifiers to enable longitudinal analysis. The third party has agreed contractually not to attempt re-identification of students. We want to know whether this disclosure is permissible under FERPA? 
+
+Expected follow-up question:
+Is the third-party research organization formally designated as an “authorized representative” of the SEA for purposes of the audit or evaluation, and do the retained unique student identifiers allow re-identification of individual students, either on their own or in combination with other reasonably available data?
+
+Query Continuation
+
+The third-party research organization has not been formally designated as an authorized representative. The SEA considers the dataset de-identified, but acknowledges that the unique student identifiers could allow re-identification if combined with other datasets reasonably available to the researcher.
+
+Expected Final Answer
+
+The disclosure would not be permissible under FERPA as described. The audit and evaluation exception allows access to education records, including personally identifiable information, only by authorized representatives of the SEA. The dataset remains personally identifiable under FERPA. The removal of direct identifiers is not sufficient if the retained unique student identifiers allow re-identification, whether independently or in combination with other reasonably available information. FERPA’s protections extend to indirect identifiers and re-identifiable data. FERPA imposes strict conditions on the handling of such data: it must be protected in a manner that does not permit personal identification by anyone other than authorized officials, and it must be destroyed when no longer needed. Sharing re-identifiable data with a non-authorized third party would violate these requirements.
+
+To comply with FERPA, the SEA would need to either:Formally designate the third party as an authorized representative and impose appropriate use, access, and data protection controls consistent with FERPA; or Ensure that the dataset is fully de-identified such that re-identification is not reasonably possible, in which case FERPA would no longer apply. Absent these safeguards, the proposed disclosure would violate FERPA.

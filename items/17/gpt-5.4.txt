@@ -1,0 +1,53 @@
+Likely not safely permissible on these facts.
+
+Key FERPA rule  
+If a school wants to disclose “directory information” without consent, it must do more than just label items as directory information. Under 20 U.S.C. § 1232g(a)(5)(B), the school must:
+
+1. give public notice of the categories designated as directory information, and  
+2. allow a reasonable period of time after that notice for a parent/eligible student to tell the school that some or all of that information should not be released without prior consent.
+
+For a university, the student is the “eligible student,” so the opt-out right belongs to the student. § 1232g(d).
+
+Applying that here
+
+1. Email address and student ID number  
+A student email address can often be treated as directory information if properly designated.  
+A student ID number is more problematic. Under current FERPA regulations, a student ID number generally is not directory information if it can be used by itself to gain access to education records or systems. If the ID functions as a login credential or can be used to access records, disclosing it as directory information would be impermissible. Even if you designated it as directory information internally, that designation would not override FERPA limits.
+
+2. Notice through a website privacy policy  
+A publicly posted privacy policy linked in the portal may help, but the legal question is whether the university “effectively informs” students of their FERPA rights, § 1232g(e), and gives public notice plus a reasonable opt-out opportunity, § 1232g(a)(5)(B).  
+A passive website posting without direct distribution, prominent annual notice, or clear opt-out instructions is weaker than standard FERPA practice. It may or may not suffice, but it creates risk, especially if students are not affirmatively notified.
+
+3. Student’s attempted opt-out  
+This is the biggest problem. FERPA permits directory information disclosure only if the student was given a real chance to opt out and the institution honors that opt-out. If the student emailed the registrar within the allowed period and the university failed to process it, the disclosure likely would not be protected as a directory-information disclosure. FERPA does not require confirmation as such, but the institution bears the compliance risk if its opt-out process is unclear or mishandled.
+
+4. Disclosure to a career-networking vendor  
+Directory information can be disclosed to third parties without consent if the school has satisfied the directory-information notice and opt-out requirements and the data disclosed truly qualifies as directory information. FERPA does not require the recipient to fit within one of the non-consent exceptions if the disclosure is only directory information.  
+But if the student had opted out, or if the student ID number was not valid directory information, then the disclosure was not permissible on the directory-information theory.
+
+Bottom line  
+Your disclosure was permissible only if all of the following were true:
+
+- the university gave compliant FERPA directory-information notice,
+- students had a reasonable and functional opportunity to opt out,
+- this student did not validly opt out before the disclosure, and
+- the student ID number was the kind of identifier that FERPA allows to be treated as directory information.
+
+Based on your facts, there is substantial FERPA risk that the disclosure was not permissible, especially because:
+
+- the opt-out appears to have been attempted but not honored, and
+- student ID numbers are often not lawfully disclosable as directory information if they enable access to records or systems.
+
+Practical assessment  
+- Email address: possibly disclosable as directory information, unless the student’s opt-out should have blocked it.  
+- Student ID number: likely not disclosable if it is used for authentication or access.  
+- Overall disclosure: likely vulnerable to challenge under FERPA.
+
+What you should do now  
+- Determine whether the student’s email to the registrar was received before the disclosure and whether your published process clearly authorized that method of opting out.  
+- Review whether your annual FERPA notice clearly lists email addresses and student IDs as directory information and clearly explains opt-out procedures and deadlines.  
+- Immediately assess whether the student ID number is an access credential; if so, stop treating it as directory information.  
+- Consider directing the vendor to suppress/delete the student’s information pending review.  
+- Tighten notice and opt-out procedures, including confirmation receipts and auditable tracking.
+
+If you want, I can turn this into a formal FERPA risk memo or a point-by-point compliance analysis against the statute and regulations.

@@ -1,0 +1,22 @@
+Based on the provided text of the Family Educational Rights and Privacy Act (FERPA), **yes, the university is permitted to disclose this information to the student’s parents, despite the student’s explicit objection and lack of consent.**
+
+Here is the legal breakdown of why this is permissible, addressing the administrators' specific concerns:
+
+**1. The Statutory Exception for Drug and Alcohol Violations**
+Under **Subsection (i)(1) [DRUG AND ALCOHOL VIOLATION DISCLOSURES]**, FERPA explicitly provides an exception to the general rule of student consent. The statute states that "Nothing in this Act... shall be construed to prohibit an institution of higher education from disclosing, to a parent or legal guardian of a student, information regarding any violation of... any rule or policy of the institution, governing the use or possession of alcohol..." 
+
+To use this exception, two specific conditions must be met, both of which are satisfied in your scenario:
+*   **(A) The student is under the age of 21:** Your student is 20 years old.
+*   **(B) The institution has determined that the student committed a disciplinary violation:** Your university has already completed the disciplinary process and determined a violation of campus alcohol policy occurred.
+
+Because these criteria are met, FERPA permits the disclosure "regardless of whether that information is contained in the student’s education records" and without the student's consent.
+
+**2. Addressing the Administrators' Concerns (Transfer of Rights)**
+The administrators are correct in referencing **Subsection (d) [STUDENTS’ RATHER THAN PARENTS’ PERMISSION OR CONSENT]**. This section states that once a student turns 18 or attends a postsecondary institution, the FERPA rights transfer from the parents to the student. Generally, this means the university cannot share education records without the student's written consent.
+
+However, **Subsection (i)** begins with the phrase *"Nothing in this Act... shall be construed to prohibit..."* This language creates a direct statutory carve-out. It explicitly overrides the student's right to withhold consent under Subsection (d) specifically for drug and alcohol violations, provided the student is under 21. Therefore, the student's objection does not legally block the university from notifying the parents under FERPA.
+
+**3. Important Caveats to Consider Before Disclosing**
+While FERPA permits this disclosure, as a legal expert, I must advise you to consider two additional factors before proceeding:
+*   **State Law Prohibition (Subsection i-2):** FERPA notes that it does not supersede any State law that might prohibit this type of disclosure. You must ensure that your specific state's privacy laws do not independently block you from notifying the parents.
+*   **Permissive, Not Mandatory:** FERPA *permits* the university to notify the parents; it does not *require* it. The decision to disclose should be guided by your institution's internal policies and your professional judgment regarding what is best for the student and the campus community.

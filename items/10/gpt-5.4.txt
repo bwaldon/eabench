@@ -1,0 +1,85 @@
+Under FERPA, this is a serious issue.
+
+## Short answer
+If the nonprofit received the records under the **studies exception** in **20 U.S.C. § 1232g(b)(1)(F)**, then FERPA required that:
+
+- the study be for an allowed purpose,
+- the data be handled so students/parents are not personally identifiable except by the organization’s representatives, and
+- the information be **destroyed when no longer needed**.
+
+Also, under **§ 1232g(b)(4)(B)**, personal information may be transferred to a third party only on the condition that the recipient **will not permit any other party to have access** without parental consent. If a third party outside the district permits access in violation of the consent rules or fails to destroy information as required under the studies exception, the district **must not permit access to education records to that third party for at least 5 years**.
+
+## What this likely means for your district
+
+### 1. The nonprofit likely made an unauthorized redisclosure
+Giving the data to a technology company for product development is very likely **outside** the permitted FERPA studies disclosure unless:
+
+- the tech company was properly acting as the nonprofit’s authorized representative within the same FERPA-compliant study arrangement, and
+- the disclosure remained limited to the original permitted study purpose.
+
+From what you described, “wanted to develop an adaptive learning product” sounds more like **commercial product development** than a study conducted for or on behalf of the district to improve instruction. That strongly suggests an impermissible redisclosure.
+
+### 2. Your district should cut off that nonprofit from further access
+Under **§ 1232g(b)(4)(B)**, if the outside party permitted improper access or failed FERPA’s destruction requirements, your district is prohibited from allowing that third party access to education records for **not less than five years**.
+
+So, if the facts confirm the nonprofit disclosed the data improperly, the district should:
+
+- immediately suspend/terminate the nonprofit’s access to any education records,
+- document that the nonprofit is barred from further access for at least 5 years.
+
+### 3. The district should act promptly to contain and document
+FERPA itself does not contain a general private right of action for damages, but the U.S. Department of Education can investigate and enforce compliance. You should:
+
+- **Investigate the facts immediately**:
+  - what data was shared,
+  - whether it contained personally identifiable information,
+  - whether it was de-identified,
+  - what agreement governed the study,
+  - when and why the nonprofit shared it with the tech company,
+  - whether the tech company still has it,
+  - whether either entity further disclosed it.
+- **Demand return or destruction** of all district data from both the nonprofit and the tech company.
+- Obtain **written certification of destruction**.
+- Preserve all contracts, data-sharing agreements, emails, and logs.
+
+### 4. Review your record of disclosures
+FERPA requires the district to maintain a record of requests/access for education records, with some exceptions. You should confirm your records reflect the original disclosure to the nonprofit and update your compliance file regarding the unauthorized redisclosure and corrective action.
+
+### 5. Consider whether notice is required under other laws
+FERPA does **not** generally impose a universal breach-notification requirement to parents for every unauthorized disclosure. But other laws may:
+
+- state student data privacy laws,
+- state data breach notification laws,
+- contractual notice obligations,
+- possibly board policy.
+
+So even if FERPA alone does not expressly require parent notice here, your district should have counsel check state law immediately.
+
+### 6. Consider reporting/consulting with the U.S. Department of Education
+If the disclosure involved personally identifiable information from education records, you should strongly consider consulting counsel about whether to self-report or seek guidance from the **Student Privacy Policy Office** at the U.S. Department of Education.
+
+## Key FERPA provisions implicated
+
+- **20 U.S.C. § 1232g(b)(1)(F)** — studies exception
+- **20 U.S.C. § 1232g(b)(4)(B)** — no onward disclosure to another party without consent; 5-year bar
+- **20 U.S.C. § 1232g(b)(1) and (2)** — general consent rule and exceptions
+
+## Practical next steps
+1. Freeze any further data sharing with the nonprofit and tech company.
+2. Send a written preservation and demand letter today.
+3. Determine whether the data was personally identifiable.
+4. Require destruction/return and written certifications.
+5. Bar the nonprofit from access for at least 5 years if violation is confirmed.
+6. Review state-law notification duties.
+7. Tighten future data-sharing agreements:
+   - no redisclosure,
+   - no secondary use/product development,
+   - strict destruction timelines,
+   - audit rights,
+   - indemnification,
+   - immediate incident reporting.
+
+If you want, I can draft:
+- a **FERPA analysis memo** for your board/counsel,
+- a **demand letter** to the nonprofit and tech company, or
+- a **model FERPA-compliant research/data-sharing agreement**.

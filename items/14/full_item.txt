@@ -1,0 +1,18 @@
+Relevant provision: 
+(b) (6) (A): Nothing in this section shall be construed to prohibit an institution of postsecondary education from disclosing, to an alleged victim of any crime of violence (as that term is defined in section 16 of title 18), or a nonforcible sex offense, the final results of any disciplinary proceeding conducted by such institution against the alleged perpetrator of such crime or offense with respect to such crime or offense.
+
+Query: 
+As a university, we conducted a disciplinary proceeding against a student accused of a serious assault that qualifies as a crime of violence. The accused student was found responsible. The alleged victim has requested access to the outcome of the proceeding. We believe this disclosure is permitted under FERPA’s crime of violence exception. Is the university permitted to disclose the full report to the alleged victim?
+
+Expected follow-up question:
+
+Can you clarify what specific information the university considers to be part of the “outcome” of the disciplinary proceeding, and whether the detailed findings (such as witness statements and narrative summaries) are being treated as part of those final results?
+
+Query Continuation 
+The university expects to include the name of the accused student, the violation committed, and the sanction imposed and detailed investigative materials, such as witness statements and narrative summaries, to provide context to the victim.
+
+Expected Final Answer
+
+The university’s proposed disclosure exceeds what is permitted under FERPA. Under the crime of violence exception, the institution may disclose the final results of the disciplinary proceeding to the alleged victim.This includes: name of the student found responsible, violation committed, and sanction imposed. However, FERPA does not permit disclosure of the full investigative record under this exception. Detailed materials such as witness statements, interview notes, and narrative summaries are not part of the “final results” and remain protected education records of other students or individuals involved in the proceeding. Disclosing those materials would risk revealing personally identifiable information about other students (e.g., witnesses), which is not authorized under this provision.
+
+Accordingly: The university may disclose the name of the responsible student, the violation, and the sanction to the alleged victim. The university may not disclose detailed investigative materials, including witness statements and narrative summaries, unless another FERPA exception applies or appropriate consent is obtained. The university should limit its disclosure strictly to the defined “final results” and avoid over-disclosure of underlying records.

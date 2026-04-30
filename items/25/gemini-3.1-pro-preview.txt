@@ -1,0 +1,27 @@
+Based on the provisions of FERPA provided in the text, **no, you are not required to give the student direct, personal access to the psychologist's session notes.** 
+
+Here is the legal breakdown of why, according to the statute, along with what the student *is* entitled to:
+
+**1. The "Treatment Records" Exception**
+Under FERPA, students have the right to inspect and review their "education records." However, the statute explicitly excludes certain medical and psychological records from the definition of "education records." 
+
+According to **Subsection (a)(4)(B)(iv)**, "education records" do *not* include records that meet all of the following criteria:
+* **Age/Status:** The records are on a student who is 18 years of age or older, or is attending an institution of postsecondary education (your student is 21 and enrolled).
+* **Creator:** They are made or maintained by a physician, psychiatrist, **psychologist**, or other recognized professional.
+* **Purpose:** They are made, maintained, or used *only* in connection with the provision of treatment to the student.
+* **Confidentiality:** They are not available to anyone other than persons providing such treatment.
+
+Because the session notes meet these criteria, they are classified as "treatment records" rather than "education records." Therefore, they are not subject to the general FERPA requirement that parents or eligible students be allowed to inspect and review them.
+
+**2. The Student's Alternative Right Under FERPA**
+While the student does not have the right to personally inspect the notes under FERPA, she does have a specific right regarding their review. 
+
+The same subsection—**(a)(4)(B)(iv)**—ends with an important caveat: 
+> *"...except that such records can be personally reviewed by a physician or other appropriate professional of the student’s choice."*
+
+Therefore, if the student requests it, you must allow an appropriate professional (such as an outside therapist, psychiatrist, or physician designated by the student) to review those session notes. 
+
+**Summary for the Counseling Center Director:**
+Under FERPA, you may deny the 21-year-old student's request to *personally* inspect her psychologist's session notes, because they are excluded from the definition of "education records." However, you should inform her that under FERPA she has the right to have those records reviewed by a physician or other appropriate professional of her choice. 
+
+*(Note: While FERPA does not require you to provide direct access, you should also consult your state’s health privacy laws and professional psychological licensing standards, as they may independently grant a patient the right to access their own mental health records.)*

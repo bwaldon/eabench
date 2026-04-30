@@ -1,0 +1,22 @@
+As general counsel, you are dealing with a highly sensitive and specific exception to standard FERPA rules. Based on the provided text of the statute, here is the legal analysis regarding your obligations.
+
+**1. Must the university comply with the ex parte order?**
+**Yes.** You must comply with the order, and the university is legally protected in doing so. 
+
+Under **Subsection (j)(1)** (Investigation and Prosecution of Terrorism), the Attorney General or a designated federal officer may apply for an *ex parte* court order requiring an educational institution to permit the collection of education records relevant to an authorized investigation or prosecution of specific terrorism offenses. 
+
+Furthermore, you have a safe harbor. Under **Subsection (j)(3)**, an educational agency or institution that produces education records in good faith in accordance with an order issued under this subsection *"shall not be liable to any person for that production."*
+
+**2. What are your obligations toward the student?**
+Counter-intuitively to standard FERPA practices, **you have absolutely no obligation to notify the student, nor should you record this disclosure in the student's file.** 
+
+Here is how the statute alters your standard obligations in this specific scenario:
+
+*   **No Advance Notice to the Student:** Under normal circumstances, Subsection (b)(2)(B) requires an institution to notify the student (since they are in postsecondary education, per Subsection (d)) *in advance* of complying with a judicial order or subpoena. However, **Subsection (j)(1)** explicitly begins with the phrase: *"Notwithstanding subsections (a) through (i) or any provision of State law..."* This overrides the standard notification requirements. Because it is an *ex parte* order (meaning it is granted without the other party's knowledge), notifying the student would undermine the DOJ's terrorism investigation and is not required by FERPA.
+*   **No Record-Keeping Requirement:** Normally, under Subsection (b)(4)(A), the university must maintain a log within the student's education records detailing any individual or agency that requested or obtained access to the records. However, **Subsection (j)(4)** explicitly states: *"Subsection (b)(4) does not apply to education records subject to a court order under this subsection."* 
+
+**Summary of Action Items for General Counsel:**
+1.  **Verify the order:** Ensure the court order is issued under the authority described in Subsection (j) (typically referencing investigations under 18 U.S.C. § 2332b(g)(5)(B) or 18 U.S.C. § 2331).
+2.  **Produce the records:** Provide the requested education records to the DOJ or designated federal officer.
+3.  **Maintain strict confidentiality:** Do *not* notify the student of the disclosure. 
+4.  **Do not log the disclosure:** Instruct your registrar or records office *not* to place a record of this DOJ request or disclosure in the student's FERPA access log.

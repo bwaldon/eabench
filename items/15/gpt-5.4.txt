@@ -1,0 +1,76 @@
+Under FERPA, in your scenario, the **student** is the rights-holder, not the parent.
+
+### 1. Who holds the FERPA rights here?
+FERPA provides that:
+
+> whenever a student **has attained 18 years of age, _or is attending an institution of postsecondary education_**, the rights otherwise accorded to parents transfer to the student.  
+See **20 U.S.C. § 1232g(d)**.
+
+Because this individual is **attending a postsecondary institution**, FERPA rights have transferred to the student **even though the student is only 17**.
+
+So as a default rule:
+
+- the **student** controls access to the education records;
+- the **parent** does **not** automatically have a right of access merely because the student is a minor.
+
+### 2. Can the parent ever get access?
+Yes, but only through a FERPA exception or the student’s consent. The most relevant one is:
+
+- disclosure to **parents of a dependent student**, as defined in **Internal Revenue Code § 152**  
+  See **20 U.S.C. § 1232g(b)(1)(H)**.
+
+That means if your institution has documentation or a policy-based process showing the student is the parent’s tax dependent, the university **may** disclose to the parent under that exception. FERPA generally makes this **permissive**, not mandatory.
+
+Other possible bases could include:
+
+- the student’s written consent;
+- a health or safety emergency, if applicable;
+- alcohol/drug violation disclosures for students under 21, if the statutory conditions are met.
+
+But absent an exception, the parent is not the FERPA rights-holder here.
+
+---
+
+## 3. Does your general FERPA notice satisfy the duty to inform?
+Likely **yes**, assuming it is actually provided effectively.
+
+FERPA requires institutions to **effectively inform**:
+
+- the **parents of students**, or
+- the **students**, if they are **18 or older** **or attending a postsecondary institution**,  
+of the rights accorded by FERPA.  
+See **20 U.S.C. § 1232g(e)**.
+
+Since this is a postsecondary student, the institution’s duty is to inform the **student**, not the parent.
+
+### Your notice practice
+You said the university:
+
+- has a general FERPA notice policy,
+- publishes it online, and
+- includes it in orientation materials.
+
+That generally aligns with FERPA’s notice requirement, provided the notice is disseminated in a way that is reasonably calculated to reach students. FERPA does not require a separate notice format solely because some postsecondary students are under 18.
+
+### Do you need to distinguish under-18 from over-18 students?
+Not necessarily. Under FERPA, both:
+- students **18 or older**, and
+- students **attending a postsecondary institution**
+
+are treated as the rights-holders. So a general notice directed to students at the postsecondary institution is ordinarily sufficient even if it does not separately call out minors.
+
+What matters is whether the institution **effectively informs** the proper rights-holder. For your 17-year-old undergraduate, that is the **student**.
+
+---
+
+## 4. Practical conclusion
+### You should:
+- treat the **student** as the FERPA rights-holder;
+- **not** give the parent access solely based on parent status;
+- evaluate whether any disclosure exception applies, especially **tax dependency**;
+- ensure your notice is directed to students and is effectively disseminated.
+
+### On the notice issue:
+Your general online/orientation FERPA notice **likely satisfies FERPA**, even without separately distinguishing students under 18 from those over 18, because for **all postsecondary attendees**, the student is the relevant rights-holder.
+
+If you want, I can also give you a **recommended response script** for the parent and a **compliance checklist** for your registrar’s office.

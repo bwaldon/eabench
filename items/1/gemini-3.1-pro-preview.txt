@@ -1,0 +1,34 @@
+Based on the text of the Family Educational Rights and Privacy Act (FERPA) provided, **no, you do not automatically have to provide a student's records to a police department.** 
+
+In fact, under FERPA, you are generally **prohibited** from releasing a student's education records to law enforcement without the written consent of the parent (or the student, if they are 18 or older/in college), *unless* the police request falls under a specific statutory exception.
+
+Here is a breakdown of how FERPA applies to requests from law enforcement, along with the exceptions that would allow (or require) you to release the records:
+
+### 1. The General Rule: Consent Required
+Under **Section (b)(1)** and **(b)(2)**, an educational agency cannot release education records (or personally identifiable information) to any individual or agency without written consent from the parents or the eligible student. Simply being a police officer does not grant someone automatic access to a student's file.
+
+### 2. Exceptions: When Can You Release Records to the Police?
+
+**A. Subpoenas and Court Orders [Section (b)(1)(J) and (b)(2)(B)]**
+You can release records if the police department provides a judicial order or a lawfully issued subpoena. However, there are strict rules about this:
+*   **Notice Requirement:** Generally, under (b)(2)(B), you must notify the parents and the student of the order or subpoena *in advance* of complying with it, so they have a chance to contest it.
+*   **"Gag Orders":** Under (b)(1)(J)(ii), if the subpoena is issued for a law enforcement purpose, the court or issuing agency may order the school *not* to disclose the existence or contents of the subpoena to anyone. If the subpoena includes this "good cause" gag order, you do not notify the parents.
+
+**B. Health and Safety Emergencies [Section (b)(1)(I)]**
+You may release information to appropriate persons (which absolutely includes local police) in connection with an emergency, *if* knowledge of the information is strictly necessary to "protect the health or safety of the student or other persons." 
+
+**C. Directory Information [Section (a)(5)]**
+You may provide the police with "directory information" (e.g., student's name, address, telephone listing, dates of attendance, sports participation). However, this is only permissible if your school has previously given public notice designating this information as directory information, and the student's parents have not opted out of its release.
+
+**D. School Law Enforcement Unit Records [Section (a)(4)(B)(ii)]**
+If your school or district has its own designated "law enforcement unit" (e.g., campus police or a school resource officer), records that are *created and maintained* by that specific unit for the purpose of law enforcement are explicitly excluded from the definition of "education records." Therefore, those specific records are not protected by FERPA and can be shared with outside police departments. 
+
+**E. State Juvenile Justice Systems [Section (b)(1)(E)]**
+You may disclose information to state and local authorities if a specific State statute allows the disclosure and it concerns the juvenile justice system's ability to effectively serve the student. You must check your specific state laws to see if this applies. 
+
+### Summary of Best Practices for Your Situation:
+1.  **Ask for the legal paperwork:** If it is not an immediate emergency, ask the police department to provide a lawfully issued subpoena or court order.
+2.  **Determine if it is an emergency:** If the police are responding to an active, immediate threat to the health or safety of the student or others, you may provide the necessary information to them immediately. 
+3.  **Check directory status:** If the police just need an address or phone number, check if that falls under your school's "directory information" and ensure the parent hasn't opted out.
+
+***Disclaimer:** I am an AI, not an attorney. The above analysis is based solely on the provided text of 20 U.S.C. § 1232g. You should consult your institution's legal counsel before responding to law enforcement requests.*

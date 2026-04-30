@@ -1,0 +1,31 @@
+Yes. FERPA permits the disclosure in this situation, even without the student’s consent and even if the student objects.
+
+Why:
+
+- Under FERPA, once a student is 18 or attends a postsecondary institution, FERPA rights transfer from the parent to the student. That is the general rule. See subsection (d).
+- But FERPA contains a specific exception for alcohol and controlled substance violations by students under 21 at institutions of higher education. See subsection (i)(1).
+
+That provision says an institution of higher education may disclose to a parent or legal guardian information regarding a violation of:
+- Federal, State, or local law, or
+- any rule or policy of the institution,
+governing the use or possession of alcohol or a controlled substance,
+
+if:
+1. the student is under age 21, and
+2. the institution determines that the student committed a disciplinary violation regarding that use or possession.
+
+Applying that here:
+- The student is 20.  
+- The university is a postsecondary institution.  
+- The institution determined through a disciplinary process that the student violated campus policy related to alcohol possession.  
+
+That squarely fits subsection (i)(1). So FERPA allows disclosure to the parent or legal guardian notwithstanding the student’s lack of consent or express objection.
+
+Important qualifiers:
+- This is permissive, not mandatory. FERPA says the institution is not prohibited from disclosing; it does not require disclosure.
+- The disclosure may concern the alcohol violation information. It is best to limit the disclosure to information reasonably related to the violation and the institution’s determination.
+- Check state law and institutional policy. FERPA subsection (i)(2) says this provision does not override state law that prohibits the disclosure. So FERPA permits it unless state law bars it.
+- Ensure the recipient is actually a parent or legal guardian.
+
+Bottom line:
+FERPA does not bar the university from notifying the parents here. The university may disclose the alcohol-possession disciplinary violation to the student’s parents despite the student’s objection, so long as the student is under 21 and no contrary state law prohibits the disclosure.

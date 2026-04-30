@@ -1,0 +1,116 @@
+# Parent Access to a Former Student's Education Records Under FERPA
+
+## Short Answer
+
+**Yes, you are very likely required to grant this request**, but the answer depends on a few important factual details. Let me walk you through the analysis carefully.
+
+---
+
+## The Core Statutory Framework
+
+### The Right of Inspection
+
+Section (a)(1)(A) establishes the foundational right:
+
+> *"No funds shall be made available under any applicable program to any educational agency or institution which has a policy of denying, or which effectively prevents, **the parents of students who are or have been in attendance** at a school of such agency...the right to inspect and review the education records of their children."*
+
+The critical phrase here is **"who are or have been in attendance."** This language is deliberately broad. It covers:
+
+- **Current students**, and
+- **Former students** (those who *have been* in attendance)
+
+So the fact that the child is a **former student does not extinguish the parent's right**. Congress explicitly contemplated access to records of students no longer enrolled.
+
+---
+
+## Key Questions You Must Analyze
+
+### 1. Has the Student Turned 18 or Enrolled in Postsecondary Education?
+
+This is the **most important threshold question**. Section (d) provides:
+
+> *"Whenever a student has attained eighteen years of age, or is attending an institution of postsecondary education, the permission or consent required of and the rights accorded to the parents of the student shall thereafter only be required of and accorded to **the student**."*
+
+This means:
+
+| Scenario | Who Holds the Rights? |
+|---|---|
+| Former student is **under 18** and not in postsecondary education | **The parent** retains full inspection rights |
+| Former student is **18 or older** | Rights transfer to **the student** |
+| Former student is **attending a postsecondary institution** (regardless of age) | Rights transfer to **the student** |
+
+**If the student has turned 18 or is enrolled in college**, the parent generally **no longer has the right to inspect records** under FERPA—unless one of the exceptions below applies.
+
+### 2. Exceptions That May Restore Parental Access Even After the Student Turns 18
+
+Even if rights have transferred to the student, there are two notable provisions:
+
+**a) Tax Dependency Exception — Section (b)(1)(H)**
+
+Education records may be disclosed without the student's consent to:
+
+> *"parents of a dependent student of such parents, as defined in section 152 of title 26"*
+
+If the parent claims the former student as a **tax dependent** under IRS rules, the school **may** (though is not strictly *required* to) disclose the records to the parent without the student's consent. Note that this is a **permissive** exception to the consent requirement—it does not mandate disclosure in the same way the inspection right under (a)(1)(A) does.
+
+**b) Health or Safety Emergency — Section (b)(1)(I)**
+
+In an emergency, disclosure to appropriate persons—potentially including parents—is permitted if knowledge of the information is necessary to protect the health or safety of the student or others. This is narrow and situational.
+
+---
+
+## Procedural Requirements You Must Follow
+
+Assuming the parent **does** have the right to inspect (i.e., the student is under 18 and not in postsecondary education), Section (a)(1)(A) imposes clear procedural obligations:
+
+> *"Each educational agency or institution shall establish appropriate procedures for the granting of a request by parents for access to the education records of their children **within a reasonable period of time, but in no case more than forty-five days** after the request has been made."*
+
+You must:
+
+1. **Have established procedures** for processing such requests
+2. **Grant access within a reasonable time**, with an absolute outer limit of **45 days**
+3. Allow inspection of **all education records** as defined in (a)(4)(A)—including grades, disciplinary history, and any other records containing information directly related to the student that are maintained by the school
+
+### What Constitutes "Education Records"?
+
+Under (a)(4)(A), education records include *"those records, files, documents, and other materials which contain information directly related to a student and are maintained by an educational agency or institution."*
+
+This **includes** grades, disciplinary records, attendance records, and similar documents.
+
+It **excludes** certain categories under (a)(4)(B), such as:
+- Sole-possession notes of school personnel not shared with others
+- Law enforcement unit records created for law enforcement purposes
+- Treatment records under specific conditions
+
+---
+
+## Multi-Student Records
+
+If any record contains information about **more than one student**, Section (a)(1)(A) limits the parent's right:
+
+> *"The parents of one of such students shall have the right to inspect and review **only such part** of such material or document as relates to such student or to be informed of the specific information contained in such part."*
+
+So if a disciplinary record references other students, you must **redact** information about those other students before providing access.
+
+---
+
+## Practical Recommendations
+
+1. **Determine the student's current age and enrollment status.** This is the dispositive issue. Ask the parent or check your records.
+
+2. **If the student is under 18 and not in postsecondary education:** You are required to grant the request. Establish a timeline within 45 days, gather the records, redact any information about other students, and provide access.
+
+3. **If the student is 18 or older (or in postsecondary education):** Inform the parent that under Section (d), FERPA rights have transferred to the student. The parent does not have an independent right to inspect unless:
+   - The student consents, or
+   - The student is a tax dependent of the parent (which permits but does not require disclosure), or
+   - Another specific exception applies.
+
+4. **Document everything.** Under (b)(4)(A), you must maintain a record of all individuals, agencies, or organizations that have requested or obtained access to a student's education records, along with their legitimate interest.
+
+5. **Ensure your institution has informed parents and students of their rights**, as required by Section (e), which conditions funding on effectively informing parents and eligible students of their FERPA rights.
+
+---
+
+## Bottom Line
+
+The parent is **correct** that FERPA grants rights regarding a former student's records—the statute explicitly covers students who **"have been in attendance."** Whether those rights still belong to the **parent** or have shifted to the **student** depends entirely on the student's age and postsecondary enrollment status. Clarify that threshold fact, and the answer follows directly.

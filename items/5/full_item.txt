@@ -1,0 +1,11 @@
+Relevant provisions:
+(b)(1)(H) No funds shall be made available under any applicable program to any educational agency or institution which has a policy or practice of permitting the release of education records (or personally identifiable information contained therein other than directory information, as defined in paragraph (5) of subsection (a)) of students without the written consent of their parents to any individual, agency, or organization, other than to the following— . . .(H) parents of a dependent student of such parents, as defined in section 152 of title 26;
+(d) For the purposes of this section, whenever a student has attained eighteen years of age, or is attending an institution of postsecondary education, the permission or consent required of and the rights accorded to the parents of the student shall thereafter only be required of and accorded to the student.
+User Query:
+I am an administrator at a public high school. A parent of a former student has come to our office demanding to see their child’s education records—grades, disciplinary history, etc. The parent says that FERPA gives them the right to inspect their child’s records. Are we required to grant this request?
+Expected follow-up question:
+Is the student eighteen years of age or older, or currently attending an institution of postsecondary education?
+Query continuation:
+User answer to follow-up q: Yes, the student is 20 years old and currently enrolled in university.
+Expected response:
+Final output: No, you are not required to grant the parent’s request. Under FERPA, once a student turns eighteen or begins attending a postsecondary institution, the rights that previously belonged to the parents—including the right to inspect and review education records—transfer to the student. The parent no longer has an independent right of access under FERPA. However, there is an important caveat: FERPA does permit disclosure to parents of a student who is a dependent for federal tax purposes under 26 U.S.C. § 152. So you should determine whether the student qualifies as a tax dependent of the requesting parent before denying the request outright.

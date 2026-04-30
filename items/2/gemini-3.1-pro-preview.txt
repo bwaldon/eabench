@@ -1,0 +1,34 @@
+Based on the text of the Family Educational Rights and Privacy Act (FERPA) provided, **yes, you can be in compliance without parental consent**, but only if your arrangement with the third-party vendor meets strict statutory conditions regarding access, use, and re-disclosure.
+
+Here is the legal analysis of how a State Education Agency (SEA) can permit a vendor to access personally identifiable information (PII) for maintenance and troubleshooting without violating FERPA.
+
+### 1. The Statutory Exception for Third-Party Vendors
+Under **Subsection (b)(1)**, the general rule is that no funds shall be made available to an educational agency that releases PII from education records without written parental consent. 
+
+However, FERPA recognizes that educational agencies frequently outsource administrative and technical functions. 
+* **Subsection (a)(4)(A)(ii)** defines "education records" as materials maintained by an educational agency or institution *"or by a person acting for such agency or institution."* This establishes the legal foundation that a third-party vendor can act on behalf of your agency.
+* **Subsection (b)(1)(A)** provides an exception to the consent requirement for *"school officials... who have been determined by such agency or institution to have legitimate educational interests."* 
+
+By reading these two provisions together, legal and regulatory frameworks allow agencies to designate third-party contractors as "school officials" acting on behalf of the agency, provided they have a legitimate educational interest—which includes performing necessary technical maintenance and troubleshooting on the student data platform.
+
+### 2. Mandatory Conditions for Compliance
+To legally utilize this exception and remain in compliance, your SEA and the vendor must adhere to the following statutory requirements:
+
+**A. Strict Prohibition on Re-disclosure and Misuse**
+Under **Subsection (b)(4)(B)**, personal information can only be transferred to a third party (your vendor) on the strict condition that the vendor *"will not permit any other party to have access to such information without the written consent of the parents of the student."* 
+* **Your Obligation:** Your contract with the vendor must explicitly state that the engineers cannot share this data with any unauthorized parties, nor can they use the data for any purpose other than the specific task of maintaining and troubleshooting the platform. If the vendor violates this, your agency *"shall be prohibited from permitting access to information from education records to that third party for a period of not less than five years."*
+
+**B. Establishing "Legitimate Educational Interest"**
+As required by **Subsection (b)(1)(A)**, your agency must officially determine that the vendor's engineers have a "legitimate educational interest" in accessing the records. System maintenance to ensure the functionality of a student data platform qualifies, but your agency's internal policies should reflect this definition.
+
+**C. Recordkeeping Requirements**
+Under **Subsection (b)(4)(A)**, your agency must maintain a record kept with the education records of each student indicating all individuals, agencies, or organizations that have requested or obtained access to the records, and specifically indicate their legitimate interest. 
+* *Note:* If the vendor is officially designated as a "school official" under (b)(1)(A), this specific logging requirement is generally waived for routine internal access, but the designation must be clear in your annual FERPA notifications and vendor agreements.
+
+### Summary Checklist for the SEA
+To ensure you are fully compliant when granting this access, verify the following:
+1. **The Contract:** Do you have a written agreement with the vendor that prohibits them from using the PII for anything other than platform maintenance?
+2. **Re-disclosure Ban:** Does the contract explicitly forbid the vendor from sharing the data with subcontractors or other third parties without parental consent, as required by (b)(4)(B)?
+3. **Direct Control:** Is the vendor acting as a "person acting for such agency" under your direct control regarding the use and maintenance of the education records?
+
+If these safeguards are legally binding and documented in your vendor agreement, allowing engineers access to troubleshoot the system without parental consent is compliant with FERPA.

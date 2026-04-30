@@ -1,0 +1,117 @@
+# FERPA Analysis: Directory Information Disclosure to Third-Party Career Networking Vendor
+
+## Executive Summary
+
+Your disclosure raises several significant FERPA compliance concerns. While FERPA permits institutions to disclose directory information without prior consent, the permissibility of your specific disclosure depends on whether you satisfied **each procedural requirement** under the statute. Based on the facts presented, there are substantial grounds to question whether your disclosure was fully permissible.
+
+---
+
+## I. Statutory Framework for Directory Information
+
+### A. Definition and Scope
+
+Under **§99.3 (codified from subsection (a)(5)(A))**, directory information includes specific enumerated categories:
+
+> *"the student's name, address, telephone listing, date and place of birth, major field of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, and the most recent previous educational agency or institution attended by the student."*
+
+### B. Critical Threshold Issue: Are Your Designated Categories Proper?
+
+**Student email addresses** are not explicitly enumerated in subsection (a)(5)(A). However, regulatory guidance has generally permitted institutions to designate email addresses as directory information, treating them as analogous to "address" or "telephone listing." This designation is likely **defensible but not beyond challenge**, particularly as email addresses increasingly serve as unique identifiers enabling data aggregation.
+
+**Student ID numbers** present a **far more serious problem**. Under the 2008 amendments and corresponding regulations at **34 C.F.R. §99.3**, a student ID number may be designated as directory information **only if** it cannot be used to gain access to education records except when used in conjunction with one or more factors that authenticate the student's identity, such as a PIN or password. You must evaluate:
+
+- Can the student ID number, standing alone, be used to access any education records system (e.g., the student portal, learning management system, library system)?
+- If yes, your designation of the student ID number as directory information is **improper**, and its disclosure constitutes a **FERPA violation regardless of all other considerations**.
+
+> **Risk Assessment:** If your student ID numbers function as login credentials or can independently access records, this alone renders the disclosure impermissible.
+
+---
+
+## II. Notice Requirements Under Subsection (a)(5)(B)
+
+### A. The Statutory Mandate
+
+Subsection (a)(5)(B) imposes two distinct obligations:
+
+> *"Any educational agency or institution making public directory information **shall give public notice** of the categories of information which it has designated as such information with respect to each student attending the institution or agency and **shall allow a reasonable period of time after such notice has been given for a parent to inform the institution or agency** that any or all of the information designated should not be released without the parent's prior consent."*
+
+Note that under **subsection (d)**, for students who have attained eighteen years of age or are attending an institution of postsecondary education, these rights transfer to the student.
+
+### B. Adequacy of Your Notice
+
+Your notice methodology—a general privacy policy accessible via a link in the student portal—raises multiple concerns:
+
+**1. Was the notice sufficient to constitute "public notice"?**
+
+The statute requires that institutions affirmatively "**give** public notice," which implies an active dissemination obligation, not merely passive availability. Courts and the Department of Education have generally accepted that notice through student handbooks, catalogs, registration materials, and institutional websites can satisfy this requirement. However, the adequacy depends on the totality of circumstances:
+
+- **Accessibility**: A link buried within a student portal, not prominently displayed, may be insufficient. Is the link labeled clearly? Is it on the portal's main page or nested within submenus?
+- **Conspicuousness**: FERPA's notice requirement contemplates that students will actually be informed. A general privacy policy that students are never required to acknowledge, and that is not affirmatively drawn to their attention, occupies the **weakest possible position** on the spectrum of acceptable notice methods.
+- **Specificity**: The notice must identify the **specific categories** of information designated as directory information. A generic privacy policy that merely references "directory information" without clearly enumerating that student email addresses and student ID numbers are included would be **insufficient**.
+
+**2. Best practices comparison:**
+
+Institutions with robust compliance programs typically employ **multiple, redundant notice channels**:
+- Annual notification via email to student accounts
+- Inclusion in registration or enrollment materials
+- Prominent website posting with clear labeling
+- Language in the course catalog or student handbook
+
+Your reliance on a **single passive mechanism** without any affirmative notification creates meaningful vulnerability.
+
+> **Assessment:** Your notice methodology is **questionable** and may not satisfy the "give public notice" requirement, particularly if the policy is not prominently displayed or specifically identifies the categories disclosed.
+
+### C. The Opt-Out Period
+
+Subsection (a)(5)(B) requires that you **"allow a reasonable period of time after such notice has been given"** for the student to opt out.
+
+Critical questions include:
+
+- **When was the notice posted relative to the disclosure?** If the policy was posted at the beginning of a term and the disclosure occurred shortly thereafter, was the intervening period "reasonable"?
+- **Was the opt-out period clearly communicated?** Did the policy specify a deadline by which students must opt out, and was that deadline reasonable?
+- **Was the opt-out mechanism clearly described?** Did the policy explain how students should submit opt-out requests?
+
+If your policy does not specify an opt-out deadline or mechanism with reasonable clarity, this creates an independent compliance failure.
+
+---
+
+## III. The Student's Opt-Out Attempt
+
+This is perhaps the **most problematic element** of your situation.
+
+### A. The Factual Problem
+
+The student claims to have emailed the registrar to opt out. The student received no confirmation. The student's information was subsequently disclosed. This sequence of events raises the question: **did you effectively deny the student's right to opt out?**
+
+### B. Statutory Analysis
+
+Subsection (a)(5)(B) provides that the institution "shall allow" the student to "inform the institution or agency that any or all of the information designated should not be released without the parent's prior consent." The statute does not prescribe a particular method by which the student must communicate this preference, nor does it condition the opt-out right on the institution's acknowledgment.
+
+Consider the following analytical framework:
+
+**Scenario 1: The student's email was received but not processed.**
+This is the worst case. If the registrar's office received the opt-out request and failed to act on it, you **effectively prevented** the student from exercising their statutory right. The disclosure would be **impermissible**, and this would constitute a clear FERPA violation. Note the language of subsection (a)(1)(A), which applies to institutions that have "a policy of denying, **or which effectively prevents**" the exercise of rights under the statute. This "effectively prevents" language captures systemic failures, not merely intentional denials.
+
+**Scenario 2: The student's email was never received (e.g., spam filter, wrong address).**
+This is more nuanced. If the student directed the communication to the correct office using a method that was either specified by the institution or reasonably calculated to reach the institution, the risk falls on the institution. If the student sent the email to the wrong office or an incorrect address, the analysis shifts—but even then, you must ask whether your opt-out procedures were sufficiently clear to guide the student.
+
+**Scenario 3: The student's email was received, and a timely response was sent, but the student did not receive it.**
+This creates the least institutional liability, but you bear the burden of demonstrating that the opt-out was processed and the information was suppressed from subsequent disclosures.
+
+### C. Institutional Obligation to Maintain Procedures
+
+Subsection (a)(1)(A) requires that institutions "establish appropriate procedures for the granting of a request by parents for access to the education records of their children within a reasonable period of time." While this provision specifically addresses access requests, it reflects a broader statutory expectation that institutions maintain **functional, responsive administrative procedures** for handling FERPA-related requests. The failure to acknowledge or process an opt-out request suggests a procedural deficiency.
+
+> **Assessment:** Unless you can demonstrate that the student's opt-out request was properly received, acknowledged, and processed—and that the disclosure occurred only with respect to information for which no opt-out was on file—the disclosure is likely **impermissible**.
+
+---
+
+## IV. Third-Party Vendor Disclosure: Additional Concerns
+
+### A. The Nature of the Disclosure
+
+Even if directory information is properly designated and all notice and opt-out requirements are satisfied, you should consider whether the **nature and purpose** of the disclosure raises additional concerns.
+
+Directory information, by definition, may be disclosed to **any person** without consent. However, sharing directory information as part of a **dataset** provided to a third-party vendor for commercial aggregation purposes warrants careful analysis:
+
+**1. Subsection (b)(4)(B) — Third-

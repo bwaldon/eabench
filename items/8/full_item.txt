@@ -1,0 +1,12 @@
+Relevant provision (emphasis added):
+(b)(2)(B): No funds shall be made available under any applicable program to any educational agency or institution which has a policy or practice of releasing, or providing access to, any personally identifiable information in education records other than directory information, or as is permitted under paragraph (1) of this subsection, unless— except as provided in paragraph (1)(J), such information is furnished in compliance with judicial order, or pursuant to any lawfully issued subpoena, upon condition that parents and the students are notified of all such orders or subpoenas in advance of the compliance therewith by the educational institution or agency, except when a parent is a party to a court proceeding involving child abuse and neglect… and the order is issued in the context of that proceeding, additional notice to the parent by the educational agency or institution is not required.
+
+(b)(1)(J)(ii): the entity or persons designated in any other subpoena issued for a law enforcement purpose, in which case the court or other issuing agency may order, for good cause shown, the educational agency or institution (and any officer, director, employee, agent, or attorney for such agency or institution) on which the subpoena is served, to not disclose to any person the existence or contents of the subpoena or any information furnished in response to the subpoena;
+User Query:
+I am the principal of a middle school. We just received a subpoena demanding education records for one of our students. Under FERPA, can we hand over the records?
+Expected follow-up question:
+What type of subpoena is it—a federal grand jury subpoena, a law enforcement subpoena, or a standard civil or judicial subpoena?
+Query continuation:
+User answer to follow-up q: It is a law enforcement subpoena.
+Expected response:
+Final output: Yes, FERPA permits you to comply with a law enforcement subpoena. But there is an important caveat: unless the court orders your school not to disclose the existence or contents of the subpoena, parents and students must be notified in advance of your compliance with the subpoena. The other exception to this requirement comes when the subpoena concerns a child abuse or neglect case that involves a parent of the child. In that case, the parent involved in the case does not need to be notified. 

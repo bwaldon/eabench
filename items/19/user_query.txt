@@ -1,0 +1,4 @@
+A university’s campus police department maintains two types of incident reports:
+Reports created solely for law enforcement purposes (e.g., criminal investigation of theft in dorms), stored in the police database;
+Reports that document student behavior violations for the university’s disciplinary office, sometimes overlapping with the criminal investigation.
+A parent requests access to an incident report concerning their 19-year-old child, claiming they want to understand the disciplinary outcome. The campus police argue that the report is protected under FERPA because it contains the student’s education record, while the registrar believes the parent may have rights to see it under directory/record disclosure provisions.

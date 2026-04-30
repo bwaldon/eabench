@@ -1,0 +1,84 @@
+Usually **no, not without consent**, unless a specific FERPA exception applies.
+
+## Short answer
+A police department does **not automatically** get access to a student’s education records. Under FERPA, you generally need:
+
+1. **Written consent** from the parent or eligible student, **or**
+2. A valid **FERPA exception**, such as:
+   - a **lawfully issued subpoena or court order**
+   - a genuine **health or safety emergency**
+   - records that are **not FERPA education records** in the first place, such as certain **law enforcement unit records**
+
+## Key FERPA rules
+Under **20 U.S.C. § 1232g(b)(1)–(2)**, schools may not disclose education records or personally identifiable information without consent unless an exception applies.
+
+## When you may disclose to police
+
+### 1. Subpoena or court order
+You may disclose if the request is backed by a **judicial order or lawfully issued subpoena**.  
+FERPA generally requires **advance notice to the parent or eligible student** before complying, unless:
+
+- it is a **federal grand jury subpoena**, or
+- another law-enforcement subpoena/order specifically directs **non-disclosure**, or
+- it is in certain child abuse/neglect or dependency proceedings.
+
+Relevant text: **§ 1232g(b)(2)(B)** and **§ 1232g(b)(1)(J)**.
+
+### 2. Health or safety emergency
+You may disclose to **appropriate persons**, including police, if knowledge of the information is **necessary to protect the health or safety of the student or others**.  
+Relevant text: **§ 1232g(b)(1)(I)**.
+
+This is typically interpreted narrowly: there should be an **articulable and significant threat**.
+
+### 3. Law enforcement unit records
+If your institution has a FERPA-defined **law enforcement unit**, records **created by that unit for law enforcement purposes** are generally **not education records** under FERPA.  
+Relevant text: **§ 1232g(a)(4)(B)(ii)**.
+
+So if the police are asking for:
+- a campus police incident report created and maintained by the campus police for law enforcement purposes, FERPA may not restrict disclosure of that record.
+- but if they are asking for registrar, disciplinary, attendance, grade, or counseling records, those are often FERPA-protected education records.
+
+### 4. Terrorism-related court order
+There is also a special provision allowing disclosure pursuant to a court order in certain terrorism investigations.  
+Relevant text: **§ 1232g(j)**.
+
+## When you generally may not disclose
+If the police simply ask informally for:
+- transcripts
+- grades
+- attendance
+- discipline file
+- class schedule
+- address from the student file
+- advising or academic records
+
+then **FERPA usually prohibits disclosure** unless consent or a specific exception applies.
+
+## Important distinction: directory information
+Some limited information may be released if your school has properly designated it as **directory information** and the student has **not opted out**.  
+Relevant text: **§ 1232g(a)(5)**.
+
+But be careful: whether something is directory information depends on your institution’s published FERPA notice and opt-out process.
+
+## Practical rule
+Ask:
+
+1. **What exact records are being requested?**
+2. **Are they education records?**
+3. **Do we have student/parent consent?**
+4. **Is there a subpoena/court order?**
+5. **Is there a true health/safety emergency?**
+6. **Are these law enforcement unit records instead of education records?**
+
+## Best practice response
+If police request records, do **not** release immediately unless your FERPA officer/counsel confirms a valid basis. You can respond:
+
+> “Student records are protected by FERPA. We can review your request upon receipt of written consent, a valid subpoena/court order, or if a recognized FERPA emergency exception applies.”
+
+## Bottom line
+**No, you do not have to provide student records to a police department just because they ask.**  
+You may provide them **only if**:
+- you have **consent**, or
+- a **FERPA exception** applies, most commonly a **subpoena/court order**, **health/safety emergency**, or the records are **law enforcement unit records** rather than education records.
+
+If you want, I can turn this into a **decision tree** or help analyze a **specific police request**.

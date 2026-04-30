@@ -1,0 +1,24 @@
+Based on the provided text of the Family Educational Rights and Privacy Act (FERPA), here is the legal analysis regarding your two questions:
+
+### 1. Who is the rights-holder: the parent or the student?
+**The student is the rights-holder.** 
+
+According to **Subsection (d) (STUDENTS’ RATHER THAN PARENTS’ PERMISSION OR CONSENT)**, the rights normally accorded to parents transfer exclusively to the student if *either* of two conditions are met:
+1. The student has attained eighteen years of age; **OR**
+2. The student is attending an institution of postsecondary education.
+
+Because your 17-year-old student is enrolled and attending your university (an institution of postsecondary education), all FERPA rights regarding consent and access to education records have transferred directly to the student. The parent does not have an automatic right to inspect or review the records, nor do they have the right to provide consent for their release. 
+
+*Note on a relevant exception:* While the student is the primary rights-holder, **Subsection (b)(1)(H)** does allow (but does not require) an educational institution to release records to the parents of a dependent student without the student's written consent, provided the student is claimed as a dependent for tax purposes under Section 152 of Title 26 (the Internal Revenue Code). 
+
+### 2. Does your general notice practice satisfy FERPA’s requirements?
+**Yes, your notice practice is fundamentally sound under FERPA.**
+
+According to **Subsection (e) (INFORMING PARENTS OR STUDENTS OF RIGHTS UNDER THIS SECTION)**, an institution must "effectively inform[] the parents of students, **or** the students, if they are eighteen years of age or older, **or are attending an institution of postsecondary education**, of the rights accorded them by this section."
+
+Because all of your enrolled undergraduate students—regardless of whether they are 17 or 18—meet the condition of "attending an institution of postsecondary education," the rights belong entirely to the students. Therefore:
+* You are only required by FERPA to notify the *students* of their rights, not the parents. 
+* There is no statutory requirement in the provided text to distinguish between students over 18 and those under 18, because age is irrelevant once they matriculate into a postsecondary institution. 
+* Providing this notice generally via online publication and in orientation materials typically satisfies the requirement to "effectively inform" the students of their rights. 
+
+**Summary for the University:** You should politely decline the parent's request for access (unless they can prove the student is a tax dependent and you choose to exercise that exception, or the student provides written consent under (b)(2)(A)). Furthermore, you can confidently inform the parent that under FERPA, the university's obligation to provide notice of rights is owed to the enrolled postsecondary student, not the parent.

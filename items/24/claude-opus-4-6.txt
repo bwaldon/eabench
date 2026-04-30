@@ -1,0 +1,93 @@
+# FERPA Access Log Requirements: Your Obligations
+
+## The Short Answer
+
+**Yes, you are obligated to provide this information, and your district is almost certainly in violation of FERPA for not maintaining such a log in the first place.**
+
+---
+
+## The Statutory Basis
+
+The requirement comes directly from **Section (b)(4)(A)**, which is unambiguous:
+
+> "Each educational agency or institution **shall maintain** a record, kept with the education records of each student, which will indicate **all individuals** (other than those specified in paragraph (1)(A) of this subsection), **agencies, or organizations which have requested or obtained access** to a student's education records maintained by such educational agency or institution, and which will indicate specifically **the legitimate interest** that each such person, agency, or organization has in obtaining this information."
+
+This is not discretionary language. The word "**shall**" creates a mandatory obligation.
+
+---
+
+## What the Law Requires You to Maintain
+
+The access log must document:
+
+1. **Every individual, agency, or organization** that requested or obtained access
+2. **The specific legitimate interest** each requester had in obtaining the information
+3. This record must be **kept with the education records** of each student
+
+## The One Critical Exception
+
+The statute carves out **one narrow category** that does **not** need to be logged:
+
+> Those specified in **paragraph (1)(A)** — meaning "other school officials, including teachers within the educational institution or local educational agency, who have been determined by such agency or institution to have legitimate educational interests"
+
+So internal school officials with legitimate educational interests are exempt from the logging requirement. **Everyone else must be logged.**
+
+---
+
+## Who Can See the Access Log?
+
+Section (b)(4)(A) specifies that the access record shall be available only to:
+
+- **Parents**
+- **The school official (and assistants) responsible for custody of the records**
+- **Authorized representatives** under clauses (A) and (C) of paragraph (1) — the Comptroller General, the Secretary, and State educational authorities — for auditing purposes
+
+The parent in your scenario **has an explicit statutory right** to review this log.
+
+---
+
+## Your Immediate Problem
+
+You face several compounding issues:
+
+### 1. The Compliance Violation
+Your district's failure to maintain these logs is itself a policy or practice that violates FERPA. Under **Section (f)**, the Secretary is empowered to take enforcement action when there has been "a failure to comply with this section." The absence of a centralized — or any — logging system means your district has been non-compliant for as long as you have lacked this practice.
+
+### 2. The Parent's Request
+Under **Section (a)(1)(A)**, the parent has a right to inspect and review her child's education records. The access log is, by statute, kept **with** the education records and is explicitly available to parents. You must respond within **45 days** of the request.
+
+### 3. The Practical Difficulty
+You cannot produce what you have not maintained. This creates a deeply uncomfortable situation: you have a legal obligation to provide a record that you have failed to create.
+
+---
+
+## Recommended Course of Action
+
+### Immediate Steps
+
+1. **Do not ignore or deny the parent's request.** Denying access is precisely the kind of policy or practice that can trigger a funding consequences analysis under Section (a)(1)(A).
+
+2. **Conduct a good-faith reconstruction** of what access information you *can* determine. This may include:
+   - Electronic access logs from your Student Information System (SIS), if it tracks user access
+   - Copies of signed consent forms under Section (b)(2)(A)
+   - Records of subpoena compliance under Section (b)(2)(B)
+   - Records of transfers to other school systems under Section (b)(1)(B)
+   - Any disclosures to outside agencies, researchers, or organizations under the various (b)(1) exceptions
+
+3. **Respond to the parent honestly within 45 days**, providing whatever information you can reconstruct and acknowledging gaps transparently.
+
+### Systemic Remediation
+
+4. **Implement a compliant logging system immediately.** Every disclosure outside of the (1)(A) school-officials exception must be recorded going forward, including the identity of the requester and their specific legitimate interest.
+
+5. **Audit your SIS and other record systems** to determine whether any electronic audit trails exist that could serve as retrospective documentation.
+
+6. **Update your district's FERPA policies and annual notifications** under **Section (e)** to reflect corrected practices.
+
+7. **Consider consulting with your district's legal counsel** about whether to self-report the compliance gap, particularly if the parent files a complaint with the Department of Education's **Student Privacy Policy Office** (established under **Section (g)**).
+
+---
+
+## The Bottom Line
+
+The statute is clear: the logging obligation is mandatory, the parent's right to see the log is explicit, and your district's failure to maintain it is a compliance failure. Your best path forward is **transparency, good-faith reconstruction, and immediate systemic correction** — not defensiveness or denial. A forthcoming posture significantly reduces the risk that this escalates to a formal complaint and federal enforcement action.

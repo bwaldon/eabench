@@ -1,0 +1,89 @@
+# Analysis of Record Disclosure to a National Scholarship Foundation Without Student Consent
+
+## Short Answer
+
+You **cannot** disclose all three categories of records without the student's written consent under these circumstances. Let me break down each record type and the applicable provisions.
+
+---
+
+## Detailed Analysis by Record Type
+
+### 1. Academic Transcript
+
+**Likely disclosable**, but only under a narrow reading of the financial aid exception.
+
+Subsection **(b)(1)(D)** permits disclosure of education records without consent:
+
+> *"in connection with a student's application for, or receipt of, financial aid"*
+
+A scholarship is a form of financial aid. If the student has **applied for** this scholarship, disclosure of the transcript to the scholarship foundation could fall within this exception. However, note the critical limitation:
+
+- The disclosure must be **"in connection with"** the student's application for or receipt of financial aid.
+- If the student has **not actually applied** for this scholarship—i.e., the foundation is independently soliciting the information—this exception would **not** apply.
+
+---
+
+### 2. Disciplinary Record
+
+**Almost certainly not disclosable** without consent under these facts.
+
+While subsection **(b)(1)(D)** permits disclosure in connection with financial aid, a **disciplinary record** raises significant concerns:
+
+- The financial aid exception does not provide a blanket authorization to disclose **any and all** education records to a financial aid provider. The disclosure must be **relevant to** and **in connection with** the aid determination.
+- If the scholarship foundation's criteria do not explicitly require disciplinary information for eligibility purposes, sharing this record would likely exceed the scope of the exception.
+- Subsection **(h)** does allow disclosure of disciplinary records, but **only to teachers and school officials** who have legitimate educational interests—not to external scholarship foundations.
+- Subsection **(b)(6)**, which permits disclosure of disciplinary proceedings results, applies only to **crimes of violence or nonforcible sex offenses** at **postsecondary institutions**, and only under specific conditions. A general request from a scholarship foundation does not satisfy this provision.
+
+---
+
+### 3. Financial Aid File
+
+**This is the most problematic category.**
+
+The student's financial aid file likely contains:
+
+- **Parent financial records** (tax returns, income information, asset disclosures)
+- Student financial information
+- Possibly FAFSA data
+
+Subsection **(a)(1)(C)(i)** explicitly provides:
+
+> *"financial records of the parents of the student or any information contained therein"*
+
+are **not** made available even to the **student** at postsecondary institutions. This is a categorical exclusion. While this provision specifically addresses student access rights rather than third-party disclosure, it underscores the **heightened sensitivity** Congress placed on parental financial information.
+
+Even under the **(b)(1)(D)** financial aid exception, disclosing the **entire financial aid file**—as opposed to targeted information necessary for the scholarship determination—would likely be considered overbroad and inconsistent with FERPA's minimum-necessary principles.
+
+---
+
+## Summary Table
+
+| Record | Disclosable Without Consent? | Governing Provision |
+|---|---|---|
+| Academic Transcript | **Conditionally yes**, if the student applied for the scholarship | (b)(1)(D) – financial aid exception |
+| Disciplinary Record | **No**, absent specific relevance to aid eligibility and student consent | No applicable exception covers this |
+| Financial Aid File | **No**, particularly parent financial records; overbroad even under (b)(1)(D) | (a)(1)(C)(i) protects parent financials; (b)(1)(D) does not authorize wholesale file sharing |
+
+---
+
+## Recommended Course of Action
+
+1. **Obtain the student's written consent** under subsection **(b)(2)(A)**, which requires the consent to specify:
+   - The records to be released
+   - The reasons for the release
+   - To whom the records will be released
+   - A copy provided to the student if desired
+
+2. If consent cannot be obtained, you may **only** disclose the transcript under **(b)(1)(D)** if and only if the student has actually applied for the scholarship and the transcript is relevant to the aid determination.
+
+3. **Do not disclose** the disciplinary record or the financial aid file without written consent.
+
+4. **Document** any disclosure in the student's access record as required by subsection **(b)(4)(A)**, noting the scholarship foundation's identity and their legitimate interest.
+
+---
+
+## Critical Caveat
+
+Even where an exception technically permits disclosure, subsection **(b)(4)(B)** requires that any third party receiving records agree **not to permit further access** without parental (or eligible student) written consent. You should ensure any permissible disclosure is conditioned on this requirement in writing.
+
+The safest and most legally defensible path is to **obtain the student's written consent before releasing any of the three categories of records**.

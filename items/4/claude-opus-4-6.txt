@@ -1,0 +1,82 @@
+# FERPA Compliance: Parental Access to Education Records
+
+## Short Answer
+
+**Yes, denying the parents' request would almost certainly put your district out of compliance with FERPA.**
+
+The statute is unambiguous on this point. Let me walk you through the specific provisions that apply.
+
+---
+
+## The Core Mandate
+
+Under **subsection (a)(1)(A)**, the law states:
+
+> *"No funds shall be made available under any applicable program to any educational agency or institution which has a policy of denying, or which **effectively prevents**, the parents of students who are or have been in attendance at a school of such agency...the right to **inspect and review the education records** of their children."*
+
+There are two critical things to note here:
+
+1. **It covers both formal policies *and* practical obstruction.** Even if your district has no written policy of denial, if your actions "effectively prevent" access, you are in violation.
+2. **The consequence is the potential loss of federal funding** — a significant enforcement mechanism.
+
+---
+
+## Your Affirmative Obligations
+
+FERPA doesn't merely say "don't deny access." It imposes **specific procedural requirements**:
+
+### 1. You Must Establish Access Procedures
+The statute requires that:
+> *"Each educational agency or institution shall establish **appropriate procedures** for the granting of a request by parents for access to the education records of their children."*
+
+### 2. You Must Comply Within 45 Days
+> *"...within a reasonable period of time, but **in no case more than forty-five days** after the request has been made."*
+
+This is a hard deadline, not a suggestion.
+
+### 3. You Must Inform Parents of Their Rights
+Under **subsection (e)**:
+> *"No funds shall be made available under any applicable program to any educational agency or institution unless such agency or institution **effectively informs** the parents of students...of the rights accorded them by this section."*
+
+---
+
+## Limited Exceptions to Keep in Mind
+
+While access is broadly guaranteed, there are a few narrow limitations:
+
+- **Multi-student records**: If a document contains information on more than one student, the requesting parent has the right to inspect **only the portion relating to their child** — per subsection (a)(1)(A).
+- **Postsecondary students**: Certain materials (parental financial records, certain pre-1975 confidential recommendations, waived confidential recommendations) are excepted under subsection (a)(1)(C) — but this applies to **postsecondary institutions**, likely not your situation as a superintendent of a K-12 district.
+- **Transfer of rights**: Under **subsection (d)**, once a student turns **18** or attends a postsecondary institution, the rights transfer from the parents to the student.
+
+---
+
+## What the Parents Can Also Do
+
+Beyond inspection and review, be aware that under **subsection (a)(2)**, parents also have the right to:
+
+- **A hearing** to challenge the content of the records if they believe they are inaccurate, misleading, or in violation of privacy rights
+- **Correction or deletion** of inappropriate data
+- **Insert a written explanation** into the record regarding content they dispute
+
+---
+
+## Enforcement Risk
+
+Under **subsection (f)**, the Secretary of Education is authorized to take action to enforce FERPA, including **termination of federal funding** — though only after determining that voluntary compliance cannot be achieved. Additionally, under **subsection (g)**, there is a dedicated office within the Department of Education for investigating complaints and adjudicating violations.
+
+If these parents file a complaint, your district would face a formal review process.
+
+---
+
+## My Recommendation
+
+As superintendent, you should:
+
+1. **Grant the request** and provide access within 45 days
+2. **Verify that your district has established written procedures** for handling such requests, as required by the statute
+3. **Ensure that you are only disclosing the portions** of records that relate to each requesting parent's own child
+4. **Document your compliance** — maintain the access records required under subsection (b)(4)(A)
+
+**Denying this request is not a legally defensible position under FERPA.** The statute was specifically designed to guarantee this right, and the consequence of noncompliance is the jeopardy of your district's federal funding.
+
+Would you like guidance on any specific aspect of implementing the access procedures?

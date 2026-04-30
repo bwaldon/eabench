@@ -1,0 +1,62 @@
+# Complying with a Subpoena for Student Education Records Under FERPA
+
+Yes, you can comply with a subpoena for student education records, but **FERPA imposes specific conditions you must satisfy before doing so.** Let me walk you through the requirements.
+
+---
+
+## The Core Rule: Subsection (b)(2)(B)
+
+FERPA permits disclosure of education records pursuant to a **lawfully issued subpoena**, but only on the condition that:
+
+> **The parents and the student are notified of the subpoena in advance of your compliance.**
+
+This advance notice requirement is critical. It gives the family the opportunity to seek to quash or modify the subpoena before you release the records.
+
+---
+
+## The Key Exception to the Notice Requirement
+
+There are **two situations** where advance parental notice is **not** required:
+
+1. **Federal grand jury subpoenas** — Under subsection (b)(1)(J)(i), if a court issues a good-cause order directing your school **not to disclose** the existence or contents of the subpoena, you must comply with that gag order and cannot notify the parent.
+
+2. **Other law enforcement subpoenas** — Under subsection (b)(1)(J)(ii), a court or issuing agency **may** order non-disclosure for good cause, similarly excusing the notice requirement.
+
+3. **Child abuse/neglect or dependency proceedings** — If a parent is a party to a court proceeding involving child abuse and neglect or dependency matters, and the subpoena is issued in that context, **additional notice to the parent is not required.**
+
+---
+
+## Your Step-by-Step Checklist
+
+Before releasing any records, I recommend the following:
+
+1. **Verify the subpoena is lawfully issued** — Confirm it comes from a court or other body with proper authority.
+
+2. **Check whether a non-disclosure order accompanies it** — If the subpoena includes a court order prohibiting you from notifying the family, you must honor that order and may release the records without notice.
+
+3. **If no non-disclosure order exists, provide advance notice** — Notify the parents (or the student, if 18 or older or attending a postsecondary institution) before you comply. Give them reasonable time to take legal action if they choose.
+
+4. **Document the disclosure** — Under subsection (b)(4)(A), you must **maintain a record of access** in the student's education records indicating who requested or obtained access and the legitimate interest involved.
+
+5. **Limit what you release** — Provide only the records specifically identified in the subpoena. Do not volunteer additional information.
+
+6. **Impose third-party conditions** — Under subsection (b)(4)(B), personally identifiable information transferred to a third party should be conditioned on that party not permitting further access without written parental consent.
+
+---
+
+## Important Practical Considerations
+
+| Issue | Guidance |
+|---|---|
+| **Written parental consent** | A subpoena is a **statutory exception** to the consent requirement — you do not need parental consent, but you **do** need to provide notice |
+| **Directory information** | If the subpoena only seeks directory information, separate rules under (a)(5) may apply |
+| **Terrorism investigations** | Subsection (j) provides a distinct process involving ex parte court orders where the Attorney General seeks records — different rules apply there |
+| **Timing** | FERPA does not specify a precise notice period before compliance, but "advance" notice should be meaningful enough to allow the family to respond |
+
+---
+
+## Bottom Line
+
+**You may comply with the subpoena, but in most cases you must first notify the parents and give them an opportunity to respond before releasing the records.** The only exceptions are where a court has specifically ordered non-disclosure, or where the proceeding involves child abuse, neglect, or dependency and the parent is a party.
+
+Given the legal stakes involved, I would also recommend **consulting your district's legal counsel** before releasing any records to ensure full compliance with both FERPA and any applicable state privacy laws.

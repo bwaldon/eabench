@@ -1,0 +1,14 @@
+Based on the provided text of FERPA, **yes, you may send the records.** 
+
+Under **subsection (b)(1)(B)**, an educational agency or institution is permitted to release a student's education records without the prior written consent of the parents to:
+
+> *"officials of other schools or school systems in which the student seeks or intends to enroll..."*
+
+Because the student has enrolled in the neighboring high school, you may forward their complete education records to that school's officials. 
+
+However, FERPA requires that you do so **upon the following conditions**:
+1. **Notification:** The student's parents must be notified that the records are being transferred.
+2. **Access:** The parents must be able to receive a copy of the transferred record if they desire one.
+3. **Hearing:** The parents must be provided an opportunity for a hearing to challenge the content of the record (as outlined in subsection (a)(2)) if they believe the records are inaccurate, misleading, or otherwise inappropriate. 
+
+*(Note: In practice, many school districts satisfy this notification requirement by including a statement in their annual FERPA notice to parents stating that the district routinely forwards records to other schools that have requested the records and in which the student seeks or intends to enroll.)*

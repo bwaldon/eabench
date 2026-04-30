@@ -1,0 +1,104 @@
+# FERPA Analysis: SEA Disclosure of Student-Level Data to Third-Party Researchers
+
+## Short Answer
+
+This disclosure is **potentially permissible**, but it presents **significant legal risk** under FERPA as currently structured, and permissibility depends on precisely how the arrangement is structured, which exception governs the onward disclosure, and whether the retained student identifiers constitute "personally identifiable information." Let me walk through the analysis systematically.
+
+---
+
+## I. The Initial Collection: The Audit and Evaluation Exception
+
+Your initial collection of student-level data from universities was conducted under **subsection (b)(3)**, which permits authorized representatives of State educational authorities to access student records in connection with:
+
+> *"the audit and evaluation of Federally-supported education programs, or in connection with the enforcement of the Federal legal requirements which relate to such programs"*
+
+This is well-established. As an SEA, you are explicitly enumerated in subsection (b)(3)(C), and accessing student-level data for program assessment falls squarely within this authority.
+
+**However**, subsection (b)(3) contains a critical proviso:
+
+> *"any data collected by such officials shall be protected in a manner which will not permit the personal identification of students and their parents by other than those officials, and such personally identifiable data shall be destroyed when no longer needed for such audit, evaluation, and enforcement of Federal legal requirements."*
+
+This proviso imposes **two ongoing obligations**:
+
+1. **Protection obligation**: Data must be protected so that personal identification is not possible by anyone other than the authorized representatives themselves.
+2. **Destruction obligation**: Personally identifiable data must be destroyed when no longer needed.
+
+These obligations constrain every subsequent action you take with the data, including any onward disclosure.
+
+---
+
+## II. The Core Legal Question: Onward Disclosure to a Third-Party Research Organization
+
+This is where the analysis becomes complex. There are **several potential legal pathways** for this disclosure, each with distinct requirements and vulnerabilities.
+
+### Pathway A: The Third Party as Your "Authorized Representative"
+
+Under the Department of Education's regulations at **34 C.F.R. § 99.3** and **§ 99.35**, the term "authorized representative" is defined to include entities that an SEA designates to conduct audit, evaluation, or enforcement activities on its behalf. The 2011 regulatory amendments (76 Fed. Reg. 75604) specifically broadened the concept of "authorized representative" to encompass contractors and other outside parties.
+
+Under **34 C.F.R. § 99.35(a)(2)**, an SEA may designate an authorized representative to carry out audit or evaluation functions, provided the SEA:
+
+- Uses **reasonable methods** to ensure compliance with FERPA;
+- Enters into a **written agreement** with the designee specifying the purpose, scope, and duration of the activity, the data to be disclosed, and requiring the designee to:
+  - Use personally identifiable information only for the authorized purpose;
+  - Protect the data in accordance with FERPA;
+  - **Destroy the personally identifiable information when no longer needed** for the authorized purpose.
+
+**This is likely your strongest pathway.** If your third-party research organization is formally designated as your authorized representative under a written agreement that satisfies 34 C.F.R. § 99.35, the disclosure can be structured as a continuation of your audit and evaluation authority, not as a separate release to an outside party.
+
+**Critical analysis, however**: Even under this pathway, the proviso in subsection (b)(3) still applies. The data must be *"protected in a manner which will not permit the personal identification of students and their parents by other than those officials."* The phrase "those officials" refers to the authorized representatives of the SEA. If your third-party organization qualifies as your authorized representative, they arguably fall within "those officials," and the retention of student identifiers by them would be permissible so long as the protective conditions are met.
+
+### Pathway B: The Studies Exception — Subsection (b)(1)(F)
+
+Subsection (b)(1)(F) permits disclosure to:
+
+> *"organizations conducting studies for, or on behalf of, educational agencies or institutions for the purpose of developing, validating, or administering predictive tests, administering student aid programs, and improving instruction"*
+
+This exception requires that:
+
+1. Studies are conducted so as **not to permit personal identification** of students and parents by persons other than representatives of the organization;
+2. The information **will be destroyed when no longer needed** for the study purpose.
+
+**Problem**: This exception contains a stricter de-identification standard than Pathway A. The statute requires that the study be conducted "in such a manner as will not permit the personal identification of students." Your plan to **retain unique student identifiers** — even pseudonymous ones — creates tension with this requirement because such identifiers, combined with other data elements in the dataset (dates of attendance, major field of study, demographic characteristics, degrees received), could permit re-identification through linkage attacks or inference, particularly for students with unusual combinations of attributes.
+
+Moreover, this exception by its terms applies to disclosures by **educational agencies or institutions**. You, as an SEA, are disclosing data that you collected from universities. There is a technical question whether this exception authorizes **onward** disclosure of data an SEA collected under (b)(3), or whether it only authorizes the original educational agency or institution to disclose directly to the research organization. The regulatory framework suggests the former is permissible if you are acting as an educational agency, but this is not beyond dispute.
+
+### Pathway C: De-identification Under 34 C.F.R. § 99.31(b)
+
+FERPA's restrictions apply only to **personally identifiable information**. Under the regulations, if data has been properly **de-identified**, it is no longer subject to FERPA, and can be shared freely.
+
+Under **34 C.F.R. § 99.31(b)(1)**, an educational agency or institution (or SEA) may release records without consent if all personally identifiable information has been removed, and the agency reasonably determines that a student's identity is **not personally identifiable**, whether through single or combined data elements, considering other reasonably available information.
+
+**This is where your plan is most vulnerable.**
+
+You propose to:
+- Remove direct identifiers (names, SSNs) ✓
+- Retain unique student identifiers for longitudinal tracking ✗ (potentially)
+- Retain other data elements (unstated, but presumably demographic, enrollment, and outcome data)
+
+The retention of **unique student identifiers** is legally significant. Even though these are not "names" or "Social Security numbers," FERPA's definition of personally identifiable information at **34 C.F.R. § 99.3** includes:
+
+> *(a) The student's name;*
+> *(b) The name of the student's parent or other family member;*
+> *(c) The address of the student or student's family;*
+> *(d) A personal identifier, such as the student's social security number, student number, or biometric record;*
+> *(e) Other indirect identifiers, such as the student's date of birth, place of birth, and mother's maiden name;*
+> *(f) Other information that, alone or in combination, is linked or linkable to a specific student that would allow a reasonable person in the school community, who does not have personal knowledge of the relevant circumstances, to identify the student with reasonable certainty; or*
+> *(g) Information requested by a person who the educational agency or institution reasonably believes knows the identity of the student to whom the education record relates.*
+
+A **unique student identifier** — even one that is a randomly assigned pseudonym rather than the original institutional student ID — falls under category **(d)** as a "personal identifier" or under category **(f)** as information that is "linked or linkable to a specific student." The identifier, by design, is linked to a specific student in your master dataset; that linkage is what makes longitudinal analysis possible. The fact that the **third party** cannot decode the identifier without your crosswalk does not change the fact that the identifier is personally identifiable information **in your hands** and arguably remains so in the third party's hands because it is linkable back to a specific student through you.
+
+Therefore, this dataset **cannot be considered de-identified** under FERPA as long as unique student identifiers are retained, and the de-identification pathway is **not available** to you.
+
+---
+
+## III. The Recommended Pathway and Its Requirements
+
+**Pathway A — designation of the third party as your authorized representative — is the legally sound approach**, subject to the following requirements:
+
+### 1. Written Agreement (34 C.F.R. § 99.35(a)(3))
+
+You must execute a written agreement that specifies:
+
+- (i) The **purpose** of the disclosure (evaluation of the specific federally funded program);
+- (ii) The **scope** and **duration** (which data elements, which cohorts, what time period);
+-

@@ -1,0 +1,12 @@
+Relevant provisions:
+(a)(5)(A): For the purposes of this section the term “directory information” relating to a student includes the following: the student’s name, address, telephone listing, date and place of birth, major field of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, and the most recent previous educational agency or institution attended by the student.
+
+(a)(5)(B): Any educational agency or institution making public directory information shall give public notice of the categories of information which it has designated as such information with respect to each student attending the institution or agency and shall allow a reasonable period of time after such notice has been given for a parent to inform the institution or agency that any or all of the information designated should not be released without the parent’s prior consent.
+User Query:
+I am an administrator at a public high school. A local newspaper is writing a feature on our athletics program and has asked us for a list of student athletes’ names and the sports they play. Are we permitted to share this information under FERPA?
+Expected follow-up question:
+Has your school given public notice of the categories of information it designates as “directory information,” and have you allowed a reasonable period of time for parents to opt out of disclosure?
+Query continuation:
+User answer to follow-up q: No (we did not formally publish these categories).  
+Expected response:
+Final output: You may not release the information yet. Student names and sports participation are categories that FERPA defines as “directory information,” but FERPA imposes a prerequisite before any directory information can be made public: the school must first give public notice of the specific categories it designates as directory information and must allow parents a reasonable period of time to opt out. Without having satisfied this prerequisite, disclosing the student athletes’ names to the newspaper would put you at risk of noncompliance.

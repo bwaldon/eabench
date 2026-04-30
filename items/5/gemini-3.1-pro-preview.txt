@@ -1,0 +1,20 @@
+Based on the provided FERPA text, whether you are required to grant the parent's request depends entirely on the **age** and **current educational status** of the former student. 
+
+Here is how FERPA applies to your situation:
+
+**1. If the former student is under 18 years old (and not attending a postsecondary institution)**
+**Yes, you must grant the request.** 
+Under **Section (a)(1)(A)**, FERPA rights apply to the parents of students who *"are or have been in attendance at a school."* The fact that the child is a *former* student does not void the parent's right to inspect and review the education records. You must establish appropriate procedures to grant this access within a reasonable timeframe, not to exceed **45 days** after the request is made.
+
+**2. If the former student is 18 years of age or older (or is attending a postsecondary institution)**
+**No, you are not required to grant the request.** 
+Under **Section (d)**, once a student turns 18 years old OR begins attending a postsecondary education institution (e.g., college), all FERPA rights regarding permission, consent, and access automatically transfer from the parent to the student. 
+
+If the rights have transferred to the student, you cannot release the records to the parent without the **written consent of the student** specifying the records to be released, the reasons, and to whom, as outlined in **Section (b)(2)(A)**.
+
+*Exception for Dependent Students:* Even if the student is 18 or older, **Section (b)(1)(H)** permits (but does *not require*) you to release records to the parents without the student's written consent if the student is considered a "dependent student" for tax purposes (as defined in section 152 of title 26/the IRS code). 
+
+**Summary for the Administrator:**
+Before releasing any records, you should first verify the former student's age and whether they are currently enrolled in college. 
+*   If the student is under 18 and not in college, you must provide the parent access within 45 days. 
+*   If the student is 18 or older (or in college), deny the parent's request and require them to either produce the student's written consent or provide proof that the student is a recognized tax dependent.

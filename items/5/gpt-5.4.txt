@@ -1,0 +1,41 @@
+Yes—generally, **yes**, if the former student **is or has been in attendance** at your school and the FERPA rights have **not transferred to the student**.
+
+Key FERPA rule from the text you provided:
+
+- Schools that receive federal funds must give **parents of students who are or have been in attendance** the right to **inspect and review education records**.  
+- The school must provide access **within a reasonable time, and no later than 45 days** after the request.
+
+But the crucial issue is **who currently holds the FERPA rights**:
+
+### 1. If the former student is **under 18** and **not attending a postsecondary institution**
+Then **the parent retains FERPA rights**, even if the student is no longer enrolled at your high school.  
+In that case, **yes, you generally must allow the parent to inspect and review the records**.
+
+### 2. If the former student is **18 or older**, or **attending a postsecondary institution**
+Then under FERPA, the rights transfer from the parent to the **student**.  
+In that case, **the parent does not automatically have a right of access** just because they are the parent.
+
+A parent may still get access if, for example:
+
+- the **eligible student gives written consent**, or
+- the parent qualifies under a FERPA exception, such as the student being a **dependent for federal tax purposes**.
+
+### 3. “Former student” does not eliminate FERPA rights
+FERPA expressly covers students who **“are or have been in attendance.”** So being a former student does **not** by itself defeat the access right.
+
+### 4. What records are covered
+Grades and disciplinary records are typically **education records** under FERPA, subject to limited exceptions.
+
+### Bottom line
+You are required to grant the request **if the requesting parent still holds FERPA rights**—most commonly because the former student is **under 18 and not in postsecondary education**.  
+If the former student is **18+** or has become a **postsecondary student**, the parent is **not automatically entitled** to inspect the records.
+
+### Practical next step
+Before releasing anything, confirm:
+
+- the identity of the requesting parent,
+- the former student’s **age**,
+- whether the student is now attending a **postsecondary institution**, and
+- whether any **court order, custody limitation, or dependency documentation** affects access.
+
+If you want, I can give you a **school-administrator checklist** or a **model response script** for front office staff.

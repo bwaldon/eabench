@@ -1,0 +1,67 @@
+Understood. I can help interpret and apply this FERPA statutory text.
+
+You’ve provided the core FERPA statute, codified at 20 U.S.C. § 1232g. At a high level, it does the following:
+
+- Gives parents, and later eligible students, rights to:
+  - inspect and review education records,
+  - seek amendment of inaccurate or misleading records,
+  - consent before most disclosures of personally identifiable information.
+- Restricts educational agencies/institutions that receive federal funds from disclosing education records without consent, subject to specific exceptions.
+- Defines key terms like:
+  - education records,
+  - directory information,
+  - student,
+  - educational agency or institution.
+- Transfers FERPA rights from parents to the student when the student:
+  - turns 18, or
+  - attends a postsecondary institution.
+- Provides exceptions for disclosure, including:
+  - school officials with legitimate educational interests,
+  - transfer schools,
+  - financial aid,
+  - health or safety emergencies,
+  - certain subpoenas/court orders,
+  - audits/evaluations,
+  - dependent students,
+  - certain child welfare and juvenile justice disclosures,
+  - certain disciplinary results,
+  - alcohol/drug violation disclosures to parents of under-21 college students.
+
+A few especially important FERPA points from this text:
+
+1. Access rights
+- Parents of K–12 students generally have the right to inspect records within 45 days.
+- If a record contains information about multiple students, the parent only gets the portion relating to their child.
+
+2. Amendment/hearing rights
+- Schools must provide a hearing process to challenge records as inaccurate, misleading, or privacy-violating.
+- FERPA does not require changing records just because a parent disagrees; it requires a process and allows a written statement to be added.
+
+3. Consent rule
+- Personally identifiable information from education records generally cannot be disclosed without written consent unless an exception applies.
+
+4. What is not an education record
+Notably excluded:
+- sole-possession notes,
+- law-enforcement-unit records created for law enforcement purposes,
+- certain employment records,
+- certain treatment records for adult/postsecondary students.
+
+5. Directory information
+- Schools may disclose directory information only if they gave public notice of what they designate as directory information and allowed an opt-out.
+
+6. Eligible student rule
+- Once the student is 18 or in postsecondary education, rights belong to the student, not the parent, unless another FERPA exception applies, such as dependency.
+
+7. Enforcement
+- FERPA is enforced by the U.S. Department of Education, primarily through administrative enforcement tied to federal funding.
+
+If you want, I can now do any of the following:
+
+- summarize this statute in plain English,
+- identify the key FERPA disclosure exceptions,
+- explain how this applies in K–12 versus college,
+- analyze a specific fact pattern,
+- determine whether a particular record is an “education record,”
+- assess whether a proposed disclosure is permitted without consent,
+- draft a FERPA-compliant policy or response letter.

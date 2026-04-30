@@ -1,0 +1,23 @@
+Based on the provided text of the Family Educational Rights and Privacy Act (FERPA), **yes, you are permitted to share this information with local law enforcement without prior parental consent under the "Health and Safety Emergency" exception.** 
+
+Here is how the law applies to your specific situation:
+
+**1. The Health and Safety Emergency Exception**
+Under **Subsection (b)(1)(I)**, a school is permitted to release a student's education records (or personally identifiable information contained within them) without the written consent of their parents:
+> *"in connection with an emergency, appropriate persons if the knowledge of such information is necessary to protect the health or safety of the student or other persons;"*
+
+Because the student has written an essay with graphic descriptions of harming other students, this presents a direct and significant threat. FERPA allows you to determine that this constitutes an emergency. Local law enforcement qualifies as "appropriate persons" because their intervention is necessary to protect the health and safety of the targeted students and the broader school community.
+
+**2. Classification of the Records**
+*   **Behavioral Reports:** These are considered "education records" under **Subsection (a)(4)(A)** because they contain information directly related to the student and are maintained by the school. Because of the emergency, they can be released under the exception above.
+*   **Counseling Notes:** If these notes are kept in your sole possession, are used only as a personal memory aid, and are not accessible or revealed to anyone else except a temporary substitute, they are technically excluded from the definition of "education records" entirely under **Subsection (a)(4)(B)(i)**. However, if they *are* shared or maintained in the student's general file, they become education records and are fully covered by the same health and safety emergency exception as the behavioral reports.
+
+**3. Record-Keeping Requirement**
+While you do not need consent in this emergency, you must fulfill a record-keeping requirement after the fact. Under **Subsection (b)(4)(A)**, your school must maintain a record kept with the student's education files indicating:
+1. The individuals/agencies (in this case, the local law enforcement agency) that requested or obtained access to the records.
+2. The specific "legitimate interest" they had in obtaining this information (e.g., investigating a specific, articulable threat to student safety). 
+
+**Summary:**
+FERPA is designed to protect student privacy, but it is explicitly written so that it does not stand in the way of school safety. You do not need to wait for parental consent to contact local law enforcement and share the necessary records to prevent an imminent threat of harm. 
+
+*(Note: While FERPA allows this disclosure federally, you should also ensure you are adhering to any specific state laws, local school board policies, or mandatory reporting requirements regarding duty-to-warn situations.)*

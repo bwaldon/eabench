@@ -1,0 +1,33 @@
+Based on the facts provided and the legal framework of the Family Educational Rights and Privacy Act (FERPA) [20 U.S.C. § 1232g], **your disclosure of this student’s information was likely NOT permissible and constitutes a FERPA violation.**
+
+Here is a breakdown of the legal issues in your scenario:
+
+### 1. The Failure to Honor the Opt-Out Request
+Under FERPA **Subsection (a)(5)(B)**, institutions that designate directory information must allow a "reasonable period of time after such notice has been given for a parent [or an eligible student, under **Subsection (d)**] to inform the institution or agency that any or all of the information designated should not be released without the parent's [student's] prior consent."
+
+If the student emailed the registrar to opt out, they effectively exercised their right under (a)(5)(B). Because you failed to process this opt-out, the student's email address and ID number reverted to protected Personally Identifiable Information (PII) for that specific student. 
+
+Consequently, releasing this information to a third-party vendor without the student's written consent violates **Subsection (b)(1)** of the statute, which broadly prohibits the release of education records or PII without written consent unless a specific exception applies.
+
+### 2. The Designation of "Student ID Numbers" as Directory Information
+As a FERPA expert, I must highlight a significant legal risk regarding your policy itself. While **Subsection (a)(5)(A)** provides a non-exhaustive list of what can be considered "directory information" (which easily encompasses an email address), the Department of Education has strict regulations regarding Student ID numbers. 
+
+A student ID number **cannot** be designated as directory information if it can be used to gain access to education records without the use of one or more authenticating factors (such as a password or PIN). If the student ID you shared with the vendor can be used alone to access grades, schedules, or other protected systems, its designation as directory information is inherently invalid under FERPA regulations, regardless of whether a student opts out.
+
+### 3. The Sufficiency of Your Notice
+Under **Subsection (a)(5)(B)**, you are required to give "public notice of the categories of information which it has designated" as directory information. 
+
+Your method of notice—posting a general privacy policy on the website accessible via a link in the student portal—is generally acceptable under FERPA. The statute does not require students to formally "acknowledge" the notice, so long as it is reasonably made available to them (often done via annual email notifications or portal announcements). Therefore, your *method* of providing notice is likely compliant, but your *execution* of the rights granted within that notice (processing the opt-out) failed.
+
+### 4. The Third-Party Vendor
+Because the student opted out, the directory information exception is nullified. To share the data legally, you would have to rely on another exception under **Subsection (b)(1)**. 
+
+While **(b)(1)(A)** allows sharing without consent to "other school officials... who have been determined by such agency or institution to have legitimate educational interests," an external vendor aggregating data for career networking generally does not meet the strict criteria of a "school official" unless they are performing an outsourced institutional service under the direct control of the university (e.g., a university-contracted learning management system). If this is a third-party commercial networking platform, the school official exception does not apply.
+
+### Conclusion and Recommendations
+Your disclosure of this specific student's information was impermissible because the university failed to honor their written request to opt out. Furthermore, you may have a systemic compliance issue regarding the classification of Student ID numbers.
+
+**Recommended Actions:**
+1. **Remediate the immediate breach:** Contact the third-party vendor immediately and demand the deletion of this specific student's data.
+2. **Fix the opt-out process:** Investigate why the registrar's office did not process the student's email. Establish a clear, automated, or highly tracked procedure for students to opt out of directory information.
+3. **Review Student ID designation:** Consult your IT and records departments to ensure that the Student ID numbers being released cannot be used to access education records without a PIN or password. If they can, you must immediately remove Student IDs from your directory information policy.

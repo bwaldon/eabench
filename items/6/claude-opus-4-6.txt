@@ -1,0 +1,51 @@
+# Sharing Student-Athlete Names and Sports Under FERPA
+
+## Short Answer
+
+**Yes, you may share this information — but only if you have followed the required procedural steps.** Student names and participation in officially recognized activities and sports both fall squarely within FERPA's definition of **"directory information"** under **subsection (a)(5)(A)**.
+
+---
+
+## Legal Basis
+
+Subsection (a)(5)(A) explicitly defines directory information to include, among other things:
+
+> *"the student's name, address, telephone listing, date and place of birth, major field of study, **participation in officially recognized activities and sports**, weight and height of members of athletic teams, dates of attendance, degrees and awards received..."*
+
+Because directory information is **carved out** from the general prohibition on releasing education records without parental consent — as stated in subsection (b)(1) — it may be disclosed to third parties, including a newspaper, **provided the conditions in subsection (a)(5)(B) have been satisfied**.
+
+---
+
+## Mandatory Prerequisites Before Disclosure
+
+Under **subsection (a)(5)(B)**, you must ensure **both** of the following:
+
+1. **Public Notice** — Your school must have given **public notice** of the specific categories of information it has designated as directory information for students attending the school.
+
+2. **Opt-Out Period** — You must have allowed **a reasonable period of time** after that notice for any parent to inform the school that any or all of the designated directory information **should not be released** without the parent's prior consent.
+
+---
+
+## Practical Steps You Should Take
+
+| Step | Action |
+|------|--------|
+| **1** | Confirm that your school's annual FERPA notice **explicitly designates** student names and sports participation as directory information. |
+| **2** | Verify that the required opt-out period has passed for the current school year. |
+| **3** | Check your records for **any students or parents who have opted out** of directory information disclosure. |
+| **4** | **Remove from the list** any student whose parent (or the student, if 18+) has exercised the opt-out right. |
+| **5** | Only then release the remaining names and sports to the newspaper. |
+
+---
+
+## Key Cautions
+
+- **Opt-outs are absolute.** If even one parent has opted out, that student's name must be withheld — there is no journalistic or public-interest exception that overrides the opt-out.
+- **Do not disclose beyond what is designated.** If the newspaper also asks for information you have *not* designated as directory information (e.g., GPAs, disciplinary records), that falls under the general consent requirement of subsection (b)(1) and **cannot** be shared without written parental consent.
+- **Students aged 18 or older** hold these rights themselves under **subsection (d)**, so their own opt-out decisions, rather than their parents', control.
+
+---
+
+## Bottom Line
+
+The information the newspaper is requesting is precisely the type FERPA contemplates being publicly releasable as directory information. Your obligation is to **ensure the notice-and-opt-out process has been properly completed** and to **honor every opt-out** before providing the list.

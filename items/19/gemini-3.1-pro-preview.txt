@@ -1,0 +1,34 @@
+Based on the provided text of the Family Educational Rights and Privacy Act (FERPA), here is the legal analysis regarding the parent’s request to access the 19-year-old student’s incident report. 
+
+### 1. Transfer of Rights to the Student
+Under **Subsection (d)**, when a student reaches 18 years of age or is attending an institution of postsecondary education, "the permission or consent required of and the rights accorded to the parents of the student shall thereafter only be required of and accorded to the student." 
+
+Because the student is 19 and attends a university, the baseline legal position is that **the parent has no automatic right to inspect, review, or receive the student’s records**. Any disclosure to the parent requires the student's written consent, unless a specific statutory exception applies.
+
+### 2. Classification of the Campus Police Records
+The analysis depends on which type of record the parent is requesting:
+
+*   **Type 1: Solely Law Enforcement Records** 
+    Under **Subsection (a)(4)(B)(ii)**, the term "education records" explicitly **does not include** "records maintained by a law enforcement unit of the educational agency or institution that were created by that law enforcement unit for the purpose of law enforcement." Therefore, if the report was strictly created and maintained for criminal investigation purposes, it is not an "education record" governed or protected by FERPA. Disclosure of this record would be governed by state public records or law enforcement laws, not FERPA.
+*   **Type 2: Disciplinary Records**
+    If the incident report is shared with the university's disciplinary office or maintained for disciplinary purposes, it becomes an "education record" under **Subsection (a)(4)(A)** because it contains information directly related to a student and is maintained by the institution. The campus police are partially correct: this type of report *is* protected by FERPA. 
+
+### 3. Can the Parent Access the Disciplinary (Type 2) Record?
+If the record is an "education record," the university is prohibited from releasing it to the parent without the student's written consent under **Subsection (b)(1)** and **(b)(2)**, unless one of the following exceptions applies:
+
+*   **The Dependent Student Exception:** Under **Subsection (b)(1)(H)**, the university may disclose the record to the parent if the 19-year-old student is claimed as a dependent by the parents for tax purposes (as defined in section 152 of title 26). 
+*   **The Drug/Alcohol Disciplinary Exception:** Under **Subsection (i)(1)**, the university may disclose information to a parent regarding a violation of any law or institutional policy governing the use or possession of alcohol or a controlled substance. This applies here because the student is under the age of 21 and (if applicable to the specific incident) the institution determined a disciplinary violation occurred.
+*   **The Violent Crime/Sex Offense Exception:** Under **Subsection (b)(6)(B)** and **(C)**, if the student is an alleged perpetrator of a crime of violence or a nonforcible sex offense, and the institution determines the student committed a violation of its rules, the university may disclose the *final results* of the disciplinary proceeding. However, this disclosure is limited strictly to the student's name, the violation committed, and the sanction imposed. 
+
+### 4. Evaluating the Registrar's Claim
+The registrar's belief that the parent may access the report under "directory information" provisions is **incorrect**. 
+Under **Subsection (a)(5)(A)**, "directory information" is strictly limited to benign details such as the student's name, address, telephone listing, major field of study, participation in sports, dates of attendance, degrees, etc. Incident reports, disciplinary actions, and police investigations do not fall under the statutory definition of directory information. 
+
+### Conclusion
+**The Parent's Right to Access:** The parent does not have a general right to see the incident report just to "understand the disciplinary outcome." Because the student is 19, the parent can only access the Type 2 (disciplinary) education record if:
+1. The student provides written consent **(b)(2)(A)**;
+2. The parent proves the student is a tax dependent **(b)(1)(H)**; 
+3. The incident involved drugs or alcohol and resulted in a disciplinary violation **(i)(1)**; or
+4. The incident was a crime of violence/sex offense, in which case the parent can only be told the *final results* (name, violation, sanction) **(b)(6)(C)**. 
+
+If none of these exceptions apply, the university must deny the parent's request to view the disciplinary incident report to remain in compliance with FERPA.

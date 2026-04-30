@@ -1,0 +1,25 @@
+Based on the FERPA regulations provided, **no, you generally may not share these records with the national scholarship foundation without the student’s written consent**, unless a very specific and narrow exception applies. 
+
+Here is the breakdown of how FERPA applies to your situation based on the text:
+
+**1. The Rights Belong to the Student**
+Under **Subsection (d)**, because the student is attending an institution of postsecondary education, all FERPA privacy rights and consent requirements transfer from the parents directly to the student. Therefore, any required consent must come directly from the student.
+
+**2. The General Rule of Consent**
+Under **Subsection (b)(1)** and **(b)(2)**, an educational institution cannot release "education records" (which, per **Subsection (a)(4)(A)**, includes any files or documents containing information directly related to a student and maintained by the institution, such as transcripts, disciplinary records, and financial aid files) without written consent. 
+
+Under **Subsection (b)(2)(A)**, compliant written consent from the student must explicitly specify:
+*   The specific records to be released,
+*   The reasons for the release, and
+*   To whom the records are being released.
+
+**3. Are there any applicable exceptions?**
+There are two exceptions in the text that mention "student aid," but neither gives you blanket authorization to send a specific student's identifiable file to an external foundation just because they asked:
+
+*   **The Financial Aid Exception (Subsection (b)(1)(D)):** FERPA allows the release of records without consent *"in connection with a student’s application for, or receipt of, financial aid."* 
+    * *How it applies:* If the student actually applied for or is actively receiving a scholarship from this specific foundation, you *might* be able to share records under this exception. However, the disclosure must be strictly necessary to determine the student's eligibility for the aid, the amount of the aid, or the conditions of the aid. Releasing a student's entire disciplinary record would be highly questionable under this exception unless it is a specific, stated condition of the scholarship. If the student has not applied for this foundation's aid, this exception does not apply at all.
+*   **The Organizations/Studies Exception (Subsection (b)(1)(F)):** This allows records to be shared with organizations *"administering student aid programs."*
+    * *How it applies:* This exception strictly requires that the sharing of information *"will not permit the personal identification of students."* Because the foundation is asking for a specific, individually identifiable student's records, this exception does not apply. 
+
+**Conclusion and Recommendation**
+To comply with FERPA and protect your institution's federal funding, you should **not** fulfill the foundation's request at this time. Instead, you should contact the student, inform them of the foundation's request, and have the student sign and date a written consent form that specifically authorizes the release of their academic transcript, disciplinary record, and financial aid file to this specific foundation.

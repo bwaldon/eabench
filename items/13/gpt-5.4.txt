@@ -1,0 +1,68 @@
+Short answer: **possibly, but not as you describe unless the recipient qualifies and the data are properly protected under FERPA’s audit/evaluation rules**.
+
+## Core FERPA rule
+Under FERPA, personally identifiable information from education records generally cannot be redisclosed without consent unless an exception applies. As an SEA, your original collection likely relied on the **audit/evaluation exception** in **20 U.S.C. § 1232g(b)(1)(C)** and **(b)(3)**.
+
+That exception allows disclosure to:
+- **authorized representatives** of the SEA,
+- for audit/evaluation/enforcement of federally or state-supported education programs,
+- subject to strict limits, including protection against personal identification and destruction when no longer needed.
+
+## Key issue: are the retained “unique student identifiers” still PII?
+Very likely **yes**. Under FERPA, removing names and SSNs alone does **not** necessarily de-identify the data. If the third party receives persistent unique IDs that permit student-level longitudinal tracking, those IDs are typically treated as **personally identifiable information**, especially if they can reasonably be used to identify a student, directly or indirectly.
+
+So this is **not automatically safe just because direct identifiers are removed**.
+
+## When sharing may be permissible
+The disclosure can be permissible **if** the third-party research organization is properly designated as your **authorized representative** for the audit/evaluation activity, and the disclosure satisfies FERPA’s audit/evaluation conditions.
+
+That generally means:
+
+1. **Purpose limitation**  
+   The organization must use the data **only** to carry out the SEA’s audit/evaluation/enforcement activity for the specified education program.
+
+2. **Authorized representative designation**  
+   The organization must be formally acting **on behalf of** the SEA, not for its own independent research purposes.
+
+3. **Written agreement / controls**  
+   You should have a written agreement specifying:
+   - the specific purpose of the disclosure,
+   - the scope of the information disclosed,
+   - that the recipient may use the data only for that FERPA-permitted purpose,
+   - redisclosure restrictions,
+   - data security requirements,
+   - destruction or return of data when no longer needed.
+
+4. **Protection against personal identification**  
+   Under **§ 1232g(b)(3)**, the data must be protected so that personal identification of students/parents is not permitted except by authorized officials/representatives with a legitimate need for the audit/evaluation.
+
+5. **Destruction when no longer needed**  
+   Personally identifiable data must be destroyed when no longer needed for the audit/evaluation/enforcement purpose.
+
+## What a contract “not to re-identify” does and does not do
+A no-reidentification promise is **helpful but not sufficient by itself**. FERPA requires more than a simple contractual promise:
+- the recipient must fit within a valid FERPA disclosure pathway,
+- the SEA must maintain control consistent with the exception,
+- the disclosure must be necessary for the audit/evaluation purpose,
+- and the data must remain protected as PII if the unique identifiers allow linkage over time.
+
+## If the third party is just an outside researcher
+If the organization is receiving the dataset for its **own research study**, rather than as your authorized representative carrying out your evaluation, then the audit/evaluation exception may **not** cover the disclosure.
+
+There is also FERPA’s **studies exception** in **§ 1232g(b)(1)(F)**, but that exception usually applies to disclosures by the educational agency/institution for certain study purposes and comes with its own conditions. Since you are an SEA holding data under the audit/evaluation exception, you should be cautious about assuming you can simply switch to another basis for redisclosure.
+
+## Practical conclusion
+**Yes, disclosure may be permissible under FERPA, but only if the third-party organization is your properly designated authorized representative for the audit/evaluation and the arrangement satisfies FERPA’s audit/evaluation requirements.**  
+
+**No, it is not sufficient merely to strip names/SSNs while retaining unique student identifiers and rely on a contractual promise not to re-identify.** If the identifiers permit longitudinal linkage, the dataset likely still contains FERPA-protected PII.
+
+## Recommended approach
+Before disclosing, ensure:
+- the third party is formally designated as an **authorized representative** of the SEA;
+- the activity is squarely within the SEA’s **audit/evaluation** of the federally funded program;
+- a detailed written agreement governs use, security, redisclosure, and destruction;
+- only the **minimum necessary** data are shared;
+- the unique identifiers are necessary and appropriately controlled;
+- the universities’ disclosure to the SEA and the SEA’s onward disclosure are both documented consistently with FERPA.
+
+If you want, I can also provide a **FERPA-specific checklist** or a **sample authorized representative agreement clause set** for this scenario.

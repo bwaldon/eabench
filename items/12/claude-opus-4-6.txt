@@ -1,0 +1,59 @@
+# Yes, the Sending School Is Permitted to Share Those Disciplinary Records Under FERPA
+
+There are multiple provisions in this statute that authorize this disclosure. Let me walk through each relevant one.
+
+---
+
+## Primary Basis: Transfer Enrollment Exception — Subsection (b)(1)(B)
+
+This is the most directly applicable provision. FERPA permits the release of education records, without parental consent, to:
+
+> *"officials of other schools or school systems in which the student seeks or intends to enroll"*
+
+Since the student is transferring to your school, you qualify squarely under this exception. However, note the **conditions** attached to this provision:
+
+1. **The student's parents must be notified** of the transfer of records
+2. **Parents must receive a copy** of the record if they desire one
+3. **Parents must have an opportunity for a hearing** to challenge the content of the record
+
+These conditions are protective mechanisms — they do not block the disclosure, but the sending school must comply with them.
+
+---
+
+## The Disciplinary Records Are "Education Records"
+
+A threshold question is whether disciplinary records qualify as "education records" at all. Under subsection **(a)(4)(A)**, education records are defined as:
+
+> *"those records, files, documents, and other materials which — (i) contain information directly related to a student; and (ii) are maintained by an educational agency or institution or by a person acting for such agency or institution."*
+
+A suspension record for bringing a weapon to school clearly contains information directly related to the student and is maintained by the school. It therefore falls within the definition. None of the exclusions in **(a)(4)(B)** — sole-possession notes, law enforcement unit records, employment records, or treatment records — would typically apply to a formal suspension record.
+
+---
+
+## Additional Reinforcement: Subsection (h) — Disciplinary Records Disclosure
+
+Subsection **(h)** provides an independent and affirmative authorization that is especially relevant to your situation:
+
+> *"Nothing in this section shall prohibit an educational agency or institution from — (1) including appropriate information in the education record of any student concerning disciplinary action taken against such student for conduct that posed a significant risk to the safety or well-being of that student, other students, or other members of the school community; or (2) disclosing such information to teachers and school officials, including teachers and school officials in **other schools**, who have legitimate educational interests in the behavior of the student."*
+
+This provision is remarkably on point. A suspension for bringing a weapon to school clearly involves **conduct that posed a significant risk to the safety or well-being of other students or members of the school community**. And you, as the receiving principal, are a school official at another school with a **legitimate educational interest** in the student's behavior — specifically, your stated need to plan appropriate safety measures.
+
+Subsection (h) thus independently authorizes this disclosure even beyond the transfer enrollment exception.
+
+---
+
+## Practical Recommendations
+
+While the law clearly permits this disclosure, I would advise you to:
+
+1. **Make a formal written request** to the sending school, citing your status as officials of the school in which the student intends to enroll under (b)(1)(B), and your legitimate educational interest under (h)(2)
+2. **Ensure the sending school fulfills the (b)(1)(B) conditions** — notifying the parents of the record transfer, offering them a copy, and providing an opportunity to challenge the content through a hearing
+3. **Maintain an access record** as required under **(b)(4)(A)** — your school should document who accesses the transferred records and for what legitimate educational purpose
+4. **Restrict further redisclosure** — under **(b)(4)(B)**, personally identifiable information transferred to a third party cannot be further shared without parental written consent
+5. **Rely on the formal records, not the informal communication** from your colleague, for any safety planning decisions, as the informal disclosure may not have followed proper FERPA procedures
+
+---
+
+## Summary
+
+The sending school is **clearly permitted** under FERPA to share the student's disciplinary records with your school, supported by both the **transfer enrollment exception in (b)(1)(B)** and the **disciplinary records provision in (h)**. The key compliance requirement falls primarily on the sending school to notify the parents and provide them with the procedural protections outlined in (b)(1)(B).

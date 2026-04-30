@@ -1,0 +1,76 @@
+# Disclosing Education Records in Response to a Subpoena Under FERPA
+
+Yes, FERPA does permit disclosure of education records in response to a lawfully issued subpoena, **but you must satisfy specific conditions before handing over the records.** Let me walk you through the relevant provisions carefully.
+
+---
+
+## The General Rule: Consent Required
+
+Under **subsection (b)(1)**, the default rule is that education records (or personally identifiable information other than directory information) **cannot be released without written parental consent**. A subpoena, however, falls under one of the recognized exceptions.
+
+## The Subpoena Exception: Subsection (b)(2)(B)
+
+This provision allows disclosure pursuant to a **judicial order or lawfully issued subpoena**, but **only on the condition that:**
+
+> *"parents and the students are notified of all such orders or subpoenas **in advance of the compliance therewith** by the educational institution or agency."*
+
+### So your obligations are:
+
+1. **Verify the subpoena is lawfully issued** — confirm it comes from a court or entity with proper authority
+2. **Notify the student's parents before you comply** — this is mandatory, not optional, so they have an opportunity to seek to quash or modify the subpoena if they wish
+3. **Then produce the records** in accordance with the subpoena's terms
+
+---
+
+## Critical Exceptions to the Advance Notice Requirement
+
+There are **two situations** where you do **not** need to provide advance parental notice:
+
+### 1. Federal Grand Jury Subpoenas — Subsection (b)(1)(J)(i)
+If the subpoena is from a **federal grand jury** and the court has issued a **gag order for good cause shown**, you:
+- Must comply with the subpoena
+- Are **prohibited** from disclosing to anyone (including the parents) the existence or contents of the subpoena
+
+### 2. Law Enforcement Subpoenas — Subsection (b)(1)(J)(ii)
+If the subpoena was issued for a **law enforcement purpose**, the court or issuing agency **may** order you not to disclose the existence or contents of the subpoena to any person, again for good cause shown.
+
+### 3. Child Abuse/Neglect/Dependency Proceedings
+Under subsection (b)(2)(B), if:
+- A **parent is a party** to a court proceeding involving **child abuse and neglect** or **dependency matters**, and
+- The order is issued **in the context of that proceeding**
+
+Then **additional notice to the parent is not required**.
+
+---
+
+## Recordkeeping Obligation
+
+Under **subsection (b)(4)(A)**, you must also:
+
+- **Document the disclosure** in a record maintained with the student's education records
+- Note the party that requested or obtained access
+- Note the **legitimate interest** that party has in the information
+
+*(The only exception to this recordkeeping requirement is for disclosures subject to a court order under subsection (j), relating to terrorism investigations.)*
+
+---
+
+## Practical Steps for Your Situation
+
+| Step | Action |
+|------|--------|
+| **1** | Review the subpoena to confirm it is lawfully issued and identify its source and purpose |
+| **2** | Determine whether it falls under the grand jury, law enforcement, or child abuse exceptions |
+| **3** | If **no exception** applies, **notify the parents in advance** of compliance so they may take legal action if desired |
+| **4** | If an exception **does** apply (e.g., gag order), comply without parental notification as directed |
+| **5** | Produce **only the records specified** in the subpoena — no more |
+| **6** | Log the disclosure in the student's access record per subsection (b)(4)(A) |
+| **7** | Consult your school district's legal counsel before producing anything |
+
+---
+
+## Bottom Line
+
+**Yes, you can hand over the records — but not immediately.** Unless a specific exception applies, FERPA **requires advance notification to the parents** before you comply. Failure to follow this procedure could place your institution in violation of FERPA, potentially jeopardizing federal funding.
+
+**I strongly recommend involving your district's legal counsel before responding to the subpoena** to ensure full compliance with both FERPA and any applicable state law requirements.

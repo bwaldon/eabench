@@ -1,0 +1,122 @@
+# FERPA Analysis: Disclosure of Alcohol Violation to Parents of a 20-Year-Old Student
+
+## Short Answer
+
+**Yes, the university is permitted to disclose this information to the student's parents despite the student's objection.** FERPA contains a specific exception that authorizes this exact scenario. However, the analysis requires careful attention to several intersecting provisions.
+
+---
+
+## Detailed Legal Analysis
+
+### The Core Tension: Transfer of Rights to Postsecondary Students
+
+The administrators' concern is understandable and reflects a genuine structural feature of FERPA. Under **subsection (d)**, once a student is attending an institution of postsecondary education — regardless of age — FERPA rights transfer from the parents to the student:
+
+> *"whenever a student has attained eighteen years of age, or is attending an institution of postsecondary education, the permission or consent required of and the rights accorded to the parents of the student shall thereafter only be required of and accorded to the student."*
+
+This means that, as a general rule, the university would need the **student's** written consent to release education records or personally identifiable information to anyone, including the student's parents. The student's explicit objection would ordinarily be dispositive.
+
+**However**, FERPA contains multiple exceptions to the general consent requirement, and one of them speaks directly to this factual scenario.
+
+---
+
+### The Drug and Alcohol Violation Exception: Subsection (i)
+
+**Subsection (i)(1)** provides:
+
+> *"Nothing in this Act or the Higher Education Act of 1965 shall be construed to prohibit an institution of higher education from disclosing, to a parent or legal guardian of a student, information regarding any violation of any Federal, State, or local law, or of any rule or policy of the institution, governing the use or possession of alcohol or a controlled substance, regardless of whether that information is contained in the student's education records, if—*
+>
+> *(A) the student is under the age of 21; and*
+>
+> *(B) the institution determines that the student has committed a disciplinary violation with respect to such use or possession."*
+
+This provision is extraordinarily significant for your situation. Let us parse each element against your facts:
+
+### Element-by-Element Application
+
+| Statutory Element | Your Facts | Satisfied? |
+|---|---|---|
+| Institution of higher education | University | ✅ |
+| Disclosure to a parent or legal guardian | Parents are the intended recipients | ✅ |
+| Information regarding a violation of Federal, State, or local law, **or any rule or policy of the institution** | Campus policy related to alcohol possession | ✅ |
+| Governing the use or possession of alcohol or a controlled substance | Alcohol possession | ✅ |
+| Student is under the age of 21 | Student is 20 years old | ✅ |
+| Institution determines the student committed a disciplinary violation | Determined through a disciplinary process | ✅ |
+
+**Every statutory element is met.**
+
+---
+
+### Why the Student's Objection Does Not Block Disclosure
+
+The critical interpretive point lies in the statutory construction of subsection (i). The provision states that **"Nothing in this Act"** shall be construed to prohibit such disclosure. This language is sweeping and deliberately overrides the other protective provisions of FERPA, including:
+
+- **Subsection (b)(1):** The general prohibition against releasing education records without written parental (or, after the rights transfer, student) consent.
+- **Subsection (d):** The transfer-of-rights provision that shifts consent authority to the student at a postsecondary institution.
+
+The phrase **"regardless of whether that information is contained in the student's education records"** further underscores Congress's intent to create a broad carve-out. It means the exception applies whether the information comes from formal disciplinary records (which are education records) or from other institutional knowledge. This eliminates any argument that the disclosure is impermissible because it involves education records over which the student holds transferred FERPA rights.
+
+Furthermore, subsection (i) does not contain any requirement of student consent, nor does it condition disclosure on the absence of a student objection. The statute frames this as a **permissive institutional authority** — the institution "is not prohibited" from making the disclosure. The student's objection is legally irrelevant to the institution's authority under this provision.
+
+---
+
+### Relationship Between Subsection (i) and Subsection (d)
+
+Some administrators may argue that subsection (d) — the transfer-of-rights provision — should override or limit subsection (i). This argument fails for several reasons:
+
+1. **Subsection (i) was enacted later** (added by the Higher Education Amendments of 1998), reflecting Congress's more recent and specific intent regarding alcohol and drug violations by students under 21.
+
+2. **The canon of statutory construction** that a specific provision governs over a general one (*generalia specialibus non derogant*) supports reading subsection (i) as a targeted exception to subsection (d)'s general transfer of rights.
+
+3. **The text is unambiguous.** Subsection (i)(1) states "Nothing in this Act" shall prohibit the disclosure. Subsection (d) is part of "this Act." Therefore, by its plain terms, subsection (i) overrides subsection (d) for the specific purpose of alcohol and drug violation disclosures meeting the stated conditions.
+
+---
+
+### The Dependent Student Exception — An Alternative (But Potentially Inapplicable) Pathway
+
+It is worth noting that **subsection (b)(1)(H)** provides an independent exception permitting disclosure to:
+
+> *"parents of a dependent student of such parents, as defined in section 152 of title 26"*
+
+If the student qualifies as a dependent under the Internal Revenue Code (i.e., the parents claim the student as a dependent on their federal tax return), this would provide a **separate and independent basis** for disclosure — one that is not limited to drug and alcohol violations and that applies broadly to education records.
+
+However, this pathway requires the university to have a reasonable basis for determining dependency status, and it may not apply if the student is financially independent. **Subsection (i) is the more directly applicable and reliable basis for your specific scenario.**
+
+---
+
+### Important Caveat: State Law
+
+**Subsection (i)(2)** contains a critical proviso:
+
+> *"Nothing in paragraph (1) shall be construed to supersede any provision of State law that prohibits an institution of higher education from making the disclosure described in subsection (a)."*
+
+This means that **FERPA permits but does not preempt contrary state law.** If your state has enacted legislation that affirmatively **prohibits** institutions of higher education from disclosing student disciplinary information to parents, that state law would survive and could block the disclosure even though FERPA allows it.
+
+You should therefore:
+- Review your state's education privacy statutes
+- Consult with state counsel to confirm no state-level prohibition exists
+- Review any applicable state regulations governing student records at postsecondary institutions
+
+If no such state prohibition exists, FERPA poses no barrier.
+
+---
+
+## Practical Recommendations
+
+1. **Document the disciplinary determination.** Ensure that the institutional finding — that the student committed a disciplinary violation related to alcohol possession — is formally documented through your established disciplinary process. Subsection (i)(1)(B) requires that the institution "determines" that a violation occurred; an allegation or pending proceeding is insufficient.
+
+2. **Verify the student's age.** Confirm that the student was under 21 at the time of the violation and at the time of disclosure. The exception applies only to students under 21.
+
+3. **Conduct a state law review.** As noted above, subsection (i)(2) preserves contrary state law. This is the single most important practical step before proceeding.
+
+4. **Understand this is permissive, not mandatory.** FERPA authorizes but does not require this disclosure. The university retains discretion over whether to notify parents. Consider whether your institution has an established policy on parental notification for alcohol violations, and apply it consistently to avoid claims of selective or discriminatory enforcement.
+
+5. **Limit the scope of disclosure.** Even though the exception is broad, prudent practice dictates disclosing only information directly related to the alcohol violation. Disclose the fact of the violation, the policy violated, and the sanction imposed — not the student's broader academic or disciplinary record.
+
+6. **Inform the student.** While not legally required under subsection (i), institutional best practices and many campus policies call for informing the student that parental notification will occur. This serves transparency, preserves the student-institution relationship, and may be required by your own institutional policies independent of FERPA.
+
+---
+
+## Conclusion
+
+The university **is legally permitted under FERPA** to disclose the alcohol violation to the student's parents despite the student's objection and despite the fact that FERPA rights have transferred to the student as a posts

@@ -1,0 +1,77 @@
+# Disclosure Under FERPA's Crime of Violence Exception: Analysis
+
+## Short Answer
+
+**No, the university is not permitted to disclose the full disciplinary report.** While FERPA does permit disclosure to the alleged victim under these circumstances, the statute strictly limits **what** may be disclosed. The full report almost certainly contains information that exceeds what is authorized.
+
+---
+
+## Statutory Basis
+
+The relevant provision is **subsection (b)(6)(A)**, which states:
+
+> *"Nothing in this section shall be construed to prohibit an institution of postsecondary education from disclosing, to an alleged victim of any crime of violence...the **final results** of any disciplinary proceeding conducted by such institution against the alleged perpetrator of such crime or offense with respect to such crime or offense."*
+
+This clearly authorizes disclosure to the alleged victim. However, the critical limitation lies in the statutory definition of what constitutes **"final results."**
+
+---
+
+## What "Final Results" Means — and Does Not Mean
+
+**Subsection (b)(6)(C)** provides a precise and narrow definition:
+
+> The final results of any disciplinary proceeding—
+> - **(i)** shall include **only** the name of the student, the violation committed, and any sanction imposed by the institution on that student; and
+> - **(ii)** may include the name of any other student, such as a victim or witness, **only with the written consent** of that other student.
+
+The word **"only"** in clause (i) is critically important. It establishes an **exhaustive list** of three permissible data points:
+
+| Permissible Element | Example |
+|---|---|
+| **Name of the accused student** | "John Doe" |
+| **Violation committed** | "Found responsible for assault in violation of Student Code § X" |
+| **Sanction imposed** | "Expelled effective [date]" |
+
+---
+
+## What a Full Report Typically Contains That **Cannot** Be Disclosed
+
+A complete disciplinary report generally includes elements that fall **outside** the statutory definition of "final results" and therefore remain protected education records under subsection (a)(4)(A):
+
+- **Witness statements and testimony**
+- **Investigative findings and evidentiary analysis**
+- **Deliberation notes or rationale of the hearing panel**
+- **Names of other students** (witnesses, other involved parties) — unless those students provide written consent per (b)(6)(C)(ii)
+- **The victim's own statements** as part of the record (paradoxically, even the victim's own words in the report may be intertwined with other students' protected records)
+- **Supporting documentation** (medical records, communications, photographs)
+- **Procedural history and interim measures**
+
+Disclosing any of these elements would constitute a release of **education records or personally identifiable information** beyond what the exception authorizes, potentially placing the institution in violation of FERPA.
+
+---
+
+## Recommended Approach
+
+The university should prepare a **separate, limited disclosure document** for the alleged victim that contains **only**:
+
+1. **The name of the accused student** found responsible;
+2. **The specific violation** the student was found to have committed; and
+3. **The specific sanction(s)** imposed.
+
+This disclosure should be crafted carefully to avoid including reasoning, evidence summaries, or any other narrative content from the full report.
+
+---
+
+## Additional Considerations
+
+- **Subsection (b)(6)(B)** provides a related but distinct authority for **public disclosure** of final results when the accused student is found responsible for a crime of violence. Even in that context, the same narrow definition of "final results" under (b)(6)(C) applies.
+
+- **Subsection (d)** transfers parental rights to the student at age 18 or upon enrollment in postsecondary education. This means the accused student's consent is not required for this specific, limited disclosure — the exception operates independently of consent — but the scope remains confined to the statutory definition.
+
+- **Institutional liability risk**: Releasing the full report could trigger a valid FERPA complaint to the office established under **subsection (g)**, and under **subsection (f)**, the Secretary could ultimately take enforcement action, including termination of federal funding, if the institution has a policy or practice of over-disclosure.
+
+---
+
+## Conclusion
+
+The university **may and should** disclose the final results to the alleged victim, but must limit that disclosure to the **three enumerated elements** specified in subsection (b)(6)(C). Releasing the full disciplinary report would exceed the scope of the crime of violence exception and would constitute an impermissible release of protected education records under FERPA.

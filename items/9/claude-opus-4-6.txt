@@ -1,0 +1,80 @@
+# Sharing Student Records with a University Research Lab Under FERPA
+
+## Short Answer
+
+**Potentially yes, but only if the arrangement is carefully structured to fit within a specific FERPA exception.** The most relevant provision is the **studies exception** found in **subsection (b)(1)(F)**, but it comes with strict conditions that must be rigorously met. Let me walk you through the analysis.
+
+---
+
+## The Relevant Exception: Studies Conducted "For, or on Behalf of" Your District
+
+Subsection (b)(1)(F) permits the release of personally identifiable information without parental consent to:
+
+> *"organizations conducting studies **for, or on behalf of**, educational agencies or institutions for the purpose of developing, validating, or administering predictive tests, administering student aid programs, and **improving instruction**, if such studies are conducted in such a manner as will not permit the personal identification of students and their parents by persons other than representatives of such organizations and such information will be destroyed when no longer needed for the purpose for which it is conducted."*
+
+### Three Critical Requirements
+
+For this exception to apply, **all three** of the following must be satisfied:
+
+1. **"For, or on behalf of" your district** — The study cannot simply be the university's independent research project. Your district must have a genuine institutional interest in the study's outcomes. The research must serve *your* educational mission, such as improving instruction or understanding achievement gaps within *your* student population.
+
+2. **No personal identification of students or parents** — The study must be conducted in a manner that prevents anyone outside the research organization from personally identifying students. The published results in the peer-reviewed journal absolutely cannot contain personally identifiable information.
+
+3. **Destruction of data** — The personally identifiable information must be **destroyed** when no longer needed for the purpose of the study. This is a point of significant tension with the scenario you describe, because academic researchers typically want to retain data for replication, follow-up studies, or journal requirements.
+
+---
+
+## Key Concerns with Your Specific Scenario
+
+### Concern 1: Is This Truly "For or on Behalf of" Your District?
+
+This is the **most significant hurdle**. As you've described it, the university research lab approached *you* — they have their own research agenda and plan to publish in a peer-reviewed journal. That framing sounds like **independent university research**, not a study conducted for or on behalf of your district.
+
+To satisfy the exception, you would need to:
+
+- Establish that your district has an **independent educational purpose** served by the study (e.g., you want to understand socioeconomic disparities to inform your own programming decisions)
+- Enter into a **formal written agreement** where the university acts as your agent or contractor for this specific purpose
+- Maintain **institutional control** over the scope and purpose of the study, rather than simply handing over data for the university's own purposes
+
+If the university is merely using your data to advance its own publication goals, this exception **does not apply**.
+
+### Concern 2: Data Destruction Obligation
+
+The statute is explicit — the data must be **destroyed** when no longer needed. Researchers publishing in peer-reviewed journals often face expectations to retain underlying data for years. This creates a direct conflict with the statutory requirement. You would need contractual provisions ensuring:
+
+- A defined timeline for destruction
+- Verification that destruction has occurred
+- That no copies are retained beyond the agreed period
+
+### Concern 3: Re-identification Risk
+
+Studies involving socioeconomic factors correlated with academic outcomes can present re-identification risks, particularly in smaller subgroups (e.g., a small number of students from a particular neighborhood or demographic category). You must ensure the study methodology genuinely prevents personal identification.
+
+---
+
+## What You Should **Not** Rely On
+
+- **Directory information (subsection (a)(5))** — Academic outcomes and socioeconomic data are **not** directory information. This exception is irrelevant here.
+- **The audit/evaluation exception (subsection (b)(1)(C) and (b)(3))** — This applies to authorized representatives of the Comptroller General, the Secretary, or State educational authorities, not independent university researchers.
+- **Assumption that de-identified data solves everything** — If you can truly **de-identify** the data before sharing (stripping all personally identifiable information so that the university never receives it), then FERPA's restrictions on disclosure don't apply. But genuine de-identification in educational datasets is difficult, and if any reasonable possibility of re-identification exists, FERPA still governs.
+
+---
+
+## Recommended Course of Action
+
+| Step | Action |
+|------|--------|
+| **1** | Determine whether your district has a **genuine, independent educational interest** in this research |
+| **2** | If so, structure the arrangement as a **study conducted on behalf of your district**, with a formal written agreement |
+| **3** | Include contractual provisions addressing **data security, prohibition on re-disclosure, data destruction timelines, and restrictions on personal identification** |
+| **4** | Consult your district's **legal counsel** to draft or review the agreement |
+| **5** | Consider whether **true de-identification** before sharing could accomplish the research goals without triggering FERPA at all |
+| **6** | Document your FERPA compliance rationale in writing |
+
+---
+
+## Bottom Line
+
+You **cannot simply hand over student-level data** to a university research lab because they want to publish a study. However, if you can genuinely structure this as a study conducted **on behalf of your district** for the purpose of improving instruction, with robust contractual protections, the (b)(1)(F) exception may permit disclosure without parental consent. The distinction between the university's research project and *your district's* study is the pivotal legal question, and getting it wrong exposes your district to a FERPA violation and potential loss of federal funding.
+
+**I strongly recommend involving your district's legal counsel before proceeding.**

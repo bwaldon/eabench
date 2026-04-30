@@ -1,0 +1,16 @@
+Based on the provided text of FERPA, the university is **not** permitted to disclose the *full report* to the alleged victim under the "crime of violence" exception, although you are permitted to disclose the specific outcome.
+
+Here is the legal breakdown based on the statute:
+
+**1. You may disclose the "Final Results"**
+Under subsection **(b)(6)(A)**, FERPA states that an institution of postsecondary education is not prohibited from disclosing to an alleged victim of a crime of violence *"the final results of any disciplinary proceeding conducted by such institution against the alleged perpetrator."* 
+
+Furthermore, because the student was actually found responsible for violating the institution's rules regarding a crime of violence, subsection **(b)(6)(B)** allows you to disclose these "final results" more broadly.
+
+**2. The limitation on what constitutes "Final Results"**
+The statute strictly limits what information is included in the "final results." Subsection **(b)(6)(C)** explicitly states that the final results of a disciplinary proceeding:
+> *(i) shall include **only** the name of the student, the violation committed, and any sanction imposed by the institution on that student; and*
+> *(ii) may include the name of any other student, such as a victim or witness, only with the written consent of that other student.*
+
+**Conclusion**
+Because FERPA expressly limits this disclosure exception to **only** the student's name, the violation committed, and the sanctions imposed, you cannot use this exception to release the *full report* (which would presumably contain narratives, investigatory notes, witness testimonies, and other educational records). You may only disclose the restricted elements that make up the "final results" as defined by the statute.

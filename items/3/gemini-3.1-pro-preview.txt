@@ -1,0 +1,22 @@
+Based on the provided text of the Family Educational Rights and Privacy Act (FERPA), **yes**, the Secretary of Education is permitted to access these records without the prior written consent of the parents or students, but only under strict, specific conditions.
+
+Here is how FERPA applies to this request:
+
+**1. Permitted Purposes (The "Why")**
+Under **Subsection (b)(1)(C)** and **Subsection (b)(3)**, you are permitted to release education records containing personally identifiable information (PII) to the authorized representatives of the Secretary of Education if the access is necessary for:
+*   The audit and evaluation of Federally-supported education programs; or
+*   The enforcement of Federal legal requirements related to such programs.
+
+If the Secretary is requesting the records for reasons outside of these specific audit, evaluation, or enforcement purposes, parental consent would generally be required.
+
+**2. Mandatory Privacy Protections (The "How")**
+If the request meets the criteria above, **Subsection (b)(3)** mandates that the Secretary handle the personally identifiable information under the following conditions:
+*   **Protection:** The data must be protected in a manner that will *not* permit the personal identification of students and their parents by anyone other than those authorized officials (unless the collection of the PII is explicitly authorized by another Federal law).
+*   **Destruction:** The personally identifiable data must be destroyed when it is no longer needed for the audit, evaluation, or enforcement of the Federal legal requirements.
+
+**3. Your Record-Keeping Requirement**
+As an official of LAUSD, you must also comply with **Subsection (b)(4)(A)**. Whenever an agency like the Department of Education requests or obtains access to a student's education records, your district must maintain a record kept with each student's education file. This record must specifically indicate:
+*   Who requested/obtained access (in this case, the Secretary/Department of Education).
+*   The specific legitimate interest they had in obtaining this information (e.g., the specific audit or enforcement purpose). 
+
+**Summary:** You may grant the Secretary of Education access to the requested records containing PII without parental consent, provided the Department explicitly requires them for the audit, evaluation, or enforcement of Federally-supported education programs, and they assure you the data will be protected from further disclosure and destroyed when no longer needed. You must also log this disclosure in the students' records.

@@ -1,0 +1,51 @@
+Yes—possibly, but only under FERPA’s limited exceptions, and you should be careful about what you disclose.
+
+### Short answer
+FERPA generally prohibits disclosing education records without parent consent, **unless an exception applies**. In your scenario, the most relevant exception is the **health or safety emergency exception** in **20 U.S.C. § 1232g(b)(1)(I)**, which allows disclosure to **appropriate persons** if the information is **necessary to protect the health or safety of the student or others**.
+
+Given a student essay with **graphic descriptions of harming other students**, disclosure to **local law enforcement** may be permitted **without parental consent** if the school reasonably determines there is an **articulable and significant threat**.
+
+### What FERPA permits
+Under the emergency exception, the school may disclose education records to people such as:
+- law enforcement,
+- school safety personnel,
+- mental health crisis responders,
+- other school officials,
+
+**if knowledge of the information is necessary to protect health or safety**.
+
+### Important limits
+You should not assume this means “send everything.” FERPA supports disclosure of information that is **necessary** for the safety purpose.
+
+That means:
+
+- **The essay itself**: likely disclosable.
+- **Past behavioral reports**: often disclosable if relevant to assessing or responding to the threat.
+- **Counseling notes**: depends on what they are.
+
+### Special caution on counseling notes
+If by “counseling notes” you mean:
+1. **Education records maintained by the school** relating to the student, they may be disclosed under the emergency exception if necessary.
+2. **Sole possession notes** kept only as a personal memory aid and not shared with others, those may not be “education records” under FERPA at all.
+3. If the student is 18+ or postsecondary and the records are treatment records, different rules may apply—but for a high school student, that usually is not the main issue.
+
+Also remember: FERPA is not the only law in play. **State confidentiality laws, school policy, mandated reporting duties, and threat assessment protocols** may matter too.
+
+### Best practical FERPA approach
+If there appears to be an immediate threat:
+
+1. **Notify school administration and your threat assessment/school safety team immediately.**
+2. **Disclose only what law enforcement needs** to respond to the threat.
+3. **Document the basis** for concluding there was a health/safety emergency.
+4. **Record the disclosure** as required by FERPA’s recordkeeping provisions.
+
+### Why this is allowed
+The statutory basis is:
+- **20 U.S.C. § 1232g(b)(1)(I)** — disclosure “in connection with an emergency” to appropriate persons if necessary to protect health or safety.
+- FERPA also allows schools to include and share disciplinary/safety-related information with officials having legitimate educational interests under **§ 1232g(h)**, but for police disclosure, the emergency exception is the key one.
+
+### Bottom line
+**Yes, FERPA can allow disclosure to local law enforcement without parental consent if the school reasonably believes there is a serious health or safety emergency.**  
+But disclose **only information necessary to address the threat**, and document why the emergency exception was invoked.
+
+If you want, I can give you a **step-by-step FERPA decision checklist for threat situations in K–12 schools**.

@@ -1,0 +1,64 @@
+Yes—generally, FERPA requires the district to **maintain** and, on request, **make available** a record of certain disclosures/accesses to a student’s education records. But there are important limits.
+
+## What FERPA requires
+
+Under **20 U.S.C. § 1232g(b)(4)(A)**, each educational agency or institution must maintain a record with the student’s education records showing:
+
+- all **individuals, agencies, or organizations** that have **requested or obtained access** to the student’s education records, and
+- the **legitimate interest** each had in obtaining the information.
+
+That access record must be available to:
+
+- the **parents**,
+- the school official responsible for the records, and
+- certain authorized auditors/enforcement officials.
+
+So if a parent asks for the access log, FERPA contemplates that the district should be able to provide it.
+
+## Key limitation: not every access has to be logged
+
+The statute expressly excludes from that logging requirement those specified in **§ 1232g(b)(1)(A)**—that is, **other school officials, including teachers, within the educational institution or LEA, whom the district has determined to have legitimate educational interests**.
+
+So the parent is **not necessarily entitled under FERPA to a list of every district employee** who accessed the record if those accesses fall within the “school official with legitimate educational interest” exception.
+
+In other words:
+
+- **Must be logged/disclosed to parent:** many outside disclosures and certain non-(b)(1)(A) requests/accesses.
+- **Need not be logged under the statute:** internal access by qualifying school officials under § 1232g(b)(1)(A).
+
+## Your practical problem: you never kept the log
+
+That is a **compliance issue**. FERPA requires the district to maintain that record. If you have not done so, FERPA does not magically create historical data you never captured—but it does mean the district may already be out of compliance.
+
+## What you should tell the parent
+
+You should not say simply “no.” A better FERPA-grounded response is:
+
+1. The district will provide the **record of disclosures/accesses that FERPA requires to be maintained** for the student.
+2. FERPA does **not require** the district to maintain or provide a log of all internal accesses by school officials with legitimate educational interests.
+3. If the district did not maintain some or all required records historically, be candid about that rather than implying none occurred.
+
+## Best legal answer to your question
+
+### Are you obligated to provide this?
+**Yes, to the extent of the FERPA access/disclosure record that the district was required to maintain.**  
+**No, FERPA does not require you to provide a complete list of every person who ever accessed the file, especially internal school officials covered by § 1232g(b)(1)(A).**
+
+### Are you obligated to have maintained such a log?
+**Yes, for the categories covered by § 1232g(b)(4)(A), excluding the internal school-official exception.**
+
+## Recommended response structure
+
+You should consider responding along these lines:
+
+- We will provide any **FERPA-required record of requests for or disclosures of access** maintained with the student’s education records.
+- FERPA does not require logging of access by district officials who are school officials with legitimate educational interests.
+- To the extent the district does not have historical records for some period, the district can only provide records it maintains.
+
+## Important operational note
+
+You should immediately implement a logging practice going forward for FERPA-required disclosure records. This request highlights a systemic compliance gap.
+
+If you want, I can draft:
+1. a **parent response letter**, and  
+2. a **district corrective-action protocol** for FERPA access logging.

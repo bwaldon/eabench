@@ -1,0 +1,22 @@
+Based on the text of the Family Educational Rights and Privacy Act (FERPA) provided, here is an analysis of your legal obligations regarding this situation:
+
+**1. The Mandatory Five-Year Ban**
+Your primary legal obligation under FERPA in this specific scenario is found in **subsection (b)(4)(B)**. 
+
+When you initially shared the records with the nonprofit, you likely did so under the "studies exception" outlined in **subsection (b)(1)(F)**, which allows districts to share data for the purpose of "improving instruction." However, subsection (b)(4)(B) explicitly states that personal information can only be transferred to a third party on the condition that they *will not permit any other party to have access* to it without the written consent of the parents. 
+
+Because the nonprofit (the third party) improperly redisclosed the data to the technology company in violation of the parental consent requirements of paragraph (2)(A), FERPA mandates a strict penalty: **Your school district is now legally prohibited from permitting that nonprofit organization access to any information from education records for a period of not less than five years.**
+
+**2. Recordkeeping Requirements**
+Under **subsection (b)(4)(A)**, your district is required to maintain a record, kept with the education records of each student, indicating all individuals or organizations that have requested or obtained access to the records, and their legitimate interest in doing so. You should ensure that your district's access log accurately reflects the initial sharing with the nonprofit. While the statute does not explicitly detail how to document a downstream breach in this log, maintaining an accurate record of who received the data from you is a strict compliance requirement.
+
+**3. Verification of Destruction of Data**
+Under the original exception that allowed you to share the data **(subsection (b)(1)(F))**, the nonprofit was legally required to destroy the information "when no longer needed for the purpose for which it is conducted." Furthermore, **subsection (b)(4)(B)** ties the five-year ban not only to unauthorized sharing but also if a third party "fails to destroy information in violation of paragraph (1)(F)." 
+
+While you must immediately enforce the five-year ban, you should also demand that the nonprofit and the technology company immediately destroy all personally identifiable student data they possess to comply with the statutory requirement that the data be destroyed when the original instructional study concluded. 
+
+**Summary of Immediate Action Steps:**
+*   **Cut off access:** Immediately terminate any ongoing access the nonprofit has to your district's education records.
+*   **Enforce the ban:** Put a policy/block in place ensuring this specific nonprofit is not granted access to any student education records for a minimum of five years.
+*   **Demand destruction:** Formally demand that the nonprofit and the tech company securely destroy all personally identifiable data derived from your district. 
+*   **Review your contracts:** Moving forward, ensure that any data-sharing agreements explicitly state the conditions of **subsection (b)(4)(B)**—namely, that the receiving party cannot share the data with anyone else without written parental consent and must destroy it when the study is complete.

@@ -1,0 +1,125 @@
+# FERPA Analysis: Campus Police Incident Reports and Parental Access
+
+## Preliminary Framework
+
+This scenario presents a multi-layered FERPA problem requiring careful analysis of **several intersecting provisions**. Let me work through each layer systematically, because the answer depends on the precise nature of the record, the status of the student, and the relationship of the parent.
+
+---
+
+## I. Threshold Question: Are These Records "Education Records" at All?
+
+This is the most critical determination and requires distinguishing between the two types of reports described.
+
+### Type 1: Reports Created Solely for Law Enforcement Purposes
+
+Under **§(a)(4)(B)(ii)**, the term "education records" explicitly **does not include**:
+
+> *"records maintained by a law enforcement unit of the educational agency or institution that were created by that law enforcement unit for the purpose of law enforcement"*
+
+This exclusion is clear and categorical. Reports created **solely** for law enforcement purposes — such as a criminal investigation into dormitory theft — and stored in the campus police database fall squarely within this carve-out. These records are **not education records under FERPA**, which means:
+
+- FERPA's disclosure restrictions **do not apply** to them
+- FERPA's parental access rights **also do not apply** to them
+- Their release or withholding is governed by **other applicable law** (state open records statutes, state privacy laws, departmental policy, etc.)
+
+The campus police's argument that "the report is protected under FERPA because it contains the student's education record" is therefore **incorrect** with respect to this category. FERPA neither protects nor grants access to these records — it simply does not govern them.
+
+### Type 2: Reports Documenting Student Behavior Violations for Disciplinary Purposes
+
+This is where the analysis becomes significantly more complex. A report created to document student conduct violations for referral to the university's disciplinary office meets **both prongs** of the education records definition under **§(a)(4)(A)**:
+
+1. **It contains information directly related to a student** — specifically, information about the student's behavior and alleged violations
+2. **It is maintained by the educational agency or institution** — once transmitted to and maintained by the disciplinary office, it becomes part of the institution's records system
+
+Such records **are education records** under FERPA.
+
+### The Overlap Problem
+
+The scenario acknowledges that some reports **overlap** — they serve both law enforcement and disciplinary purposes. This is the most contested factual scenario. The critical question is: **was the record created by the law enforcement unit for the purpose of law enforcement?**
+
+The statutory exclusion in §(a)(4)(B)(ii) focuses on two elements:
+- **Created by** the law enforcement unit
+- **For the purpose of** law enforcement
+
+If a single incident generates two separate documents — one for criminal investigation, one for disciplinary referral — each is analyzed independently. However, if a **single document** was created for dual purposes, the prevailing interpretation under Department of Education guidance is that the law enforcement exclusion applies only to records created and maintained **exclusively** by the law enforcement unit for law enforcement purposes. Once a copy is shared with and maintained by the disciplinary office, **that copy** becomes an education record, even if the original in the police database retains its law enforcement record status.
+
+---
+
+## II. The Parental Access Question: The 19-Year-Old Student Problem
+
+Assuming we have identified records that qualify as education records (Type 2 or overlapping records maintained by the disciplinary office), we must now address whether the **parent** has a right of access.
+
+### The Age Transfer Under §(d)
+
+This provision is dispositive and unambiguous:
+
+> *"whenever a student has attained eighteen years of age, or is attending an institution of postsecondary education, the permission or consent required of and the rights accorded to the parents of the student shall thereafter only be required of and accorded to the student."*
+
+The student in question is **19 years old** and attending a university (an institution of postsecondary education). Both triggering conditions are met. Therefore:
+
+- **The right to inspect and review education records under §(a)(1)** now belongs to the **student**, not the parent
+- **The consent requirement under §(b)** — requiring written consent before disclosure — now requires the **student's** consent, not the parent's
+- The parent's FERPA-based right of access has been **fully transferred** to the student
+
+The registrar's belief that "the parent may have rights to see it under directory/record disclosure provisions" requires careful scrutiny.
+
+---
+
+## III. Potential Avenues for Parental Access Despite the Age Transfer
+
+Despite the general transfer of rights, FERPA contains **specific exceptions** that could permit disclosure to the parent. Let me examine each.
+
+### Exception 1: Tax Dependency — §(b)(1)(H)
+
+FERPA permits disclosure without consent to:
+
+> *"parents of a dependent student of such parents, as defined in section 152 of title 26"*
+
+This is the **most significant potential avenue** for the parent. If the 19-year-old student is claimed as a dependent on the parent's federal tax return under 26 U.S.C. §152, the institution **may** (but is not **required** to) disclose education records to the parent without the student's consent.
+
+**Key nuances:**
+- This is a **permissive** exception, not a mandatory one — the institution has discretion
+- The parent would need to **demonstrate** dependency status, typically by providing a copy of the most recent tax return or a certification
+- The institution must have a policy or practice addressing how it handles such requests
+
+### Exception 2: Health or Safety Emergency — §(b)(1)(I)
+
+Disclosure is permitted:
+
+> *"subject to regulations of the Secretary, in connection with an emergency, appropriate persons if the knowledge of such information is necessary to protect the health or safety of the student or other persons"*
+
+This exception is **narrowly construed** and applies only in genuine emergencies. A parent's retrospective desire to "understand the disciplinary outcome" does not constitute an emergency. This exception is **inapplicable** on these facts.
+
+### Exception 3: Directory Information — §(a)(5) and §(b)(1)
+
+The registrar's suggestion about "directory/record disclosure provisions" warrants analysis. Directory information under §(a)(5)(A) includes items like:
+
+> *"the student's name, address, telephone listing, date and place of birth, major field of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received"*
+
+Disciplinary incident reports, conduct violations, and disciplinary outcomes are **not directory information**. They are not listed in §(a)(5)(A), and no reasonable reading of that provision would encompass them. Furthermore, even if the university designated certain information as directory information, the student (having assumed rights under §(d)) would have the right to opt out of such disclosure under §(a)(5)(B).
+
+The registrar's position is therefore **incorrect** if premised on directory information provisions.
+
+### Exception 4: Disciplinary Records Disclosure Under §(h)
+
+Section (h) provides that nothing in FERPA prohibits an institution from:
+
+> *"including appropriate information in the education record of any student concerning disciplinary action taken against such student for conduct that posed a significant risk to the safety or well-being of that student, other students, or other members of the school community"*
+
+And:
+
+> *"disclosing such information to teachers and school officials, including teachers and school officials in other schools, who have legitimate educational interests in the behavior of the student"*
+
+This provision permits disclosure to **teachers and school officials** — not to parents. It does not create a parental access right.
+
+### Exception 5: Crime of Violence or Non-Forcible Sex Offense — §(b)(6)
+
+Under §(b)(6)(A), an institution of postsecondary education may disclose to an **alleged victim** the final results of a disciplinary proceeding concerning a crime of violence or non-forcible sex offense. Under §(b)(6)(B), the institution may disclose such results **publicly** if the student was found to have committed the violation.
+
+Unless the parent is the alleged victim, and unless the underlying conduct constitutes a crime of violence or non-forcible sex offense, this exception is **inapplicable**.
+
+### Exception 6: Alcohol or Controlled Substance Violations — §(i)
+
+This provision is **directly relevant** if the incident involved drugs or alcohol:
+
+> *"Nothing in this Act...shall be construed to prohibit an institution of higher education from disclosing, to a parent or legal guardian of a student, information regarding any violation of any Federal, State, or local law, or of any rule or policy of the institution, governing the use or possession of alcohol or a controlled substance...if— (A) the student is under the age of 21; and (B) the institution determines that the student has committed a disciplinary violation

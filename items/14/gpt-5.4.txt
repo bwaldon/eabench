@@ -1,0 +1,28 @@
+No.
+
+FERPA permits the university to disclose to the alleged victim the “final results” of the disciplinary proceeding, but not the full report unless the report contains only the limited information FERPA allows.
+
+Relevant rule: 20 U.S.C. § 1232g(b)(6)(A)–(C).
+
+What may be disclosed to the alleged victim:
+- the name of the student found responsible,
+- the violation committed,
+- any sanction imposed by the institution.
+
+What may not be disclosed under this exception:
+- the full investigative or disciplinary report,
+- witness statements,
+- narrative findings beyond the “final results,”
+- personally identifiable information about other students, including witnesses,
+- the victim’s own name only if included as “another student” without written consent issue being relevant; but disclosure of broader report contents is still not authorized by this provision.
+
+FERPA specifically defines “final results” narrowly. Under § 1232g(b)(6)(C), they:
+- “shall include only” the student’s name, the violation committed, and any sanction imposed; and
+- “may include” the name of any other student, such as a victim or witness, only with that other student’s written consent.
+
+So the safer FERPA-compliant approach is:
+- provide a determination letter or summary limited to the final results,
+- redact any information beyond those elements,
+- do not provide the full report unless another FERPA basis independently authorizes that disclosure.
+
+Bottom line: the university may disclose the final results to the alleged victim, but FERPA does not permit disclosure of the full report under the crime-of-violence exception alone.

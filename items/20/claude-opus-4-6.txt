@@ -1,0 +1,52 @@
+# Transferring Education Records to a Receiving School Under FERPA
+
+**Short answer: Yes, you may forward the records, provided certain conditions are met.**
+
+## The Applicable Provision
+
+The relevant authority is **subsection (b)(1)(B)**, which permits disclosure of education records without prior written parental consent to:
+
+> *"officials of other schools or school systems in which the student seeks or intends to enroll"*
+
+Since the student has actually enrolled in the neighboring high school, this exception clearly applies. However, the statute attaches **three important conditions**:
+
+---
+
+## Conditions You Must Satisfy
+
+### 1. **Parental Notification of the Transfer**
+The parents must be notified that the records are being transferred. This is a mandatory condition under (b)(1)(B).
+
+### 2. **Copy of the Records**
+The parents must receive a copy of the records being sent, **if they desire one**. You should inform them of this right and provide a reasonable opportunity to request the copy.
+
+### 3. **Opportunity for a Hearing to Challenge Content**
+The parents must be given an opportunity to challenge the content of the records before or in connection with the transfer. This ties back to **subsection (a)(2)**, which guarantees parents the right to a hearing to correct records that are inaccurate, misleading, or otherwise in violation of the student's privacy rights.
+
+---
+
+## Practical Steps for Your Office
+
+1. **Send written notice** to the parents informing them that the high school has requested the records and that you intend to forward them.
+2. **Inform the parents** that they may request a copy of the records being transferred.
+3. **Inform the parents** of their right to request a hearing to challenge any content they believe is inaccurate or misleading.
+4. **Document the disclosure** in the student's access record as required by **subsection (b)(4)(A)** — noting the requesting school, the date, and the legitimate educational interest (enrollment).
+5. **Forward the records** to the high school.
+
+---
+
+## A Key Practical Note
+
+FERPA does **not** require you to wait for parental consent or to delay the transfer until the parent has actually exercised (or waived) the right to a hearing. The statute requires that the parent be **notified** and **afforded the opportunity** — not that the process must be completed before transmission. That said, many districts adopt policies that provide a brief window (e.g., a few business days after notification) before transmitting records, to give parents a meaningful opportunity to act. You should check your **own district's policy** on timing, as it may impose stricter requirements than FERPA's floor.
+
+---
+
+## What You Should **Not** Do
+
+- Do **not** require written parental consent as a prerequisite. The inter-school transfer exception is specifically designed to avoid that barrier.
+- Do **not** disclose the records to the requesting school if the student has **not** actually sought or intended to enroll there — in that case, the exception would not apply.
+- Do **not** forget to log the disclosure under (b)(4)(A).
+
+---
+
+**Bottom line:** FERPA expressly authorizes this transfer. Notify the parents, offer them a copy and the right to challenge, log the disclosure, and send the records.

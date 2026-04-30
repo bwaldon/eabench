@@ -1,0 +1,24 @@
+Not necessarily.
+
+Under FERPA, a student generally has the right to inspect their “education records.” But FERPA expressly excludes certain treatment records from that definition.
+
+For a 21-year-old enrolled university student, records are not “education records” if they are:
+
+- made or maintained by a physician, psychiatrist, psychologist, or other recognized professional or paraprofessional,
+- acting in that professional capacity,
+- made, maintained, or used only in connection with treatment of the student, and
+- not available to anyone other than persons providing such treatment,
+
+except that the records may be personally reviewed by a physician or other appropriate professional of the student’s choice.
+
+That is the exception in 20 U.S.C. § 1232g(a)(4)(B)(iv).
+
+So:
+
+- If the counseling center session notes are true FERPA “treatment records,” the university is not required under FERPA to provide the student direct access to those notes.
+- Instead, FERPA allows those records to be reviewed by a physician or other appropriate professional chosen by the student.
+- If the notes have been shared beyond treatment providers, or used for non-treatment purposes, they may lose treatment-record status and could become accessible as education records.
+- Also, separate state law, HIPAA exclusions/applications, licensing rules, or university policy may give the student additional access rights even if FERPA itself does not.
+
+Practical bottom line:  
+If these are psychologist counseling notes maintained solely for treatment and only accessible to treatment providers, FERPA does not require you to let the student inspect them directly. FERPA would permit review through an appropriate professional of the student’s choice. If the records were disclosed or used outside treatment, analyze carefully because they may no longer be exempt treatment records.

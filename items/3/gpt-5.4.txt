@@ -1,0 +1,41 @@
+Yes.
+
+Under FERPA, the U.S. Department of Education may access student education records, including personally identifiable information, in limited circumstances without parental consent.
+
+The key provision is 20 U.S.C. § 1232g(b)(3), which says FERPA does not preclude authorized representatives of:
+
+- the Comptroller General,
+- the Secretary of Education, or
+- State educational authorities
+
+from having access to student or other records necessary for:
+
+- the audit and evaluation of federally supported education programs, or
+- enforcement of federal legal requirements relating to those programs.
+
+Important limits apply:
+
+1. The access must be for a qualifying purpose  
+   The Secretary cannot access records for just any reason. The records must be necessary for:
+   - audit/evaluation of a federally supported education program, or
+   - enforcement of federal education-law requirements.
+
+2. Personally identifiable information may be accessed only under FERPA’s safeguards  
+   The statute allows collection of personally identifiable information when authorized by federal law. The information must be:
+   - protected so students and parents are not personally identified except by authorized officials, and
+   - destroyed when no longer needed for the audit, evaluation, or enforcement purpose.
+
+3. Recordkeeping requirements still matter  
+   Under § 1232g(b)(4)(A), the district generally must maintain a record of who requested or obtained access and their legitimate interest, except for certain categories not applicable here.
+
+So for LAUSD, the practical answer is:
+
+- Yes, the Department of Education may lawfully obtain access to personally identifiable student records without consent if the requester is an authorized representative of the Secretary and the request is tied to a FERPA-permitted audit, evaluation, or enforcement function.
+- No, FERPA does not allow unrestricted access. LAUSD should verify:
+  - who exactly is requesting the records,
+  - that the requester is an authorized representative,
+  - the specific federal program or legal enforcement purpose,
+  - why the requested personally identifiable information is necessary,
+  - what confidentiality and data-destruction protections will apply.
+
+If you want, I can also give you a short “district counsel” style checklist for responding to the Department’s request.

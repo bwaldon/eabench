@@ -1,0 +1,108 @@
+Yes, possibly — but only if the disclosure fits FERPA’s **studies exception** and you structure it correctly.
+
+### Short answer
+Under **20 U.S.C. § 1232g(b)(1)(F)**, a district may disclose education records **without parental consent** to:
+
+> “organizations conducting studies for, or on behalf of, educational agencies or institutions for the purpose of developing, validating, or administering predictive tests, administering student aid programs, and improving instruction,”
+
+**if**:
+1. the study is **for or on behalf of** the district or school,
+2. it is for one of the permitted FERPA purposes, most relevant here: **improving instruction**,
+3. the study is conducted so that the researchers do **not permit personal identification** of students/parents except by their own authorized representatives, and
+4. the data are **destroyed when no longer needed** for the study.
+
+### Key issue for your scenario
+A university lab wants student-level data to study correlations between socioeconomic factors and academic outcomes, with publication in a journal.
+
+That is **not automatically allowed** just because it is academic research.
+
+The central FERPA question is:
+
+## Is the university conducting the study **for or on behalf of the district**, and is the study for a permitted purpose such as **improving instruction**?
+
+If the answer is **yes**, then disclosure without consent may be permissible.
+
+If the answer is **no** — for example, if the university is doing a general scholarly project primarily for its own research/publication purposes — then **FERPA would not allow disclosure without consent** under the studies exception.
+
+---
+
+## What must be true for disclosure without consent
+
+### 1. The study must be for or on behalf of the district
+The district should be able to say the university is acting as its agent/contractor to conduct a study the district is using for an educational purpose.
+
+Bad facts:
+- university independently proposes a paper topic,
+- district has no operational use for the results,
+- agreement says data are for the university’s research agenda.
+
+Better facts:
+- district commissions or sponsors the study,
+- study is tied to district decision-making,
+- agreement says the study is being conducted **for the district** to evaluate or improve educational practices.
+
+### 2. The purpose must fit FERPA
+The most plausible permitted purpose here is **improving instruction**.
+
+A broad study of socioeconomic factors and outcomes may qualify **if** the district can reasonably connect it to instructional improvement, intervention design, resource allocation, or support strategies.
+
+If it is purely descriptive social science research with no real instructional nexus, the fit is weaker.
+
+### 3. The district needs a written agreement
+While your quoted statute states the basic rule, FERPA practice requires a formal agreement that limits use and disclosure. The agreement should clearly cover:
+- purpose of the study,
+- that it is conducted **for or on behalf of** the district,
+- scope of data,
+- prohibition on redisclosure,
+- confidentiality/security safeguards,
+- destruction timeline,
+- publication only in aggregate/de-identified form.
+
+### 4. Publication cannot identify students or parents
+The statute requires the study to be conducted so it “will not permit the personal identification of students and their parents” by anyone other than the organization’s representatives.
+
+So:
+- published results should be aggregated or de-identified,
+- small-cell suppression and disclosure avoidance should be used,
+- no student-level identifiable data in publications.
+
+### 5. Data must be destroyed when no longer needed
+The university cannot keep identifiable data indefinitely for future unspecified research.
+
+---
+
+## Practical risk point
+If the university wants the data mainly because:
+- it wants a publishable dataset,
+- it will use the records for its own academic research,
+- it may reuse the data later,
+
+then I would be cautious. That often looks less like a FERPA-permitted “study for or on behalf of” the district and more like an independent research project, which generally would require:
+- **parental consent**, or
+- truly **de-identified data** outside FERPA.
+
+---
+
+## Safer alternatives
+
+### Option 1: Share only de-identified data
+If the district can properly de-identify the data so students are not reasonably identifiable, FERPA does not restrict the disclosure as education records with PII.
+
+This is often the cleanest path for publication-oriented research.
+
+### Option 2: Structure it as a FERPA studies-exception agreement
+If the district genuinely wants the study for district purposes, use a strong written agreement and disclose only the minimum necessary data.
+
+### Option 3: Obtain consent
+If the study does not comfortably fit the studies exception, parental consent is the most conservative route.
+
+---
+
+## Bottom line
+**Yes, you may be able to share student-level records without parental consent under FERPA, but only if the university is conducting the study for or on behalf of the district for a FERPA-permitted purpose such as improving instruction, with strict limits on identification, redisclosure, and retention.**
+
+**No, you should not rely on FERPA to share identifiable student records without consent if this is merely the university’s independent research project for publication.**
+
+If you want, I can give you:
+1. a **FERPA compliance checklist** for this type of data-sharing request, or  
+2. a **sample contract clause list** for a district–university research agreement.

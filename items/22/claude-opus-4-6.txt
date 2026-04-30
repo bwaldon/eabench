@@ -1,0 +1,111 @@
+# FERPA Analysis: Disclosure of Education Records to a Child Welfare Agency Caseworker
+
+## Short Answer
+
+**Yes, you are likely permitted to disclose these records without parental consent**, but only if specific conditions established under FERPA are satisfied. The relevant authority is **subsection (b)(1)(L)**, which creates a specific exception for child welfare agency caseworkers. However, this exception is not automatic—it requires you to verify that several prerequisites are met before releasing any records.
+
+---
+
+## Detailed Legal Analysis
+
+### The Applicable Exception: Subsection (b)(1)(L)
+
+FERPA's general rule, established in subsection (b)(1), prohibits the release of education records or personally identifiable information without written parental consent. However, the statute enumerates specific exceptions, and the one directly on point here is **(b)(1)(L)**, which permits disclosure to:
+
+> *"an agency caseworker or other representative of a State or local child welfare agency, or tribal organization (as defined in section 5304 of title 25), who has the right to access a student's case plan, as defined and determined by the State or tribal organization, when such agency or organization is legally responsible, in accordance with State or tribal law, for the care and protection of the student"*
+
+This provision was added to FERPA precisely to address the situation you are describing—a foster child whose educational planning requires coordination between the school and the child welfare system.
+
+### The Four Conditions You Must Verify
+
+Before disclosing records under this exception, you must confirm **each** of the following:
+
+---
+
+**1. The caseworker is a representative of a State or local child welfare agency**
+
+You should verify that the individual presenting themselves at your office is in fact an authorized representative of your county's child welfare agency. This means:
+
+- Requesting official identification and agency credentials
+- Confirming the person's employment with the agency, ideally through an independent verification step such as calling the agency directly
+- Documenting who the caseworker is and the agency they represent
+
+**2. The caseworker has the right to access the student's case plan**
+
+The statute does not authorize disclosure to *any* employee of a child welfare agency. It specifically limits the exception to a caseworker or representative **"who has the right to access a student's case plan, as defined and determined by the State or tribal organization."** This means:
+
+- The caseworker must be someone assigned to or authorized to work on this particular child's case
+- The caseworker should be able to confirm or demonstrate that they have case plan access for this specific student
+- You should ask the caseworker to confirm this and document their representation
+
+**3. The agency is legally responsible for the care and protection of the student**
+
+The statute requires that the agency be **"legally responsible, in accordance with State or tribal law, for the care and protection of the student."** A child in foster care is generally under the legal custody or guardianship of the child welfare agency, which would satisfy this requirement. However, you should:
+
+- Confirm that the child is in fact in foster care or otherwise under the legal responsibility of the agency
+- Consider requesting documentation of the agency's legal responsibility (such as a court order placing the child in foster care, or a letter from the agency confirming legal custody)
+
+**4. The downstream confidentiality restrictions are understood and will be honored**
+
+The final clause of (b)(1)(L) imposes a critical limitation on what happens to the records *after* you disclose them:
+
+> *"provided that the education records, or the personally identifiable information contained in such records, of the student will not be disclosed by such agency or organization, except to an individual or entity engaged in addressing the student's education needs and authorized by such agency or organization to receive such disclosure and such disclosure is consistent with the State or tribal laws applicable to protecting the confidentiality of a student's education records."*
+
+This means:
+
+- The child welfare agency **cannot freely redistribute** the student's education records to anyone
+- The agency may only share the records with individuals or entities **engaged in addressing the student's education needs**
+- Those recipients must be **authorized by the agency** to receive the disclosure
+- The further disclosure must be **consistent with applicable State or tribal confidentiality laws**
+
+You should communicate these restrictions to the caseworker and, as a best practice, document that you have done so.
+
+---
+
+## Scope of Permissible Disclosure
+
+You asked specifically about **grades, attendance records, the IEP, and the disciplinary file**. The statute refers broadly to "education records," which under **(a)(4)(A)** means:
+
+> *"those records, files, documents, and other materials which (i) contain information directly related to a student; and (ii) are maintained by an educational agency or institution or by a person acting for such agency or institution."*
+
+All four categories you identified—grades, attendance, the IEP, and disciplinary records—fall within this definition. Subsection (b)(1)(L) does not limit the type of education records that may be disclosed; it authorizes disclosure of education records generally, provided the conditions are met.
+
+That said, I would offer two practical notes of caution:
+
+- **The IEP** may also be subject to additional confidentiality protections under the **Individuals with Disabilities Education Act (IDEA)** and its implementing regulations, as well as any applicable state law. While FERPA permits the disclosure, you should confirm that IDEA's confidentiality provisions do not impose additional requirements in your jurisdiction.
+- **The disciplinary file** is expressly contemplated by FERPA itself. Subsection **(h)** confirms that nothing in FERPA prohibits including disciplinary information in education records or disclosing it to officials with legitimate educational interests. The caseworker's need for the disciplinary file to plan the child's educational placement is consistent with the purpose of the (b)(1)(L) exception.
+
+---
+
+## Recordkeeping Obligation
+
+Under **subsection (b)(4)(A)**, you are required to maintain a record of this disclosure. Specifically, you must:
+
+- Note in the student's education records that the caseworker and the child welfare agency requested and obtained access
+- Document the **legitimate interest** the agency has in the records
+- This access log must be maintained with the student's education records and is itself available only to parents, responsible school officials, and authorized auditing entities under (b)(1)(A) and (b)(1)(C)
+
+The only individuals exempt from this logging requirement are school officials under (b)(1)(A). Since a child welfare caseworker is not a school official, **you must log this disclosure**.
+
+---
+
+## What You Should Do: Practical Checklist
+
+| Step | Action |
+|------|--------|
+| **1** | Verify the caseworker's identity and agency affiliation through official credentials and independent confirmation |
+| **2** | Confirm the caseworker has the right to access this specific student's case plan |
+| **3** | Confirm the agency holds legal responsibility for the care and protection of this student (request supporting documentation) |
+| **4** | Inform the caseworker of the downstream confidentiality restrictions imposed by (b)(1)(L)—records may only be shared with those addressing the student's educational needs, as authorized, and consistent with State law |
+| **5** | Document all of the above verifications |
+| **6** | Disclose the requested records |
+| **7** | Log the disclosure in the student's access record pursuant to (b)(4)(A) |
+| **8** | If the IEP is included, confirm compliance with any additional IDEA confidentiality requirements applicable in your state |
+
+---
+
+## Conclusion
+
+FERPA's subsection (b)(1)(L) provides a **clear statutory basis** for disclosing this student's education records to the child welfare caseworker without parental consent, provided the conditions outlined above are verified and documented. This exception was specifically designed to facilitate educational planning for children in the child welfare system. Your obligation is not to refuse disclosure, but to **exercise due diligence** in confirming the prerequisites and to **maintain proper records** of the disclosure.
+
+If you have any doubt about whether the caseworker or agency satisfies the statutory conditions, or if your state has enacted additional restrictions on such disclosures, I would recommend consulting your district's legal counsel before proceeding.

@@ -1,0 +1,42 @@
+Yes—generally, **yes**, your school **may disclose the student’s education records to the new high school without prior parental consent** under FERPA, **if the student seeks or intends to enroll, or is already enrolled there**.
+
+### FERPA basis
+The key exception is in **20 U.S.C. § 1232g(b)(1)(B)**, which allows disclosure to:
+
+> “officials of other schools or school systems in which the student seeks or intends to enroll”
+
+provided that:
+
+- the **parents are notified of the transfer**,
+- they may **receive a copy of the record if desired**, and
+- they have an **opportunity for a hearing to challenge the content of the record**.
+
+### What that means for your situation
+Because the student has **recently enrolled** in the neighboring district’s high school, your K–8 school may send the records to that school **without first obtaining written parental consent**, so long as your school complies with FERPA’s notice-related requirements.
+
+### Practical conditions
+You should confirm:
+
+1. **The requesting school is the school of enrollment**  
+   Make sure the student has actually enrolled or is seeking/intending to enroll there.
+
+2. **Your annual FERPA notice covers this type of disclosure**, or you otherwise provide the required notice  
+   Under FERPA regulations, many schools satisfy this through their annual FERPA notice stating that records may be sent to another school where the student enrolls or seeks to enroll. If your notice does not already cover it, give notice consistent with your policy.
+
+3. **Parents can inspect/copy and challenge the records**  
+   FERPA does not require you to delay sending records until a hearing occurs, but parents must have the right to inspect and seek amendment of inaccurate or misleading records.
+
+4. **You maintain a record of the disclosure request/access**, unless an applicable exception to logging applies under your procedures/regulations.
+
+### About sending the “complete” record
+FERPA permits disclosure of the student’s **education records**, but you should still send only what is properly part of the student’s education record and maintained by the school. Be mindful that some things are **not** “education records” under FERPA, such as:
+
+- sole-possession notes,
+- certain law-enforcement unit records,
+- certain employee records, and
+- certain treatment records.
+
+### Bottom line
+**Yes, you may send the records to the receiving high school without parental consent under FERPA’s school-transfer exception**, assuming the student is enrolling/has enrolled there and your school complies with the parent notice and access/challenge requirements.
+
+If you want, I can also give you a **registrar-ready checklist** or a **sample response email** to the receiving school.

@@ -1,0 +1,88 @@
+# FERPA and Counseling/Treatment Records: Detailed Analysis
+
+## Short Answer
+
+**No, you are not required under FERPA to give the student access to those psychologist session notes**, provided certain conditions are met. These records fall within a specific exclusion from the definition of "education records" under the statute.
+
+---
+
+## The Governing Provision
+
+The key provision is **subsection (a)(4)(B)(iv)**, which excludes from the definition of "education records":
+
+> *"records on a student who is eighteen years of age or older, or is attending an institution of postsecondary education, which are made or maintained by a physician, psychiatrist, psychologist, or other recognized professional or paraprofessional acting in his professional or paraprofessional capacity, or assisting in that capacity, and which are made, maintained, or used only in connection with the provision of treatment to the student, and are not available to anyone other than persons providing such treatment..."*
+
+Your student is 21 years old and enrolled at a university (an institution of postsecondary education), so the age/enrollment threshold is clearly satisfied.
+
+---
+
+## The Four Conditions That Must Be Met for the Exclusion to Apply
+
+For the session notes to fall outside FERPA's definition of "education records"—and therefore outside the student's FERPA inspection right—**all four** of the following conditions must be satisfied:
+
+### 1. Created by a Qualifying Professional
+The records must be made or maintained by a **"physician, psychiatrist, psychologist, or other recognized professional or paraprofessional"** acting in that professional capacity.
+
+- **Your situation:** A staff psychologist at the university counseling center clearly qualifies. This condition is met.
+
+### 2. Made, Maintained, or Used Only in Connection with Treatment
+The records must be **"made, maintained, or used only in connection with the provision of treatment to the student."**
+
+- **Critical point:** If the session notes have been used for any non-treatment purpose—such as providing information to academic administrators for a behavioral intervention team review, informing a disciplinary proceeding, supporting a housing accommodation decision, or contributing to academic progress evaluations—the exclusion could be jeopardized. The records must be siloed strictly for treatment purposes.
+
+### 3. Not Available to Anyone Other Than Treatment Providers
+The records must **"not [be] available to anyone other than persons providing such treatment."**
+
+- **This is often where problems arise.** If counseling center records have been shared with—or are accessible to—deans of students, faculty, academic advisors, disability services staff, campus police, or any other non-treatment personnel, the exclusion may no longer apply. Access must be genuinely restricted to those providing treatment.
+- Note that this means other clinicians involved in the student's care within the counseling center can access them, but administrative staff who are not part of the treatment team generally should not.
+
+### 4. The Student Is 18+ or Attending a Postsecondary Institution
+- **Your situation:** The student is 21 and enrolled. This is clearly satisfied.
+
+---
+
+## The Important Caveat: The "Physician of the Student's Choice" Provision
+
+Even though these records are **excluded from "education records"** under FERPA (meaning the statute does not compel you to provide the student direct access), the exclusion contains a significant qualifier:
+
+> *"...except that such records can be personally reviewed by a physician or other appropriate professional of the student's choice."*
+
+This means:
+
+- The student **cannot demand to personally inspect** the session notes under FERPA.
+- The student **can** designate a physician or other appropriate professional of her choosing to personally review those records.
+- If she makes such a designation, you would be required to allow that designated professional to review the records.
+
+---
+
+## Practical Considerations and Risks
+
+### What Could Cause This Exclusion to Fail?
+
+| Scenario | Risk |
+|---|---|
+| Session notes were shared with a dean or conduct office | Records may become "education records" subject to full access rights |
+| Notes are stored in the same system as general student records accessible to non-treatment staff | Could undermine the "not available to anyone other than persons providing treatment" requirement |
+| A counselor wrote a letter to a professor about the student based on the notes | The notes may have been "used" for a non-treatment purpose |
+| Counseling center provided information to a BIT (Behavioral Intervention Team) including non-clinicians | Potentially destroys the exclusion |
+
+### Recommendations for Your Center
+
+1. **Audit access controls.** Confirm that the specific session notes at issue have not been shared with, or made accessible to, any non-treatment personnel.
+
+2. **Review the record for dual-use.** Determine whether any portion of the session notes was used for a purpose beyond treatment (e.g., a letter of support for academic withdrawal, a report to a threat assessment team).
+
+3. **Segregate records rigorously.** If your counseling center creates any documents for non-treatment purposes (accommodation letters, fitness-for-duty assessments, communications with administrators), those should be created and maintained separately from treatment notes.
+
+4. **Respond to the student's request carefully.** You should provide access to any records the university maintains about her that **do** qualify as "education records." For the treatment records, you should inform her in writing that:
+   - These specific records are excluded from the definition of "education records" under 20 U.S.C. § 1232g(a)(4)(B)(iv);
+   - She has the right to have a physician or other appropriate professional of her choice personally review those records; and
+   - You are prepared to facilitate such a review if she designates a professional.
+
+5. **Do not overlook other legal frameworks.** Even though FERPA does not require disclosure, be aware that **state law** (such as state patient access-to-records statutes or state mental health confidentiality laws) and **HIPAA** (if your counseling center is a HIPAA-covered entity, which some university counseling centers are) may independently grant the student a right of access to her treatment records. FERPA's exclusion only means FERPA itself does not compel disclosure—it does not prohibit it, and other laws may require it.
+
+---
+
+## Bottom Line
+
+Under FERPA alone, the psychologist's session notes are **not "education records"** so long as they were created by a qualifying professional for treatment purposes and have been kept strictly within the treatment context. You are **not obligated to provide the student direct access** to those notes under FERPA. You **are** obligated to allow a professional of her choice to review them. And you should independently assess whether state law or HIPAA creates a separate right of access.

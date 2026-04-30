@@ -1,0 +1,29 @@
+As a legal expert specializing in FERPA, I can advise you that **yes, you are permitted to disclose the student's education records to the caseworker without parental consent**, provided certain conditions are verified. 
+
+Under the specific provisions of FERPA, there is an exception to the parental consent requirement designed exactly for this scenario (foster care and child welfare).
+
+Here is the breakdown of the law and the steps you must take to comply:
+
+### The Legal Basis: Section (b)(1)(L)
+Under FERPA subsection **(b)(1)**, no funds shall be made available to an educational agency that releases education records without parental consent *except* to specific parties. 
+
+Subsection **(b)(1)(L)** explicitly permits disclosure without parental consent to:
+> *"an agency caseworker or other representative of a State or local child welfare agency... who has the right to access a student's case plan... when such agency or organization is legally responsible... for the care and protection of the student..."*
+
+Because the student is in foster care and the county child welfare agency is legally responsible for their care, the caseworker qualifies under this exception. This covers all the records you mentioned, as grades, attendance, IEPs, and disciplinary files all fall under the definition of "education records" in subsection (a)(4)(A).
+
+### Your Checklist Before Releasing the Records
+Before handing over the files, you should verify and ensure the following to remain in full compliance with FERPA:
+
+1. **Verify Legal Responsibility:** Confirm that the child welfare agency actually has legal responsibility for the care and protection of the student (e.g., ask to see an agency document, placement letter, or court order showing the child is in the legal custody of the agency).
+2. **Verify Identity:** Confirm the identity of the caseworker requesting the records (e.g., check their agency ID badge). 
+3. **Notify of Redisclosure Limits:** You must ensure the caseworker understands that under (b)(1)(L), the agency is strictly prohibited from redisclosing these records to anyone else, **except** to an individual or entity engaged in addressing the student’s educational needs (and it must be consistent with State confidentiality laws). 
+
+### Required Recordkeeping: Section (b)(4)(A)
+Do not forget your record-keeping duties. Under subsection **(b)(4)(A)**, your school must maintain a log kept with the student's education records. 
+
+When you release these files to the caseworker, you must document:
+* The name of the caseworker and the agency they represent.
+* The specific legitimate interest the agency had in obtaining the information (in this case, "to plan for the child's educational placement").
+
+**Summary:** You may legally share the complete file with the caseworker today without parental consent. Just verify their credentials and agency custody, remind them of the limits on redisclosure, and log the request in the student's file.

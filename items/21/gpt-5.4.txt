@@ -1,0 +1,62 @@
+Generally: **No, not without the student’s written consent**, unless a specific FERPA exception clearly applies.
+
+Because this is a **private university** and the student is presumably enrolled in **postsecondary education**, FERPA rights belong to the **student**, not the parent. So you need the **student’s consent** unless one of FERPA’s disclosure exceptions covers the request.
+
+## Record-by-record analysis
+
+### 1. Academic transcript
+A transcript is an **education record** under FERPA.
+
+You may disclose it **without consent** only if an exception applies. For a **national scholarship foundation**, the only possibly relevant exception here is:
+
+- disclosure **“in connection with a student’s application for, or receipt of, financial aid”**.
+
+If the foundation is requesting the transcript **to determine eligibility, amount, conditions, or continued receipt of that scholarship**, that exception may apply.
+
+So:
+- **Possibly yes**, for the transcript, **if** the scholarship foundation is requesting it in connection with the student’s application for or receipt of financial aid.
+- Otherwise, **no consent = no disclosure**.
+
+### 2. Disciplinary record
+A disciplinary record is also generally an **education record**.
+
+The same financial aid exception is much weaker here unless the disciplinary information is actually necessary for the scholarship decision or administration.
+
+There is **no general FERPA exception** allowing disclosure of disciplinary records to outside scholarship organizations just because they ask.
+
+So:
+- **Usually no**, unless you can tie the disclosure to a valid FERPA exception, most plausibly the **financial aid** exception and only to the extent the information is necessary for that purpose.
+- Best practice: **do not release** without the student’s written consent unless counsel/compliance determines the scholarship’s conditions truly require it.
+
+### 3. Most recent financial aid file
+This is also generally part of the student’s **education record** if maintained by the university and directly related to the student.
+
+Again, the most relevant exception is disclosure **in connection with the student’s application for, or receipt of, financial aid**.
+
+So:
+- **Possibly yes**, but only to the extent the records are needed for the scholarship foundation to administer or evaluate the student’s aid.
+- You should disclose **only the minimum necessary** information.
+- If the file contains documents that include **parent financial information**, be especially careful. FERPA separately protects student education records, and some parent financial records may warrant extra caution. Also, other laws/policies may apply.
+
+## Important limitation
+FERPA’s “studies” exception does **not** fit this situation unless the foundation is truly conducting a qualifying study for or on behalf of the institution under the statutory conditions. A scholarship foundation simply wanting records for its own purposes is **not automatically covered**.
+
+## Best practical answer
+For your situation, the safest and most likely correct response is:
+
+- **Do not send the disciplinary record or full financial aid file without the student’s written consent.**
+- For the **transcript** and possibly limited **financial aid information**, disclosure **may be permissible** under FERPA’s **financial aid exception** if the foundation needs the information in connection with the student’s application for or receipt of the scholarship.
+- Even then, disclose **only what is necessary**, not the entire file by default.
+
+## Recommended response to the foundation
+Ask for either:
+1. the student’s **signed FERPA consent**, or  
+2. a clear explanation of the scholarship purpose and exactly what information is needed to administer the aid.
+
+## Bottom line
+**Absent written student consent, you generally should not share all three records.**  
+At most, FERPA may allow limited disclosure of records **necessary for the student’s scholarship/financial aid**, but a blanket release of the student’s **transcript, disciplinary record, and full financial aid file** is **not justified** on these facts alone.
+
+If you want, I can draft:
+- a **FERPA-compliant response email** to the scholarship foundation, or
+- a **record-by-record decision memo** for your office.

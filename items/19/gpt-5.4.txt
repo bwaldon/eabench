@@ -1,0 +1,50 @@
+Short answer: it depends on which report you mean.
+
+### Key FERPA rule
+Under **20 U.S.C. § 1232g(a)(4)(B)(ii)**, **records maintained by a law enforcement unit that were created by that law enforcement unit for the purpose of law enforcement are not “education records.”**  
+So a **campus police report created and maintained for criminal/law-enforcement purposes** is generally **not subject to FERPA’s access rules**.
+
+### Applying that here
+
+#### 1. Police report created solely for law enforcement purposes
+Example: theft investigation report in the campus police database.
+
+- This is typically a **FERPA law-enforcement-unit record**, not an education record.
+- Therefore:
+  - FERPA **does not give the parent a right to inspect it**.
+  - FERPA also **does not prohibit disclosure** of it; disclosure is governed by other law/policy, not FERPA.
+- The campus police are therefore likely **wrong** if they say it is “protected under FERPA because it contains the student’s education record.” A genuine law-enforcement-unit record is excluded from the definition of education record.
+
+#### 2. Report created for or shared with the disciplinary office
+If the report, or a version of it, is used by the university to document **student conduct/disciplinary matters** and is maintained by the disciplinary office or another university office for non-law-enforcement purposes, that version is usually an **education record** under FERPA.
+
+- Then FERPA access rights belong to the **student**, not the parent, because the child is **19** and apparently attends a postsecondary institution.  
+  See **§ 1232g(d)**: once the student is 18 or attends postsecondary education, rights transfer to the student.
+- So the parent has **no automatic FERPA access right** unless:
+  - the student gives **written consent**, or
+  - the parent claims the student as a **dependent** under **26 U.S.C. § 152**, allowing disclosure under **§ 1232g(b)(1)(H)**.
+
+### Directory information does not help here
+The registrar’s reliance on “directory/record disclosure provisions” is likely misplaced.
+
+- **Directory information** is limited to things like name, address, dates of attendance, degrees, etc.  
+- An incident report or disciplinary report is **not directory information**.
+
+So the parent cannot get the report merely because FERPA allows disclosure of directory information.
+
+### What the parent may be able to learn
+If this concerns a **disciplinary proceeding for a crime of violence or nonforcible sex offense**, FERPA permits limited disclosure of the **final results** in certain circumstances under **§ 1232g(b)(6)**. But that is narrow and usually applies to victims and certain public disclosures by postsecondary institutions, not a broad parental right to the whole report.
+
+### Best FERPA analysis
+- **Police-only criminal investigation report**: not an education record; FERPA neither grants access nor blocks disclosure.
+- **Disciplinary record maintained by student conduct/disciplinary office**: education record; access belongs to the **student**, not the parent, unless consent or dependency exception applies.
+- **Same facts appearing in both systems** do not make the police copy an education record just because a disciplinary office also has related records.
+
+### Bottom line
+The university should separate the records by function:
+
+1. **Law enforcement unit record** → outside FERPA’s education-record definition.  
+2. **Student disciplinary record** → likely an education record under FERPA.  
+3. Because the student is **19**, the **student** controls FERPA rights unless the parent qualifies under the **dependent-student exception** or has the student’s consent.
+
+If you want, I can turn this into a short IRAC-style legal memo or a practical compliance recommendation for the university.

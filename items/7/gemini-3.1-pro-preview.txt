@@ -1,0 +1,24 @@
+As a middle school principal, **yes, you can hand over the records** in response to a lawfully issued subpoena. However, under FERPA, you must follow specific procedural steps **before** you release the documents, primarily regarding whether or not you must notify the student's parents. 
+
+Because the student is in middle school (and presumably under 18), the FERPA rights belong to the parents. Here is how you must handle the subpoena based on the FERPA text provided:
+
+### 1. The General Rule: Advance Notification is Required
+Under **Subsection (b)(2)(B)**, you are permitted to release education records without prior written parental consent to comply with a lawfully issued subpoena. 
+
+**However, there is a strict condition:** You must make a reasonable effort to notify the student’s parents of the subpoena **in advance** of complying with it. 
+* *Why?* This advance notice gives the parents an opportunity to seek protective action from the court (such as a motion to quash the subpoena) before you hand over the records.
+
+### 2. The Exceptions: When You MUST NOT Notify the Parents
+You must read the subpoena very carefully. There are three specific scenarios under FERPA where you are **exempt** from notifying the parents (and in some cases, legally prohibited from doing so):
+
+* **Federal Grand Jury Subpoenas:** If the subpoena is from a Federal grand jury and the court has ordered that the existence or contents of the subpoena not be disclosed. *(Subsection (b)(1)(J)(i))*
+* **Law Enforcement Subpoenas:** If the subpoena is issued for a law enforcement purpose and the court or issuing agency has included an order not to disclose the existence or contents of the subpoena. *(Subsection (b)(1)(J)(ii))*
+* **Child Abuse/Neglect or Dependency Cases:** If the parent is a party to a court proceeding involving child abuse, neglect, or dependency matters, and the subpoena/order is issued in the context of that specific proceeding, you do not need to notify the parent. *(Subsection (b)(2)(B))*
+
+### Your Next Steps:
+1. **Review the Subpoena:** Check immediately to see if it is a grand jury subpoena, a law enforcement subpoena, or if it contains a "gag order" explicitly forbidding you from notifying the parents or the student. 
+2. **If there is a gag order or it is a child abuse case:** Do not notify the parents. Comply with the subpoena and provide the records directly to the specified entity.
+3. **If there is NO gag order:** You must contact the parents to inform them that you have received a subpoena for their child's records and tell them the date by which you are legally required to comply. 
+4. **Log the Request:** Under **Subsection (b)(4)(A)**, you must keep a record of this subpoena and your compliance with it in the student's education file.
+
+*Disclaimer: While this advice is based directly on the provided FERPA text, it is highly recommended that you immediately forward a copy of any subpoena to your school district’s legal counsel or superintendent's office before turning over any documents.*

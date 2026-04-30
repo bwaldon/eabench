@@ -1,0 +1,23 @@
+Relevant provision 
+(d)Students’ rather than parents’ permission or consent
+For the purposes of this section, whenever a student has attained eighteen years of age, or is attending an institution of postsecondary education, the permission or consent required of and the rights accorded to the parents of the student shall thereafter only be required of and accorded to the student.
+
+(e)Informing parents or students of rights under this section
+No funds shall be made available under any applicable program to any educational agency or institution unless such agency or institution effectively informs the parents of students, or the students, if they are eighteen years of age or older, or are attending an institution of postsecondary education, of the rights accorded them by this section.
+
+Query 
+
+As a university, we have a first-year undergraduate student who is 17 years old but is enrolled full-time in our institution. The student’s parent has contacted us requesting access to the student’s education records and also claims they were never informed of their FERPA rights. The university has a general FERPA notice policy that is published online and included in orientation materials, but it does not specifically distinguish between students under 18 and those over 18. Should we treat the parent or the student as the rights-holder in this situation, and does our general notice practice satisfy FERPA’s requirement to inform parents or students of their rights?
+
+Expected follow-up question:
+Can you clarify whether the student has provided any written consent for parental access, and how the university specifically delivers FERPA rights notifications to enrolled students (including minors attending the institution)?
+
+Query Continuation:
+
+The student has not provided written consent for parental access. The university sends a general FERPA notice email to all enrolled students at the start of the academic year and publishes the policy on its website. It does not send separate notices to parents of students under 18.
+
+Expected Final Answer
+
+The university should treat the student, not the parent, as the rights-holder, and its notice practices are likely sufficient under FERPA. FERPA rights transfer to the student when the student either turns 18 or attends a postsecondary institution. In this case, although the student is only 17, they are attending a postsecondary institution. Therefore, all FERPA rights, including the right to access education records and to consent to disclosure, belong exclusively to the student. Because the student has not provided written consent, the university should not disclose education records to the parent, absent another applicable FERPA exception.
+
+FERPA requires institutions to effectively inform the relevant rights-holder of their rights. The university’s practice of sending a general FERPA notice email to all enrolled students and publishing the policy online likely satisfies this requirement, as it provides direct notice to the individuals who hold FERPA rights. Accordingly, the university must deny the parent’s request absent student consent or another applicable exception. The university’s notice practice is likely compliant, but it should consider enhancing clarity to avoid misunderstandings about the transfer of rights.

@@ -1,0 +1,67 @@
+# Analysis of the Department of Education's Access to Student Records Under FERPA
+
+## Short Answer
+
+**Yes**, the Department of Education is permitted to access your students' education records, including personally identifiable information, but **only under specific conditions** prescribed by FERPA.
+
+## Detailed Legal Analysis
+
+### The Primary Authorization
+
+FERPA provides two key provisions that authorize the Secretary of Education's access to student records:
+
+**1. Subsection (b)(1)(C)(i):**
+
+This provision permits the release of education records without parental consent to:
+
+> *"authorized representatives of (I) the Comptroller General of the United States, (II) the **Secretary**, or (III) State educational authorities, under the conditions set forth in paragraph (3)"*
+
+The Secretary of Education is explicitly listed as one of the parties to whom records may be disclosed without written parental consent.
+
+**2. Subsection (b)(3) — The Governing Conditions:**
+
+This is the critical provision that defines **how** such access must occur. It states:
+
+> *"Nothing contained in this section shall preclude authorized representatives of... (B) the Secretary... from having access to student or other records which may be necessary in connection with the **audit and evaluation of Federally-supported education programs**, or in connection with the **enforcement of the Federal legal requirements** which relate to such programs."*
+
+### Mandatory Conditions That Must Be Met
+
+Even though access is authorized, the statute imposes **strict conditions** on the Secretary's use of personally identifiable information:
+
+1. **Purpose Limitation** — The access must be:
+   - In connection with the **audit and evaluation** of federally-supported education programs, **or**
+   - In connection with the **enforcement of Federal legal requirements** relating to such programs
+
+2. **Data Protection Requirement** — The statute provides:
+   > *"except when collection of personally identifiable information is specifically authorized by Federal law, any data collected by such officials shall be protected in a manner which will not permit the personal identification of students and their parents by other than those officials"*
+
+3. **Data Destruction Requirement** — Personally identifiable data:
+   > *"shall be destroyed when no longer needed for such audit, evaluation, and enforcement of Federal legal requirements"*
+
+### What This Means for Your District
+
+As an LAUSD official, you should evaluate the Secretary's request against the following checklist:
+
+| Requirement | Question to Ask |
+|---|---|
+| **Authorized representatives** | Are the individuals requesting access properly designated as authorized representatives of the Secretary? |
+| **Nexus to federal programs** | Is the request connected to the audit, evaluation, or enforcement of a federally-supported education program? |
+| **Necessity** | Are the specific records requested actually *necessary* for the stated purpose? |
+| **Data protection assurances** | Has the Department provided assurances that personally identifiable information will be protected from disclosure to unauthorized parties? |
+| **Destruction timeline** | Is there a plan to destroy personally identifiable data once it is no longer needed? |
+
+## Practical Recommendations
+
+1. **Do not refuse the request outright.** Under subsection (a)(3), your district qualifies as an "educational agency or institution" as a recipient of federal funds, and the statute clearly contemplates the Secretary's access rights. Denying a lawful request could jeopardize your federal funding.
+
+2. **Request documentation of purpose.** You are entitled to understand the specific federal program audit, evaluation, or enforcement action that justifies the request. The records must be "necessary in connection with" one of those purposes.
+
+3. **Maintain access records.** Under subsection (b)(4)(A), you are **required** to maintain a record of all individuals, agencies, or organizations that have requested or obtained access to a student's education records, along with the **legitimate interest** for obtaining the information. Document this request accordingly.
+
+4. **Ensure the scope is appropriate.** The authorization does not grant the Secretary blanket access to all records. The request should be limited to records that are genuinely necessary for the stated audit, evaluation, or enforcement purpose.
+
+5. **Note the parental notification distinction.** Unlike disclosures under judicial order or subpoena (subsection (b)(2)(B)), disclosures to the Secretary under (b)(1)(C) and (b)(3) do **not** require advance parental notification. However, the access record you maintain under (b)(4)(A) must be available to parents upon request.
+
+## Conclusion
+
+The Department of Education **is authorized** under FERPA to access your students' education records, including personally identifiable information, provided the access is for the purpose of auditing, evaluating, or enforcing requirements related to federally-supported education programs, and the Department adheres to the data protection and destruction requirements specified in subsection (b)(3). Your obligation is to verify that these conditions are satisfied and to document the access appropriately.

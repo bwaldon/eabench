@@ -1,0 +1,26 @@
+Legislative Provision 
+a)(4)(B)(i): (B)The term “education records” does not include—
+(i)records of instructional, supervisory, and administrative personnel and educational personnel ancillary thereto which are in the sole possession of the maker thereof and which are not accessible or revealed to any other person except a substitute;
+(ii)records maintained by a law enforcement unit of the educational agency or institution that were created by that law enforcement unit for the purpose of law enforcement;
+
+Query
+A university’s campus police department maintains two types of incident reports:
+Reports created solely for law enforcement purposes (e.g., criminal investigation of theft in dorms), stored in the police database;
+Reports that document student behavior violations for the university’s disciplinary office, sometimes overlapping with the criminal investigation.
+A parent requests access to an incident report concerning their 19-year-old child, claiming they want to understand the disciplinary outcome. The campus police argue that the report is protected under FERPA because it contains the student’s education record, while the registrar believes the parent may have rights to see it under directory/record disclosure provisions.
+
+We need to determine: Whether FERPA allows disclosure to the parent, and How to distinguish which portions of the record may be released?
+
+Expected follow-up question:
+
+Can you clarify whether the incident report was created primarily for law enforcement purposes or primarily for institutional disciplinary purposes?
+
+Follow up query 
+The incident report contains:
+Timeline of events, witness statements, and security camera images collected by campus police for a criminal investigation.
+A short summary noting that the student may have violated the campus code of conduct, which will be referred to the disciplinary office.
+The parent requests access to the full report, including witness statements and security footage.
+
+Expected Final Answer
+FERPA Scope & Law Enforcement Exemption: Records created and maintained by a law enforcement unit for law enforcement purposes are not education records under §1232g(a)(4)(B)(ii). Such records cannot be disclosed to parents, even if they contain personally identifiable information about students.
+Disciplinary Portion: The portion of the record that summarizes alleged student misconduct referred to the disciplinary office is part of the education record. If the student is under 21 and the violation involves alcohol or controlled substances, the parent may have conditional access under §1232g(i). Otherwise, parental access requires student consent. The university must segregate law enforcement content (investigative notes, evidence, witness identities) from disciplinary summaries. Only the disciplinary portion may be disclosed if FERPA conditions are met; the investigative law enforcement portion must remain confidential.

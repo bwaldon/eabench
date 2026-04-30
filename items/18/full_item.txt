@@ -1,0 +1,18 @@
+Relevant Provision 
+(a) (2)No funds shall be made available under any applicable program to any educational agency or institution unless the parents of students who are or have been in attendance at a school of such agency or at such institution are provided an opportunity for a hearing by such agency or institution, in accordance with regulations of the Secretary, to challenge the content of such student’s education records, in order to insure that the records are not inaccurate, misleading, or otherwise in violation of the privacy rights of students, and to provide an opportunity for the correction or deletion of any such inaccurate, misleading or otherwise inappropriate data contained therein and to insert into such records a written explanation of the parents respecting the content of such records.
+
+Query 
+
+A graduate student requests that the university amend their final grade in a course that used AI-assisted grading for written assignments. The student argues that the AI system misgraded portions of their essay, producing an inaccurate score. The student claims that reliance on AI grading constitutes an inaccurate record and demands correction under FERPA. We need to determine: Whether the student may compel a grade change under FERPA, and
+How the university should respond regarding the record of AI-generated scores.?
+
+Expected follow-up question:
+
+Can you clarify whether the student is disputing: A factual error in the AI grading output (e.g., misrecorded score), or A subjective assessment produced by the AI algorithm according to the rubric, which was reviewed but not fully overridden by the instructor?
+
+Query Continuation
+
+The student contends that the AI evaluation misrepresented the quality of their work. However, the AI logs show that the essay met most rubric criteria but lost points on semantic coherence. The instructor reviewed the AI flags but did not adjust the score. There is no evidence of a misrecorded score or data-entry error
+
+Expected Answer:
+FERPA protects the right to correct education records that are factually inaccurate, misleading, or violate privacy rights. In this case, the AI-generated grade accurately reflects the rubric-based evaluation logged in the system and properly recorded by the registrar. Subjective judgment, even when AI-assisted, is not automatically inaccurate or misleading. The student’s disagreement with the AI’s evaluation or the instructor’s partial reliance on it does not trigger mandatory correction under FERPA.

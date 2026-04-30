@@ -1,0 +1,101 @@
+# FERPA Obligations Following Unauthorized Third-Party Redisclosure
+
+This is a serious situation that triggers several specific obligations under FERPA. Let me walk through them systematically.
+
+---
+
+## The Core Violation
+
+The nonprofit organization violated the condition under which it received the data. Under **subsection (b)(4)(B)**, the rule is explicit:
+
+> "Personal information shall only be transferred to a third party **on the condition that such party will not permit any other party to have access** to such information without the written consent of the parents of the student."
+
+The nonprofit was permitted access under **subsection (b)(1)(F)** — the exception for organizations conducting studies on behalf of educational agencies to improve instruction. That exception carried two critical conditions:
+
+1. The study must be conducted so as **not to permit personal identification** of students by anyone other than the organization's representatives
+2. The information must be **destroyed when no longer needed** for the study's purpose
+
+The nonprofit appears to have violated both the general redisclosure prohibition in (b)(4)(B) and the specific protections embedded in the (b)(1)(F) exception by sharing data with a technology company for a commercial purpose entirely unrelated to the original study.
+
+---
+
+## Your Specific Obligations
+
+### 1. Mandatory Five-Year Access Prohibition
+
+Subsection (b)(4)(B) imposes a **mandatory penalty** that you must enforce:
+
+> "If a third party outside the educational agency or institution permits access to information in violation of paragraph (2)(A), or fails to destroy information in violation of paragraph (1)(F), the educational agency or institution **shall be prohibited from permitting access to information from education records to that third party for a period of not less than five years**."
+
+This is not discretionary. The word "shall" means your district **must** cut off the nonprofit's access to any education records for at least five years, starting from when you confirm the violation. This applies regardless of whether you have ongoing contracts or partnerships with this organization.
+
+### 2. Demand Immediate Action from the Nonprofit
+
+Although the statute does not spell out a specific demand procedure, your obligations to protect student records under the statute's framework require you to take reasonable steps, which should include:
+
+- **Demanding the nonprofit retrieve or ensure destruction** of all data provided to the technology company
+- **Demanding the nonprofit destroy** its own copies if the study has concluded, as required under (b)(1)(F)
+- **Obtaining written confirmation** of both actions
+- **Determining the full scope** of what was disclosed — which students, what data elements, and whether personally identifiable information was included
+
+### 3. Assess Whether the Technology Company Received Personally Identifiable Information
+
+This matters enormously. Under subsection (b)(1)(F), the study was supposed to be conducted in a manner that would **"not permit the personal identification of students and their parents by persons other than representatives of such organizations."** If the technology company received data that could identify individual students, the violation is compounded, because the original terms of the exception were themselves being violated even before redisclosure occurred, or the redisclosure enabled identification by unauthorized persons.
+
+### 4. Notification and Reporting Considerations
+
+You should **file a complaint with the Family Policy Compliance Office** (the office established under **subsection (g)**), which is the office within the Department of Education designated for:
+
+> "investigating, processing, reviewing, and adjudicating violations of this section and complaints which may be filed concerning alleged violations"
+
+While the statute frames this office as receiving complaints from parents, proactively reporting the breach demonstrates good faith and positions your district favorably. The Secretary has authority under **subsection (f)** to take enforcement actions against institutions that fail to comply, and demonstrating that you discovered the violation and took corrective action protects your district's federal funding.
+
+### 5. Review and Audit Your Access Records
+
+Under **subsection (b)(4)(A)**, your district was required to maintain:
+
+> "a record, kept with the education records of each student, which will indicate all individuals...agencies, or organizations which have requested or obtained access to a student's education records...and which will indicate specifically the legitimate interest that each such person, agency, or organization has in obtaining this information"
+
+You need to review these records to confirm exactly what was shared, with respect to which students, and ensure your documentation is complete. This record will be critical if the Department investigates or if parents file complaints.
+
+### 6. Parent Notification
+
+While FERPA does not contain an explicit breach notification requirement comparable to state data breach laws, consider the following:
+
+- Under **subsection (a)(1)(A)**, parents have the right to **inspect and review** their children's education records
+- Under **subsection (a)(2)**, parents must have the opportunity for a **hearing to challenge** records and to ensure records are not maintained in violation of privacy rights
+- Under **subsection (e)**, your district must **effectively inform parents of their rights**
+
+Taken together, transparency about this breach is both legally prudent and arguably required to give meaning to these parental rights. Parents cannot exercise their rights if they do not know their children's records were improperly disclosed.
+
+---
+
+## Protecting Your District's Federal Funding
+
+The overarching enforcement mechanism in FERPA is the potential **termination of federal funding** under **subsection (f)**. The Secretary may take action if there is a "failure to comply" and "compliance cannot be secured by voluntary means." Your goal is to demonstrate that:
+
+1. You had proper procedures in place when you originally shared the data
+2. You discovered the violation and acted promptly
+3. You imposed the mandatory five-year ban on the nonprofit
+4. You took all reasonable steps to mitigate the harm
+5. You are in voluntary compliance
+
+---
+
+## Recommended Immediate Action Plan
+
+| Priority | Action |
+|---|---|
+| **Immediate** | Formally sever the nonprofit's access to all education records and document the five-year prohibition |
+| **Immediate** | Send written demand to the nonprofit to retrieve/destroy all data held by the technology company and to destroy its own copies |
+| **Within days** | Conduct internal audit of what records were shared and for which students |
+| **Within days** | Consult with your district's legal counsel regarding potential state law violations, as many states have student data privacy laws with additional requirements |
+| **Within weeks** | File a report with the Family Policy Compliance Office |
+| **Within weeks** | Notify affected parents and inform them of their rights under subsection (a) |
+| **Ongoing** | Review and strengthen your data sharing agreements to include enforceable contractual provisions that mirror FERPA's requirements |
+
+---
+
+## A Critical Lesson Going Forward
+
+This situation illustrates a structural vulnerability in subsection (b)(1)(F): your district bears the consequences of a third party's misconduct. In future agreements, you should include **contractual provisions** with explicit penalties, audit rights, and indemnification clauses that go beyond FERPA's statutory text, because the statute's primary remedy — the five-year ban — punishes the relationship but does not by itself make affected families whole or shield your district from enforcement action.

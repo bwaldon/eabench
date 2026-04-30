@@ -1,0 +1,85 @@
+# FERPA Compliance Analysis: Third-Party Vendor Access to Student Records
+
+## Short Answer
+
+**Yes, this can be compliant with FERPA — but only if specific conditions are met.** Compliance is not automatic; it depends on how the relationship with the vendor is structured and governed.
+
+---
+
+## Detailed Analysis
+
+### The Core Issue
+
+Under **subsection (b)(1)**, FERPA prohibits the release of personally identifiable information from education records without written parental consent, except under specifically enumerated exceptions. The question is whether your vendor's engineers fall within one of those exceptions.
+
+### The Applicable Exception: "School Officials" Under (b)(1)(A)
+
+The most relevant exception is **subsection (b)(1)(A)**, which permits disclosure to:
+
+> *"other school officials, including teachers within the educational institution or local educational agency, who have been determined by such agency or institution to have **legitimate educational interests**, including the educational interests of the child for whom consent would otherwise be required"*
+
+Under the **FERPA regulations** (34 CFR § 99.31(a)(1)), the Department of Education has interpreted this provision to allow educational agencies and institutions to **outsource institutional functions to third-party contractors**, provided certain criteria are met. A vendor performing a service that the agency would otherwise perform itself can be treated as a "school official" with a "legitimate educational interest."
+
+### Conditions You Must Satisfy
+
+To rely on this exception, **all of the following must be in place:**
+
+1. **The vendor performs an institutional service or function** for which the agency would otherwise use its own employees — operating and maintaining your student data platform clearly qualifies.
+
+2. **The vendor's use of education records is under the direct control of the agency** — you must retain governance authority over how data is accessed, used, and protected.
+
+3. **The vendor is subject to the same conditions governing use and redisclosure** that apply to other school officials under (b)(1)(A) — critically, the vendor's engineers:
+   - May only access records in furtherance of the legitimate educational purpose (here, system maintenance and troubleshooting)
+   - **May not re-disclose** personally identifiable information to other parties
+   - May not use the data for any unauthorized purpose
+
+4. **This must be established through a formal written agreement** — this is essential. The agreement should specify:
+   - The specific functions the vendor performs
+   - That access is limited to what is necessary for those functions
+   - Restrictions on use and redisclosure
+   - Data security requirements
+   - Data destruction or return obligations when the contract ends
+   - That the vendor will not use the data for any purpose other than the contracted service
+
+5. **Your agency's annual FERPA notification** (required under **subsection (e)**) should include criteria for who qualifies as a "school official" and what constitutes a "legitimate educational interest," and this criteria should encompass contractors performing institutional services.
+
+---
+
+## Critical Compliance Risks to Address
+
+### Subsection (b)(4)(B) — Third-Party Redisclosure
+
+This provision is particularly important for your situation:
+
+> *"Personal information shall only be transferred to a third party on the condition that such party will not permit any other party to have access to such information without the written consent of the parents"*
+
+If the vendor **permits access by unauthorized subcontractors, offshore teams, or other parties**, you face a serious violation. Moreover, the penalty is severe:
+
+> *"the educational agency or institution shall be prohibited from permitting access to information from education records to that third party for a **period of not less than five years**."*
+
+### Additional Risk Considerations
+
+| Risk Area | Concern |
+|---|---|
+| **Scope of access** | Engineers should access only the minimum records necessary for the maintenance/troubleshooting task — not the entire database broadly |
+| **Logging and audit trails** | Under **(b)(4)(A)**, you must maintain a record of all individuals and organizations that have obtained access to each student's records, and the legitimate interest for that access |
+| **Subcontractors** | If the vendor uses subcontractors, the same restrictions must flow down |
+| **Data security** | A breach caused by inadequate vendor controls could constitute an unauthorized disclosure |
+
+---
+
+## Practical Recommendations
+
+1. **Ensure you have a written contract** that satisfies the "school official" criteria — if you don't have one, you are **not in compliance** regardless of the legitimacy of the access.
+
+2. **Limit and document access** — the vendor's engineers should access only the specific records necessary for the technical issue, and this access should be logged per subsection (b)(4)(A).
+
+3. **Confirm no unauthorized redisclosure** — verify that the vendor's internal controls prevent engineers from copying, exporting, or sharing student data outside the scope of the contracted work.
+
+4. **Review your annual notification** to ensure it defines school officials to include contractors performing institutional services.
+
+---
+
+## Bottom Line
+
+**You do not necessarily need parental consent**, provided the vendor qualifies as a "school official" with a "legitimate educational interest" under a properly structured agreement. However, **the absence of a written agreement with the required FERPA provisions would place you out of compliance.** The statutory text and the redisclosure penalties in (b)(4)(B) make clear that FERPA demands formal, enforceable controls — not merely a reasonable business relationship.

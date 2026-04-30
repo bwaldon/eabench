@@ -1,0 +1,29 @@
+As a legal expert specializing in FERPA, I can guide you through the specific requirements of the law. 
+
+The short answer is **yes, you can (and generally must) hand over the records in response to a lawfully issued subpoena, but you usually cannot do so immediately.** 
+
+Under FERPA, specifically **Section (b)(2)(B)**, schools are permitted to disclose personally identifiable information from education records without parental consent if the disclosure is in compliance with a lawfully issued subpoena. However, FERPA imposes a strict procedural requirement you must follow before handing anything over. 
+
+Here is what you need to do step-by-step:
+
+### 1. The Advance Notification Rule
+Unless an exception applies (see step 2), FERPA requires your school to make a reasonable effort to **notify the student's parents of the subpoena *in advance* of complying with it.** 
+* *Why?* This advance notice gives the parents an opportunity to seek a protective order or file a motion to quash the subpoena in court before the records are released. 
+* *(Note: Because this is a middle school, the student is almost certainly under 18. Under Section (d), FERPA rights belong to the parents until the student turns 18 or enters a postsecondary institution).*
+
+### 2. Check for Exceptions to the Notification Rule
+You must carefully read the subpoena to see if it prohibits you from notifying the parents. You are **exempt from the advance notification requirement** only under the following specific circumstances:
+* **Federal Grand Jury Subpoena [Section (b)(1)(J)(i)]:** The subpoena is from a federal grand jury, and the court has specifically ordered that the existence or contents of the subpoena not be disclosed.
+* **Law Enforcement Subpoena [Section (b)(1)(J)(ii)]:** The subpoena is issued for a law enforcement purpose, and the court or issuing agency has explicitly ordered the school not to disclose the existence or contents of the subpoena.
+* **Child Abuse, Neglect, or Dependency Proceeding [Section (b)(2)(B)]:** The parent is a party to a court proceeding involving child abuse, neglect, or dependency matters, and the subpoena is issued in the context of that specific proceeding.
+* **Terrorism Investigations [Section (j)]:** The order is an *ex parte* order obtained by the Attorney General for an authorized investigation or prosecution of terrorism. 
+
+### 3. Record the Disclosure
+If/when you do release the records, remember your record-keeping obligations under **Section (b)(4)(A)**. You must keep a record with the student's education files indicating who obtained access to the records and their legitimate interest in doing so (in this case, noting the court/agency that issued the subpoena). *Note: This logging requirement does not apply if the order is for a terrorism investigation under Section (j).*
+
+### Summary Checklist for the Principal:
+1. **Review the subpoena:** Does it explicitly order you *not* to notify the parents, or is it related to a child abuse/neglect case where the parent is a party? 
+2. **If YES:** Do not notify the parents. Comply with the subpoena and provide the records by the deadline.
+3. **If NO:** You must notify the parents that you have received a subpoena for their child's records. Give them a reasonable amount of time to challenge the subpoena in court. If they do not successfully quash the subpoena before the compliance deadline, you may hand over the records. 
+
+*Disclaimer: While this advice is based directly on the statutory text of FERPA provided, you should always consult your school district's legal counsel before responding to court orders to ensure compliance with both federal law and any specific state laws or local board policies.*

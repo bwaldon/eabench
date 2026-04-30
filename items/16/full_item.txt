@@ -1,0 +1,20 @@
+Relevant provision
+(i)Drug and alcohol violation disclosures: (1)In general
+Nothing in this Act or the Higher Education Act of 1965 [20 U.S.C. 1001 et seq.] shall be construed to prohibit an institution of higher education from disclosing, to a parent or legal guardian of a student, information regarding any violation of any Federal, State, or local law, or of any rule or policy of the institution, governing the use or possession of alcohol or a controlled substance, regardless of whether that information is contained in the student’s education records, if—(A)the student is under the age of 21; and (B)the institution determines that the student has committed a disciplinary violation with respect to such use or possession.
+
+Query
+As a university, we determined through a disciplinary process that a 20-year-old student violated campus policy related to alcohol possession.The student has explicitly objected to any disclosure of this information to their parents and has not provided consent. The university is considering notifying the student’s parents about the violation under FERPA’s drug and alcohol provision. However, some administrators are concerned that doing so without the student’s consent could violate FERPA, particularly because the student is enrolled in a postsecondary institution and holds FERPA rights. We want to know whether we are permitted to disclose this information to the parents despite the student’s objection.
+
+Expected follow-up question:
+
+Can you clarify whether the institution has made a formal determination, through its disciplinary process, that the student committed a violation, and whether the student is in fact under the age of 21 at the time of the proposed disclosure?
+
+Query Continuation
+
+Yes, the student is 20 years old, and the university has completed its disciplinary process and formally determined that the student violated its alcohol policy.
+
+Expected Final Answer
+
+The university is permitted to disclose the information to the student’s parents despite the student’s objection, and doing so would not violate FERPA. FERPA expressly allows institutions of higher education to disclose information to a parent or legal guardian regarding a student’s violation of laws or institutional policies governing alcohol or controlled substances, provided that:The student is under the age of 21; and The institution has determined that the student committed a disciplinary violation. Both conditions are satisfied here.
+
+Importantly, this provision operates as an exception to the general rule that FERPA rights transfer to the student upon enrollment in postsecondary education. Even though the student is the rights-holder and has objected to disclosure, FERPA explicitly permits the institution to notify parents in these circumstances. Additionally, the statute clarifies that disclosure is permitted regardless of whether the information is contained in education records, reinforcing the breadth of this exception. However, the provision is discretionary, not mandatory. The university may choose whether or not to disclose based on its policies and judgment. Factors such as student welfare, institutional policy, and consistency in enforcement may guide that decision.

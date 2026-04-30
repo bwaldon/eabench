@@ -1,0 +1,70 @@
+Probably yes, if the access is structured correctly under FERPA’s **“school official” exception**. If not, then no.
+
+## Short answer
+A state education agency or school may allow a **third-party vendor’s engineers** to access personally identifiable student information **without parental consent** only if the vendor is treated as a FERPA-authorized party under the statute/regulations—most commonly as a **school official with legitimate educational interests** acting for the agency/institution.
+
+From the text you provided, FERPA allows disclosure without consent to:
+
+- **“other school officials… who have been determined… to have legitimate educational interests”**  
+  20 U.S.C. § 1232g(b)(1)(A)
+
+and also imposes limits on redisclosure:
+
+- personal information transferred to a third party must be on the condition that the third party **will not permit any other party to have access** without required consent  
+  § 1232g(b)(4)(B)
+
+## What this means for your vendor engineers
+Vendor engineers are **not automatically** allowed access just because they support your platform. Their access is generally compliant only if all of the following are true:
+
+1. **The vendor is performing an institutional/agency service or function** you would otherwise use your own employees to perform.
+2. The vendor is under the **direct control** of the SEA regarding the use and maintenance of education records.
+3. The engineers have access only because they have a **legitimate educational interest**—here, maintenance/troubleshooting of the student data platform can qualify if necessary to operate the system.
+4. The contract or DPA strictly limits the vendor’s use of the data to the authorized purpose.
+5. The vendor is prohibited from **redisclosing** the data except as FERPA permits.
+6. The agency maintains required **recordkeeping** of disclosures/access where applicable.
+
+## Important SEA-specific caution
+Because you are a **state education agency**, the analysis depends in part on:
+- whose records these are,
+- whether the SEA itself maintains them, and
+- whether the SEA is acting within FERPA’s audit/evaluation/enforcement framework or as an operator of a system for LEAs/schools.
+
+FERPA does permit parents to inspect records maintained by a **State educational agency**. The statute also permits certain disclosures to authorized representatives and contractors in audit/evaluation contexts, but that is a different path than ordinary vendor operations.
+
+For a vendor operating your platform, the cleanest FERPA theory is usually:
+- the vendor is a **school official/contractor** under FERPA regulations, or
+- the vendor is acting as your **authorized representative** if the access is tied to audit/evaluation/enforcement functions.
+
+Which one applies depends on the role of the platform and the purpose of access.
+
+## When it would likely be noncompliant
+You likely have a FERPA problem if:
+- the vendor contract does **not** place the vendor under your direct control;
+- engineers are using live student data for general product development, AI training, analytics, or unrelated debugging;
+- access is broader than necessary;
+- there are no confidentiality and redisclosure restrictions;
+- access is not tied to a documented legitimate educational interest or authorized representative function;
+- the vendor can keep the data indefinitely.
+
+## Practical compliance checklist
+Before allowing access, make sure you have:
+
+- A written contract/DPA stating the vendor is performing a service for the SEA
+- Clear statement that access is only for maintenance/troubleshooting
+- “Direct control” terms over use, disclosure, security, retention, and destruction
+- Redisclosure prohibition
+- Need-to-know / least-privilege access controls
+- Logging/audit trail of engineer access
+- Data minimization, masking where possible
+- Incident response and confidentiality obligations
+- Data destruction/return provisions after issue resolution
+- Public FERPA notice, if relying on the school-official exception, that identifies contractors/outsourcers as school officials where applicable
+
+## Bottom line
+**Yes, potentially**—you can be in compliance **without parental consent** if the vendor engineers’ access falls within FERPA’s non-consent exception, most likely as **school officials with legitimate educational interests** and under your **direct control**, with strict contractual and operational safeguards.
+
+**No, not automatically**—if the vendor is just a third party with broad access to identifiable student data and no proper FERPA structure, then the access would not be compliant.
+
+If you want, I can give you:
+1. a **SEA-specific FERPA analysis** distinguishing school-official vs authorized-representative theories, or  
+2. a **model contract clause checklist** for vendor engineer access.
