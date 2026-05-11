@@ -1,0 +1,27 @@
+Query:
+
+"I'm an admissions counselor at a community college. A person applied to our institution last year, was admitted, but never registered for classes or paid tuition. He has now sent us a written request under FERPA demanding to inspect his entire admissions file, including the readers' notes and his application essays. Is FERPA applicable, and do we have to provide him access?"
+
+Statutory provision
+
+20 U.S.C. § 1232g(a)(6) For the purposes of this section, the term "student" includes any person with respect to whom an educational agency or institution maintains education records or personally identifiable information, but does not include a person who has not been in attendance at such agency or institution.
+
+Expected follow-up question:
+
+Did the person ever attend the institution — that is, did he register for, attend, or otherwise commence enrollment in any course or program — or did he only apply (and possibly accept admission) without ever enrolling?
+
+The (a)(6) definition of "student" carves out a person who has not been in attendance at the institution. FERPA's rights of access and consent apply to "students" as defined. A person who applied but never attended is not a "student" under FERPA, and FERPA confers no right of access on him. State open-records or institutional-policy obligations may operate independently.
+
+Query Continuation
+
+"He was admitted but never registered for any course, never attended any class, never paid tuition. The only record we maintain on him is his admissions file."
+
+Expected Final Answer
+
+FERPA does not apply to this person. Under §1232g(a)(6), the definition of "student" excludes a person who has not been in attendance at the institution. Because he applied and was admitted but never attended (never registered, never paid, never participated in any course), he is not a "student" under FERPA, and the rights and protections that flow from FERPA — including the right to inspect and review education records — do not extend to him.
+
+The institution may decline the request as a matter of FERPA. Two caveats: (1) institutional policy or state law (open-records, consumer-protection, application-fee transparency) may impose independent obligations. (2) If the person were to subsequently enroll, FERPA's protections would attach to records the institution maintains on him from that point forward — and to records of his earlier application that the institution continues to maintain after enrollment.
+
+---
+
+---

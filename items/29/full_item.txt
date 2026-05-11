@@ -1,0 +1,27 @@
+Query:
+
+"I'm the financial aid director at a state university. The U.S. Department of Education's federal student aid office has asked us to verify financial information in a particular student's file in connection with a Pell Grant determination. They are also asking for transcript information to confirm the student's satisfactory academic progress, which is a continued-receipt condition of the grant. Are we permitted to share without the student's written consent?"
+
+Statutory provision
+
+20 U.S.C. § 1232g(b)(1)(D) Nothing contained in this section shall be construed to prohibit … disclosing education records to … persons or organizations to whom information is disclosed in connection with a student's application for, or receipt of, financial aid.
+
+Expected follow-up question:
+
+Is the requested disclosure being made in connection with the student's application for, or receipt of, financial aid — meaning is the information necessary to determine eligibility for the aid, the amount of the aid, the conditions for the aid, or the enforcement of the terms and conditions of the aid?
+
+The (b)(1)(D) exception applies specifically to disclosures necessary for one of the financial-aid purposes embedded in "application for, or receipt of, financial aid": determining eligibility, amount, conditions, or enforcement. A disclosure outside those purposes — for example, sharing transcripts with a financial-aid program for general program-evaluation reasons — would not fall within the exception.
+
+Query Continuation
+
+"The Pell determination requires verification of financial information to confirm the student's eligibility under the Pell Grant program. The transcript information is requested to confirm satisfactory academic progress, which is one of the conditions of continued Pell receipt under federal regulation."
+
+Expected Final Answer
+
+Yes, the disclosure is permitted under §1232g(b)(1)(D). Both the financial-information verification (eligibility determination) and the transcript request (verifying satisfactory academic progress, which is a continued-receipt condition) fall squarely within the financial-aid exception's scope. The institution must record the disclosure under §1232g(b)(4)(A). The recipient is subject to the redisclosure restrictions of §1232g(b)(4)(B). The institution should disclose only the records reasonably necessary to the financial-aid purpose; in this case, the requested records (the financial portions of the file relevant to Pell eligibility, and the transcript portions relevant to satisfactory academic progress) are appropriately scoped.
+
+If the request had been broader — for example, the federal student aid office asking for the student's full education record without tying the request to one of the financial-aid purposes — the (b)(1)(D) exception would not authorize that broader disclosure, and the institution would need to identify a different exception or seek consent.
+
+---
+
+---

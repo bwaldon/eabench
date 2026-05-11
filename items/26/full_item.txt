@@ -1,0 +1,31 @@
+Query:
+
+"I'm a school counselor at a middle school. I keep a personal notebook with my own observations about students I meet with — reminders to follow up, impressions about a student's mood, notes that help me prepare for the next session. A parent has formally requested under FERPA to inspect 'all records' the school has on her child. Do I have to give her access to my notebook?"
+
+Statutory provision
+
+20 U.S.C. § 1232g(a)(4)(A) For the purposes of this section, the term "education records" means … those records, files, documents, and other materials which — (i) contain information directly related to a student; and (ii) are maintained by an educational agency or institution or by a person acting for such agency or institution.
+
+20 U.S.C. § 1232g(a)(4)(B) The term "education records" does not include — (i) records of instructional, supervisory, and administrative personnel and educational personnel ancillary thereto which are in the sole possession of the maker thereof and which are not accessible or revealed to any other person except a substitute …
+
+Expected follow-up question:
+
+Has any portion of the notebook ever been shared with, shown to, or revealed to any other person (other than a substitute counselor) — and have any of its contents been transcribed or transferred into any record maintained by the school?
+
+The "sole possession" exclusion in (a)(4)(B)(i) is narrow. It applies only as long as the notes have remained exclusively in the maker's possession and have never been used as the basis for an entry in any school-maintained record. Sharing with a colleague, an administrator, or another school official forfeits the exclusion. Using the notes to write entries into a school-maintained system does not retroactively void the exclusion as to the original notes, but it does mean that the maintained entries are themselves education records subject to inspection.
+
+Query Continuation
+
+"The notebook has been kept entirely in my locked desk drawer. I have never shared its contents with anyone. However, I do consult my notes when writing entries into the school's official student behavior tracking system, which is maintained district-wide and viewable by other staff."
+
+Expected Final Answer
+
+You are not required to provide the parent access to the notebook itself. Because the notebook has remained in your sole possession and has never been revealed to any other person (other than a substitute, none of which has occurred here), it falls within the §1232g(a)(4)(B)(i) "sole possession" exclusion and is not an "education record" under FERPA. The parent's right of access does not reach it.
+
+The entries you have made into the district's behavior tracking system, however, are "education records" within (a)(4)(A) — they are directly related to the student and are maintained by the district. The parent has the right to inspect those entries within a reasonable period of time, but no later than 45 days after the request, under §1232g(a)(1)(A).
+
+If you were ever to share, transmit, or reveal the notebook's contents to another person — even informally — the affected portions would lose the sole-possession protection and would become education records subject to inspection from that point forward.
+
+---
+
+---

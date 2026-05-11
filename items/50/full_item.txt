@@ -1,0 +1,33 @@
+Query:
+
+"I'm a registrar at a community college. We have a 17-year-old student who is dual-enrolled at our institution and at the local high school. The student's parent has asked to see the student's grades from our courses. Do they have a right to those records under FERPA?"
+
+Statutory provision
+
+20 U.S.C. § 1232g(d) For the purposes of this section, whenever a student has attained eighteen years of age, or is attending an institution of postsecondary education, the permission or consent required of and the rights accorded to the parents of the student shall thereafter only be required of and accorded to the student.
+
+34 CFR § 99.5(a)(1) When a student becomes an eligible student, the rights accorded to, and consent required of, parents under this part transfer from the parents to the student.
+
+34 CFR § 99.5(b) The Act and this part do not prevent educational agencies or institutions from disclosing education records, or personally identifiable information from education records, to a parent without the prior written consent of an eligible student if the disclosure meets the conditions in § 99.31(a)(8) [parents of dependent students] or any of the other conditions in § 99.31.
+
+Expected follow-up question:
+
+(1) At which institution is the parent seeking to view the student's records — the high school, the community college, or both? (2) Is the student claimed as a dependent on the parent's most recent federal tax return?
+
+A student attending a postsecondary institution is an eligible student under FERPA, regardless of age — so rights as to the postsecondary records have already transferred to the student. The parent does not retain access by virtue of the student's age (under 18) at the postsecondary level. The parent does retain rights as to the high-school records in the dual-enrollment context. The (b)(1)(H) dependent-student exception is the only common path for parental access to postsecondary records without consent.
+
+Query Continuation
+
+"The parent is asking for the community college grades. The student is claimed as a dependent on the parent's most recent federal tax return."
+
+Expected Final Answer
+
+The community college may disclose the student's records to the parent under §1232g(b)(1)(H) and 34 CFR § 99.31(a)(8), the dependent-student exception. Although the student is an eligible student at the postsecondary institution (and therefore the parent does not have inherent rights under §1232g(a) at that institution), the dependent-student exception is permissive and applies because the student is claimed as a dependent on the parent's federal tax return. The college may verify dependent status by asking the parent for relevant tax-return documentation. Disclosure under this exception is permissive, not required, and the college's institutional policy may add further conditions (e.g., notice to the student before disclosure). The high school, by contrast, must allow the parent to inspect/review the student's high-school records as a matter of course (the student is under 18 and not a postsecondary-only student for high-school FERPA purposes — see 34 CFR § 99.5(b) which also expressly permits the high school and the postsecondary institution to exchange information about the dual-enrolled student). If the student were not a dependent for tax purposes, the college could not disclose to the parent without the student's written consent.
+
+Concepts in explanation
+
+- RIGHTS-TRANSFER RULE: Postsecondary attendance triggers transfer of rights regardless of age.
+- PERMISSIVE EXCEPTION: The dependent-student exception is permissive, not mandatory.
+- DUAL-ENROLLMENT CARVE-OUT: § 99.5(b) preserves information exchange between high school and postsecondary institutions for dual-enrolled students.
+
+---

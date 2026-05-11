@@ -1,0 +1,25 @@
+Query:
+
+"I am the registrar at a four-year college that is in the middle of a regional accreditation review. The accreditation site visit team has asked us to provide samples of student transcripts, advising notes, and individual financial aid files for the visiting committee to review during their on-site visit next month. We do not have student consent. Are we permitted to share?"
+
+Statutory provision
+
+20 U.S.C. § 1232g(b)(1)(G) Nothing contained in this section shall be construed to prohibit … disclosing education records to … accrediting organizations in order to carry out their accrediting functions.
+
+Expected follow-up question:
+
+Is the requesting body acting in its capacity as an accrediting organization carrying out an accrediting function (e.g., a regional or specialized accreditor performing a periodic accreditation review of the institution), and are the records requested ones the accreditor needs in order to evaluate the institution against its accreditation criteria?
+
+The (b)(1)(G) exception is narrow in two ways. First, the recipient must be an "accrediting organization" (typically a federally recognized regional or programmatic accreditor). Second, the disclosure must be in order to carry out the accreditor's accrediting function — not, for example, a researcher employed by the accreditor doing unrelated work, and not records collected for purposes outside the accreditation review.
+
+Query Continuation
+
+"The visiting team is from our regional accreditor (recognized by the U.S. Department of Education) and is performing the institution's ten-year reaccreditation review. The records they have requested are samples they routinely review to verify the integrity of academic advising, registrar processes, and financial-aid administration."
+
+Expected Final Answer
+
+Yes, the institution may disclose the requested records to the accrediting team without student consent under §1232g(b)(1)(G). The visiting team is acting on behalf of a recognized accrediting organization carrying out its accrediting function (the periodic reaccreditation review), and the records requested are reasonably necessary to evaluate the institution's compliance with accreditation standards. The institution should record the disclosure under §1232g(b)(4)(A). The accrediting organization is bound by the redisclosure restrictions of §1232g(b)(4)(B): it may not further disclose the records without consent, and is subject to the five-year ban on further disclosures if it permits unauthorized access. The institution should also limit the disclosure to records reasonably necessary for the accreditation function — providing entire databases or sweeping access beyond the team's stated need would not be supported by the exception.
+
+---
+
+---

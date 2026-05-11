@@ -1,0 +1,29 @@
+Query:
+
+"I'm a dean of students at a private four-year college. We have just learned, through routine processing of state sex-offender registry data, that a newly enrolled student is a registered sex offender. We are considering whether to disclose this status to certain campus units (residential life, athletics, the student's faculty advisor). Does FERPA permit this without the student's consent?"
+
+Statutory provision
+
+20 U.S.C. § 1232g(b)(7)(A) Nothing in this section may be construed to prohibit an educational institution from disclosing information provided to the institution under section 14071 of title 42 concerning registered sex offenders who are required to register under such section.
+
+20 U.S.C. § 1232g(b)(7)(B) The Secretary shall take appropriate steps to notify educational institutions that disclosure of information described in subparagraph (A) is permitted.
+
+Expected follow-up question:
+
+Was the information about the student's registered-sex-offender status received by the institution through a sex-offender-registry notification under the federal registration scheme (42 U.S.C. § 14071), or did the institution learn of the status through some other means (for example, a student's self-disclosure on an application, a media report, or an informal source)?
+
+The (b)(7) exception is specifically tied to information provided to the institution under the federal sex-offender registration scheme. It does not reach information the institution acquired through other channels. If the source of the information is not a registry notification, the institution must look elsewhere (directory-information disclosure, the safety/health emergency exception, or consent) to authorize disclosure.
+
+Query Continuation
+
+"The institution learned of the student's status through a registry notification provided pursuant to the federal sex-offender registration scheme."
+
+Expected Final Answer
+
+Yes, FERPA permits the institution to disclose this information without the student's consent under §1232g(b)(7)(A). Because the information was received through a sex-offender-registry notification under the federal scheme, the (b)(7) exception authorizes disclosure to whom the institution determines disclosure is appropriate. The exception is permissive, not mandatory; institutional policy should govern the scope of internal sharing (for example, limiting to officials with a clear safety- or supervision-related need to know) and the timing and form of any communications. The institution should also coordinate with counsel on Title IX and other anti-discrimination considerations, and follow any applicable state-law restrictions on the use of registry information.
+
+If the institution had learned of the student's status through a non-registry source — for example, the student's self-disclosure on an application — (b)(7) would not authorize disclosure, and the institution would need to find another exception or obtain consent.
+
+---
+
+---

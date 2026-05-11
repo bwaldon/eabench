@@ -1,0 +1,29 @@
+Query:
+
+"We received a federal grand jury subpoena for a student's records. It includes language ordering us not to disclose the existence of the subpoena to anyone, including the student or their parents. Do we have to comply, and what about FERPA's normal parental notice rule?"
+
+Statutory provision
+
+20 U.S.C. § 1232g(b)(1)(J)(i) Nothing in this section shall be construed to prohibit … disclosing education records to … (J) Federal and State officials and agencies headed by an official listed in subsection (b)(3), and the entities and persons described in subsection (b)(5), to the extent that such disclosure is in furtherance of an audit, evaluation, or enforcement of Federal legal requirements …
+
+20 U.S.C. § 1232g(b)(2)(B) … such information is furnished in compliance with judicial order, or pursuant to any lawfully issued subpoena, upon condition that parents and the students are notified of all such orders or subpoenas in advance of the compliance therewith by the educational institution or agency.
+
+34 CFR § 99.31(a)(9)(ii)(A) Disclosure may be made under § 99.31(a)(9)(i) without parental notice if the disclosure is in compliance with a Federal grand jury subpoena and the court has ordered that the existence or the contents of the subpoena or the information furnished in response to the subpoena not be disclosed.
+
+Expected follow-up question:
+
+Does the subpoena include an explicit order from the issuing court that the existence or contents of the subpoena (or the information furnished in response) must not be disclosed?
+
+A federal grand jury subpoena is one of three categories under § 99.31(a)(9)(ii) that may displace FERPA's parental-notice rule, but only when accompanied by a non-disclosure order. If the subpoena lacks such an order, ordinary parental-notice obligations apply.
+
+Query Continuation
+
+"The subpoena is from a federal grand jury and explicitly orders non-disclosure of its existence and contents under 18 U.S.C. § 6 and the issuing court's seal."
+
+Expected Final Answer
+
+Yes, the school must comply with the subpoena and must not notify the parent or student. Under §1232g(b)(2)(B) and 34 CFR § 99.31(a)(9)(ii)(A), a federal grand jury subpoena accompanied by a court non-disclosure order displaces FERPA's ordinary parental-notice rule. The school should produce the records called for by the subpoena and refrain from any disclosure of the subpoena's existence or the disclosure itself. The school is also relieved of the recordkeeping requirement that would otherwise apply: 34 CFR § 99.32(d)(5) excepts disclosures made pursuant to such non-disclosure-ordered subpoenas from the logging obligation. After the non-disclosure order expires or is lifted, the school's confidentiality obligation as to the existence of the subpoena ends, but the records produced remain otherwise subject to FERPA in the recipient's hands.
+
+---
+
+---

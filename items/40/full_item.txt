@@ -1,0 +1,29 @@
+Query:
+
+"We received a parent's request to amend her child's permanent record because she believes a noted disciplinary infraction is misleading. After review, we declined to make the change. The parent is now demanding a 'FERPA hearing.' We've never held one. What does FERPA require us to provide?"
+
+Statutory provision
+
+20 U.S.C. § 1232g(a)(2) No funds shall be made available under any applicable program to any educational agency or institution unless the parents of students who are or have been in attendance at a school of such agency or at such institution are provided an opportunity for a hearing by such agency or institution, in accordance with regulations of the Secretary, to challenge the content of such student's education records, in order to insure that the records are not inaccurate, misleading, or otherwise in violation of the privacy rights of students, and to provide an opportunity for the correction or deletion of any such inaccurate, misleading or otherwise inappropriate data contained therein and to insert into such records a written explanation of the parents respecting the content of such records.
+
+Expected follow-up question:
+
+Is the parent challenging the record on the ground that it is inaccurate, misleading, or in violation of the student's privacy rights — and is she requesting a hearing to challenge that content (rather than, for example, asking the school to reconsider as a matter of policy)?
+
+FERPA's hearing right under (a)(2) is conditional on the challenge being to the content of an education record on grounds that the record is inaccurate, misleading, or in violation of the student's privacy rights. If the parent's challenge meets that scope, the institution must offer a hearing. The hearing must give the parent an opportunity to challenge the content; if the institution declines to amend, the parent has the right to insert a written explanation in the record.
+
+Query Continuation
+
+"The parent's letter argues the disciplinary infraction note is misleading because it omits relevant context that would explain her child's behavior. She is asking specifically for a hearing under FERPA."
+
+Expected Final Answer
+
+Yes, the school must provide an opportunity for a hearing under §1232g(a)(2). The parent's challenge is on a permitted ground (that the record is misleading). The hearing must be conducted in accordance with regulations of the Secretary (34 CFR § 99.22 specifies that the hearing must be held within a reasonable time after the request, that the parent be given reasonable advance notice, that the hearing be conducted by a school official who does not have a direct interest in the outcome, that the parent be given a full and fair opportunity to present evidence, that the decision be in writing within a reasonable time of the hearing, that it be based solely on evidence presented at the hearing, and that it include a summary of the evidence and reasons for the decision).
+
+If after the hearing the school still declines to amend, the parent has the right under (a)(2) to insert into the record a written explanation respecting the content. That explanation must be maintained with the contested portion of the record and must be disclosed whenever the contested portion is disclosed to a third party.
+
+The school should formalize a hearing procedure now if it does not have one — many institutions adopt a written policy specifying who serves as the hearing officer, the timeline, and the form of the written decision.
+
+---
+
+---

@@ -1,0 +1,29 @@
+Query:
+
+"I'm the principal of a high school. A student we expelled last year for assaulting another student has just enrolled at a high school in a neighboring district. The receiving principal has asked me whether I can share the student's disciplinary file so that she can plan supervision and supports. Are we permitted to share without parental consent?"
+
+Statutory provision
+
+20 U.S.C. § 1232g(h) Nothing in this section shall prohibit an educational agency or institution from — (1) including appropriate information in the education record of any student concerning disciplinary action taken against such student for conduct that posed a significant risk to the safety or well-being of that student, other students, or other members of the school community; or (2) disclosing such information to teachers and school officials, including teachers and school officials in other schools, who have legitimate educational interests in the behavior of the student.
+
+Expected follow-up question:
+
+Was the disciplinary action documented in the student's education record at your high school taken for conduct that "posed a significant risk to the safety or well-being" of the student, other students, or other members of the school community? And does the receiving principal have a legitimate educational interest in the student's behavior (for example, for supervisory or safety planning)?
+
+The (h) exception is narrower than the general school-official exception. It applies only to disciplinary information in the record concerning conduct posing a "significant risk to safety or well-being" and authorizes disclosure to teachers and school officials with a legitimate educational interest — explicitly including teachers and school officials in other schools.
+
+Query Continuation
+
+"Yes — the expulsion was for an assault that resulted in serious injury to another student. The receiving principal has a clear legitimate educational interest in being aware of this history for supervision and safety-planning purposes."
+
+Expected Final Answer
+
+Yes, the disclosure is permitted under §1232g(h). The disciplinary action — expulsion for an assault causing serious injury — concerns conduct that posed a significant risk to the safety or well-being of other students. The (h)(2) provision specifically authorizes disclosure of such disciplinary information to "teachers and school officials in other schools" who have legitimate educational interests, which the receiving principal does in connection with supervision and safety planning at the new school.
+
+This is in addition to the school-transfer exception under §1232g(b)(1)(B), which would also support transferring the student's full education record to a school where the student is enrolled. The (h) exception is helpful when the disclosure is more limited (a particular incident report rather than the entire record) or when the receiving school official wants a head-start on safety planning before formally requesting the full record.
+
+The disclosure must be recorded under §1232g(b)(4)(A). The receiving principal is bound by §1232g(b)(4)(B) redisclosure restrictions: she may not further disclose without consent or another exception.
+
+---
+
+---

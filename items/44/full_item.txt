@@ -1,0 +1,31 @@
+Query:
+
+"I'm an elementary-school principal. A student's parent has discovered that a photograph of her child, taken during the school day by a school-employed photographer for an in-house yearbook, was included on the school's public-facing website. The parent is asserting that her child's photo is an 'education record' under FERPA and that the school should not have published it without consent. Is the parent right that this photo is an education record, and is the publication a FERPA violation?"
+
+Statutory provision
+
+20 U.S.C. § 1232g(a)(4)(A) The term "education records" means … those records, files, documents, and other materials which — (i) contain information directly related to a student; and (ii) are maintained by an educational agency or institution or by a person acting for such agency or institution.
+
+20 U.S.C. § 1232g(a)(5)(A) For the purposes of this section the term "directory information" relating to a student includes the following: the student's name, address, telephone listing, date and place of birth, major field of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, and the most recent previous educational agency or institution attended by the student.
+
+20 U.S.C. § 1232g(a)(5)(B) Any educational agency or institution making public directory information shall give public notice of the categories of information which it has designated as such information with respect to each student attending the institution or agency and shall allow a reasonable period of time after such notice has been given for a parent to inform the institution or agency that any or all of the information designated should not be released without the parent's prior consent.
+
+Expected follow-up question:
+
+Has the school designated student photographs (or images) as "directory information" in its annual notification, and was the parent given a reasonable opportunity to opt out of the disclosure before the photo was published?
+
+A photograph of a student that the school maintains is an education record under (a)(4)(A). Whether the school may publicly publish the photograph without consent depends on whether photographs are designated as "directory information" and whether the parent had an opportunity to opt out. (a)(5) authorizes public release of directory information without parental consent only after notice and an opportunity to opt out. Without that designation and opt-out process, public publication requires consent.
+
+Query Continuation
+
+"The school's annual FERPA notice does not mention photographs as a category of directory information. Photographs are not listed anywhere as directory information in any published policy. The parent did not have any opportunity to opt out."
+
+Expected Final Answer
+
+Yes, the photograph is an education record under §1232g(a)(4)(A) — it contains information directly related to the student, and it is maintained by the school (through the school-employed photographer acting for the school). And yes, the school's publication on its public website without the parent's prior consent violates FERPA, because the photograph was not designated as directory information and the parent was not given the (a)(5)(B) opt-out opportunity before the disclosure.
+
+To remediate, the school should: (1) remove the photograph from the public-facing site; (2) determine whether to designate "photographs" or "images of students" as a category of directory information going forward, and if so, update the annual notice and provide the opt-out window before any future publication; (3) document the violation in the parent's FERPA file; and (4) consider whether other photographs of other students were similarly published and address those parallel issues.
+
+---
+
+---

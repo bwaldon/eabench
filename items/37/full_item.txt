@@ -1,0 +1,27 @@
+Query:
+
+"A parent has asked to see a school-bus surveillance video that shows their child being involved in an altercation with two other students. The school used the video to discipline all three. Are we required to let this parent view it?"
+
+Statutory provision
+
+20 U.S.C. § 1232g(a)(1)(A) No funds shall be made available under any applicable program to any educational agency or institution which has a policy of denying, or which effectively prevents, the parents of students … the right to inspect and review the education records of their children.
+
+34 CFR § 99.12(a) If the education records of a student contain information on more than one student, the parent or eligible student may inspect and review or be informed of only the specific information about that student.
+
+Expected follow-up question:
+
+Does the video qualify as an education record of the requesting parent's child (i.e., is it directly related to the child and maintained by the school), and can the video be redacted or segregated in a way that allows the parent to view only the portions related to their child without destroying the meaning of the record?
+
+A surveillance video that the school maintains and uses to discipline a student is "directly related to" that student and is therefore an education record of that student. When the same record is the education record of multiple students, FERPA requires the school to allow the requesting parent to inspect/review the portion related to their child or to be "informed of" the content. The dispositive question is whether redaction or segregation is reasonably feasible.
+
+Query Continuation
+
+"The video clearly shows all three students throughout the relevant scene; their faces and identifying features are simultaneously visible. Redaction (e.g., blurring) is technically possible but would require a third-party vendor; segregation (extracting frames showing only the requesting parent's child) is not feasible because the children are continually together in frame."
+
+Expected Final Answer
+
+The school must allow the parent to inspect and review the video, but the school has discretion in how it satisfies that obligation. Under 34 CFR § 99.12(a) and the Department's guidance on photos and videos, the parent has the right to inspect/review only the information related to their own child. Where redaction or segregation can be reasonably accomplished without destroying the meaning of the record, the school must do so and may not charge the parent for that work. Where redaction is not reasonably feasible — as here, because the students are continually together in frame and segregation is impossible — the school may permit the parent to inspect/review the unredacted video, since the alternative would be to "effectively prevent" the parent from inspecting their child's record in violation of §1232g(a)(1)(A). If the school chooses, instead, to "inform" the parent of the content (e.g., a written description) rather than display the video, that also satisfies FERPA's inspection right. FERPA does not require the school to provide a copy of the video. The school may also wish to consider whether the other students' parents need to be informed.
+
+---
+
+---

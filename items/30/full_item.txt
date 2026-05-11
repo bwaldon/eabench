@@ -1,0 +1,27 @@
+Query:
+
+"Our middle school has a School Resource Officer assigned by the city police department. He's asking to view a student's education file in connection with an investigation of a fight. Do we need parental consent?"
+
+Statutory provision
+
+20 U.S.C. § 1232g(b)(1)(A) Nothing in this section shall be construed to prohibit … disclosing education records … to other school officials, including teachers, within the agency or institution determined to have legitimate educational interests, including an educational agency or institution that has contracted with an outside organization for any institutional service or function for which the agency or institution would otherwise use its own employees, provided that such outside organization is subject to the requirements of this section governing use and redisclosure of personally identifiable information from education records.
+
+34 CFR § 99.31(a)(1)(i)(B) A contractor, consultant, volunteer, or other party to whom an agency or institution has outsourced institutional services or functions may be considered a school official under this paragraph provided that the outside party — (1) Performs an institutional service or function for which the agency or institution would otherwise use employees; (2) Is under the direct control of the agency or institution with respect to the use and maintenance of education records; and (3) Is subject to the requirements of § 99.33(a) governing the use and redisclosure of personally identifiable information from education records.
+
+Expected follow-up question:
+
+Has the school's annual FERPA notification specified the SRO (or the role/category of SRO) as a "school official with legitimate educational interest," and does the SRO operate under the school's direct control with respect to use and maintenance of education records?
+
+FERPA permits a school to designate outside parties — including SROs — as school officials, but only if four conditions are satisfied: institutional service/function, direct control, redisclosure restrictions, and inclusion in the annual notice. If the SRO is acting in his or her capacity as a city police officer rather than as a designated school official, the request must instead satisfy a different exception (subpoena, court order, juvenile-justice statute, or emergency).
+
+Query Continuation
+
+"Our annual notice does designate SROs assigned to our schools as school officials with legitimate educational interests, and the city/school agreement specifies that all education records the SRO accesses are under the school's control and may not be redisclosed without authorization. The SRO says he is investigating the fight as part of his school-safety role, not as a criminal matter."
+
+Expected Final Answer
+
+Yes, this disclosure is permitted without parental consent under §1232g(b)(1)(A) and 34 CFR § 99.31(a)(1)(i)(B). The SRO qualifies as a "school official" with "legitimate educational interest" because all four conditions are met: (1) the school has designated SROs in its annual notice; (2) the city/school agreement places the SRO under direct school control as to use and maintenance of records; (3) the agreement bars unauthorized redisclosure (§ 99.33(a)); and (4) the SRO is performing an institutional school-safety function. The SRO may view records reasonably necessary to the school-safety investigation. If the SRO later wants to use the records for a criminal investigation outside the school's institutional function — for example, sharing them with a prosecutor's office — that is a redisclosure that requires either a separate FERPA exception or written consent, regardless of the SRO's status as a designated school official.
+
+---
+
+---
