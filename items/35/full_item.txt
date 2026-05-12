@@ -1,0 +1,27 @@
+Query:
+
+"We have just received a court order from a state family court directing us to produce a student's complete education record. The order is part of an ongoing child-abuse-and-neglect proceeding in which the student's mother is a party, and the order is issued in the context of that proceeding. Do we have to notify the parent before complying?"
+
+Statutory provision
+
+20 U.S.C. § 1232g(b)(2)(B) … such information is furnished in compliance with judicial order, or pursuant to any lawfully issued subpoena, upon condition that parents and the students are notified of all such orders or subpoenas in advance of the compliance therewith by the educational institution or agency, except when a parent is a party to a court proceeding involving child abuse and neglect (as defined in section 3 of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5101 note)) or dependency matters, and the order is issued in the context of that proceeding, additional notice to the parent by the educational agency or institution is not required.
+
+Expected follow-up question:
+
+Is the parent a party to the court proceeding in which the order was issued, and is the proceeding one involving child abuse and neglect (as defined in CAPTA) or dependency matters, with the order issued in the context of that proceeding?
+
+The general rule under (b)(2)(B) requires advance parental notice of subpoenas and judicial orders. The child-abuse/dependency carve-out — the only relevant carve-out in this subsection — applies when (i) the parent is a party to the proceeding, (ii) the proceeding involves child abuse and neglect or dependency matters, and (iii) the order is issued in the context of that proceeding. All three conditions must be present.
+
+Query Continuation
+
+"Yes. The student's mother is a named party-respondent in the proceeding. The proceeding is a dependency case alleging neglect of the student. The order was issued by the family court judge in the course of that case."
+
+Expected Final Answer
+
+Under §1232g(b)(2)(B), the school is not required to provide the parent advance notice before complying with this court order. All three conditions of the carve-out are satisfied: the parent is a party to the proceeding; the proceeding involves child abuse and neglect (a dependency matter is included in the carve-out); and the order is issued in the context of that proceeding.
+
+The school must still comply with the order — the carve-out displaces the notice obligation, not the obligation to comply. The disclosure must be recorded under §1232g(b)(4)(A); the carve-out from notice does not exempt the school from logging the disclosure. The recipient (the court) is bound by the redisclosure restrictions of §1232g(b)(4)(B). If the order had been issued in a different proceeding — for example, a custody dispute that does not involve abuse-and-neglect or dependency allegations — the carve-out would not apply, and the school would need to make a reasonable effort to notify the parent in advance.
+
+---
+
+---

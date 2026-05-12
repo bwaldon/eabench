@@ -1,0 +1,27 @@
+Query:
+
+"Our high school has a threat assessment team that includes our school counselor and dean, plus a community mental-health clinician and a sergeant from the city police. The team needs to review the records of a student who has been making concerning statements. Are we allowed to share with the outside members?"
+
+Statutory provision
+
+34 CFR § 99.31(a)(1)(i)(B) A contractor, consultant, volunteer, or other party to whom an agency or institution has outsourced institutional services or functions may be considered a school official under this paragraph provided that the outside party — (1) Performs an institutional service or function for which the agency or institution would otherwise use employees; (2) Is under the direct control of the agency or institution with respect to the use and maintenance of education records; and (3) Is subject to the requirements of § 99.33(a) governing the use and redisclosure of personally identifiable information from education records.
+
+34 CFR § 99.31(a)(1)(i)(A) A school official has a legitimate educational interest if the official needs to review an education record in order to fulfill his or her professional responsibility.
+
+Expected follow-up question:
+
+Are the outside threat-assessment team members designated as "school officials with legitimate educational interest" under the school's annual FERPA notification, and is the school's agreement with each outside member sufficient to place the member under the school's direct control and to bind them to FERPA's redisclosure restrictions?
+
+Threat assessment is a permissible institutional function for which the school could use its own employees; outside members can therefore be designated as school officials, but only if the four conditions of § 99.31(a)(1)(i)(B) are met for each member. Without a designation and an appropriate agreement, sharing PII with the outside members is not authorized under the school-official exception.
+
+Query Continuation
+
+"The school district's annual FERPA notice describes the threat assessment team and identifies its categories of members. The district has a memorandum of understanding with both the community mental-health agency and the police department that places those individuals under the district's direct control with respect to use and maintenance of education records and that prohibits redisclosure. The records to be reviewed are necessary to the team's professional responsibility to assess the threat."
+
+Expected Final Answer
+
+Yes, the school may share the relevant education records with all team members, including the community mental-health clinician and the police sergeant, without parental consent. Each outside member qualifies as a "school official with legitimate educational interest" under 34 CFR § 99.31(a)(1)(i)(B): the threat assessment function is one the school would otherwise perform with employees; the MOUs place each member under the district's direct control; and the MOUs prohibit redisclosure consistent with § 99.33(a). The annual notification has identified the categories of school officials, satisfying the fourth condition. The records shared should be those necessary to the team's professional responsibility — not the student's full education record. If the police sergeant later seeks to use information learned from the team for a criminal investigation, that is a separate redisclosure and must be authorized by the district or supported by another exception. Disclosures under this exception are not required to be logged in the student's file (34 CFR § 99.32(d)(1)).
+
+---
+
+---

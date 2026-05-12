@@ -1,0 +1,27 @@
+Query:
+
+"I'm a parent. Our state education agency (SEA) maintains a longitudinal student data system that includes records about my child collected from our local school district. I have asked the SEA to let me inspect what they have on my child. The SEA says it is not subject to FERPA's parental-access right because it is the state agency, not the school. Is that right?"
+
+Statutory provision
+
+20 U.S.C. § 1232g(a)(1)(B) No funds under any applicable program shall be made available to any State educational agency (whether or not that agency is an educational agency or institution under this section) that has a policy of denying, or effectively prevents, the parents of students the right to inspect and review the education records maintained by the State educational agency on their children who are or have been in attendance at any school of an educational agency or institution that is subject to the provisions of this section.
+
+Expected follow-up question:
+
+Is the state educational agency receiving federal funds under any applicable program, and is the parent's child — or has the child been — in attendance at a school of an educational agency or institution subject to FERPA?
+
+The parental right of access to records maintained by an SEA is established by (a)(1)(B), which conditions federal funding on the SEA not having a policy of denying that right. The SEA's argument that it is not the school and therefore not subject to FERPA misreads the statute; (a)(1)(B) specifically applies "whether or not that agency is an educational agency or institution under this section."
+
+Query Continuation
+
+"The SEA receives substantial federal education funding under multiple applicable programs. The student is currently in attendance at a public school district that is subject to FERPA."
+
+Expected Final Answer
+
+The SEA is wrong. Under §1232g(a)(1)(B), an SEA that receives federal funds under any applicable program is required to allow parents to inspect and review the education records the SEA maintains on their children who are or have been in attendance at FERPA-subject schools. The provision applies to the SEA whether or not the SEA itself is an "educational agency or institution" — that question is explicitly bracketed in the statute.
+
+The SEA's obligation is functionally parallel to that of the school district under (a)(1)(A): the SEA must establish appropriate procedures for granting access, must respond within a reasonable period of time and not more than 45 days after the request, and must permit the parent to inspect only those records relating to her child (the multi-student record provision applies). The SEA's argument that it sits outside FERPA is incorrect; failure to provide access could place the SEA's federal funding at risk.
+
+The parent should send a written request directly to the SEA's records custodian (typically a designated privacy officer or registrar function), citing §1232g(a)(1)(B). If the SEA continues to deny access, the parent may file a complaint with the U.S. Department of Education's Student Privacy Policy Office under §1232g(g).
+
+---

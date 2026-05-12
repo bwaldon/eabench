@@ -1,0 +1,27 @@
+Query:
+
+"We are a state education agency. Two years ago we disclosed individually identifiable student records to a research vendor under FERPA's studies exception. We have just learned that the lead researcher posted a dataset online that allowed re-identification of several students, and that the vendor never destroyed the records on the schedule the agreement required. What are our obligations now under FERPA?"
+
+Statutory provision
+
+20 U.S.C. § 1232g(b)(4)(B) With respect to this subsection, personal information shall only be transferred to a third party on the condition that such party will not permit any other party to have access to such information without the written consent of the parents of the student. If a third party outside the educational agency or institution permits access to information in violation of paragraph (2)(A), or fails to destroy information in violation of paragraph (1)(F), the educational agency or institution shall be prohibited from permitting access to information from education records to that third party for a period of not less than five years.
+
+Expected follow-up question:
+
+Has the third party (a) permitted access to the information by a non-authorized party without parental consent, in violation of paragraph (2)(A); (b) failed to destroy the information when no longer needed, in violation of paragraph (1)(F); or (c) both?
+
+The five-year ban in (b)(4)(B) is triggered specifically by violations of (2)(A) (unauthorized further disclosure) or (1)(F) (failure to destroy when no longer needed). Either trigger is sufficient. The statutory consequence — at least a five-year prohibition on further sharing with that recipient — attaches automatically. Other obligations (parent/student notification, contract enforcement, state-law breach response) follow the trigger.
+
+Query Continuation
+
+"Both. The researcher's online posting permitted access by parties outside the studies-exception agreement. The data was required to be destroyed six months ago at the conclusion of the study, but the dataset the researcher posted was still in their possession well past that date."
+
+Expected Final Answer
+
+Under §1232g(b)(4)(B), the SEA is now prohibited for at least five years from permitting access to education records to that third-party recipient. The ban attaches as a matter of statutory consequence — both grounds are independently triggered (unauthorized redisclosure under (2)(A) and failure to destroy under (1)(F)). The five-year period is a floor, not a ceiling: the SEA has discretion to extend the ban or to apply it more broadly (for example, to the researcher's institution as a whole, depending on contractual terms and the scope of the violation).
+
+The SEA's additional obligations include: (1) document the violation and the imposition of the ban in its records; (2) enforce contractual remedies under the original studies-exception written agreement (return/destruction of any remaining data, indemnification); (3) notify affected students and parents (FERPA does not by itself require this, but state breach-notification laws likely will); and (4) review whether the violation also implicates state or other federal data-protection regimes.
+
+---
+
+---

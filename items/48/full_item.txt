@@ -1,0 +1,31 @@
+Query:
+
+"I'm general counsel for a state university. We've received a written request from the U.S. Department of Justice's Civil Rights Division asking us to produce education records and personally identifiable information about a sample of students in connection with an investigation into our compliance with federal civil-rights law as a recipient of federal funds. They are not asking through an ex parte order or a subpoena. May we comply, and on what conditions?"
+
+Statutory provision
+
+20 U.S.C. § 1232g(b)(1)(C) Nothing in this section shall be construed to prohibit … disclosing education records to … (i) authorized representatives of (I) the Comptroller General of the United States, (II) the Secretary, or (III) State educational authorities, under the conditions set forth in paragraph (3), or (ii) authorized representatives of the Attorney General for law enforcement purposes under the same conditions as apply to the Secretary under paragraph (3).
+
+20 U.S.C. § 1232g(b)(3) Nothing contained in this section shall preclude authorized representatives of (A) the Comptroller General of the United States, (B) the Secretary, or (C) State educational authorities from having access to student or other records which may be necessary in connection with the audit and evaluation of Federally-supported education programs, or in connection with the enforcement of the Federal legal requirements which relate to such programs: Provided, That except when collection of personally identifiable information is specifically authorized by Federal law, any data collected by such officials shall be protected in a manner which will not permit the personal identification of students and their parents by other than those officials, and such personally identifiable data shall be destroyed when no longer needed for such audit, evaluation, and enforcement of Federal legal requirements.
+
+Expected follow-up question:
+
+Is the Attorney General's request being made (i) for law-enforcement purposes — that is, in connection with the audit, evaluation, or enforcement of federal legal requirements relating to federally-supported education programs — and (ii) under the same conditions that apply to the Secretary, including the proviso that personally identifiable data be protected and destroyed when no longer needed?
+
+The (b)(1)(C)(ii) exception authorizes the Attorney General's authorized representatives to access records for law-enforcement purposes "under the same conditions as apply to the Secretary under paragraph (3)." That means the access must be in connection with audit, evaluation, or enforcement of federally-supported programs, and the AG (like the Secretary) is bound by the (b)(3) proviso requiring protection from personal identification and destruction when no longer needed.
+
+Query Continuation
+
+"The DOJ Civil Rights Division has stated in writing that the request is for law-enforcement purposes in connection with an investigation of the institution's compliance with Title VI, a federal civil-rights law that conditions receipt of federal funds. The request includes a written commitment that personally identifiable data will be protected and destroyed when no longer needed for the investigation."
+
+Expected Final Answer
+
+Yes, the institution may comply with the DOJ request without student consent under §1232g(b)(1)(C)(ii). The Attorney General's authorized representatives may access education records for law-enforcement purposes under the same conditions that apply to the Secretary under (b)(3) — namely, that the access is in connection with the enforcement of federal legal requirements relating to federally-supported programs (Title VI compliance qualifies), and the AG is bound by the (b)(3) proviso. The DOJ's written commitment to protect personally identifiable data and to destroy it when no longer needed satisfies that proviso.
+
+The institution should: (1) record the disclosure under §1232g(b)(4)(A); (2) limit the disclosure to records reasonably necessary for the investigation's stated purpose; and (3) preserve the DOJ's written commitment in connection with the disclosure record. The recipient is bound by §1232g(b)(4)(B) redisclosure restrictions; should the DOJ improperly redisclose or fail to destroy, the institution would be statutorily prohibited from further sharing for at least five years (and would need to weigh other consequences).
+
+If the DOJ had requested records for purposes unrelated to enforcement of federally-supported education programs (a general criminal investigation of an employee unrelated to compliance with federal funding conditions, for example), the (b)(1)(C)(ii) exception would not authorize the disclosure, and a different exception or instrument (subpoena, court order, consent) would be required.
+
+---
+
+---

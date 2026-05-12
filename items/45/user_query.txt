@@ -1,0 +1,1 @@
+A teacher wants to assign a third-party online learning platform that requires each student to register an account using their school email and full name. The platform's terms of service include a clause permitting the company to use student data for

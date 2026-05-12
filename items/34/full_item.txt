@@ -1,0 +1,25 @@
+Query:
+
+"A parent has signed and submitted a one-line written consent that says: 'I consent to the school sharing my child's records as needed.' Based on this, the school registrar is preparing to release the student's full education file to a private tutoring company that the parent contracts with. Is this consent adequate under FERPA?"
+
+Statutory provision
+
+20 U.S.C. § 1232g(b)(2)(A) No funds shall be made available under any applicable program to any educational agency or institution which has a policy or practice of releasing, or providing access to, any personally identifiable information in education records other than directory information, or as is permitted under paragraph (1) of this subsection, unless — there is written consent from the student's parents specifying records to be released, the reasons for such release, and to whom, and with a copy of the records to be released to the student's parents and the student if desired by the parents.
+
+Expected follow-up question:
+
+Does the parent's written consent form specify (i) which records are to be released, (ii) the reasons for the release, and (iii) to whom the records are to be released?
+
+A FERPA consent must be in writing and specify three elements: the records, the reason, and the recipient. A general or open-ended consent ("share as needed") does not satisfy any of these. The institution may not rely on such a consent to authorize disclosure.
+
+Query Continuation
+
+"The form contains only the one line quoted above. It does not name the tutoring company, does not list any specific records, and does not state a reason."
+
+Expected Final Answer
+
+The consent is not adequate under FERPA, and the school may not release the records on the basis of this form. §1232g(b)(2)(A) requires written consent that specifies three things: (i) the records to be released, (ii) the reasons for the release, and (iii) to whom the records are to be released. The parent's one-line, open-ended consent fails all three. The school should return the form to the parent, explain the requirements, and ask the parent to complete a sufficient consent form (most schools provide a template). If the parent then provides a compliant consent — for example, "I consent to the release of my child's grade reports and attendance records, for the purpose of supporting after-school tutoring, to ABC Tutoring Co." — the school may release only the records specified, only for the stated purpose, and only to the named recipient.
+
+---
+
+---

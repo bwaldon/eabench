@@ -1,0 +1,29 @@
+Query:
+
+"My district forgot to send the annual FERPA notification this school year. We're now eight months into the year and a parent has filed a complaint. What does that mean for us?"
+
+Statutory provision
+
+20 U.S.C. § 1232g(e) No funds shall be made available under any applicable program to any educational agency or institution unless the recipient of such funds informs the parents of students, or the students, if they are eligible students, of the rights accorded them by this section.
+
+34 CFR § 99.7(a)(1) An educational agency or institution shall annually notify parents of students currently in attendance, or eligible students currently in attendance, of their rights under the Act and this part.
+
+34 CFR § 99.7(b) An educational agency or institution may provide this notice by any means that are reasonably likely to inform the parents or eligible students of their rights.
+
+Expected follow-up question:
+
+Did the district provide notice of FERPA rights through any means during the current school year — for example, in a student handbook, parent portal, posted policy, registration packet, or website notice — even if not in the form ordinarily used?
+
+The annual notification requirement is satisfied by any means reasonably likely to inform; the regulation does not require a particular medium. A complete failure to provide any notice is a clear violation; a notice that was provided through a non-traditional channel may satisfy the requirement.
+
+Query Continuation
+
+"Our standard practice has been to mail an annual notice in September. We did not do that this year. However, the district website has a permanent FERPA-rights page accessible from the homepage, the parent portal includes a link to that page on first login, and the student handbook (distributed at the start of the year) reproduces the FERPA-rights text in full."
+
+Expected Final Answer
+
+The district has likely satisfied the annual notification requirement, even though it did not send the customary mailing. Under 34 CFR § 99.7(b), notice may be given "by any means … reasonably likely to inform" the parents of their rights. The combination of (1) a permanent website page, (2) a portal link presented on first login, and (3) the FERPA-rights text reproduced in full in the student handbook distributed to all parents at the start of the year is reasonably likely to inform parents of their rights. The Department's enforcement practice has been to focus on whether parents had a meaningful opportunity to learn of their rights, not on whether the district used a particular method. The complaining parent's grievance is unlikely to result in an adverse determination on its face, though the district should restore its mailing as a defensive practice. If the district had no alternative notice channel — no website page, no handbook, no portal — the answer would change and a violation finding would be likely.
+
+---
+
+---

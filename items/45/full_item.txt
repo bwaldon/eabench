@@ -1,0 +1,33 @@
+Query:
+
+"A teacher wants to assign a third-party online learning platform that requires each student to register an account using their school email and full name. The platform's terms of service include a clause permitting the company to use student data for "service improvement and analytics." Are we permitted to require students to use this platform without parental consent?"
+
+Statutory provision
+
+34 CFR § 99.31(a)(1)(i)(B) A contractor, consultant, volunteer, or other party to whom an agency or institution has outsourced institutional services or functions may be considered a school official under this paragraph provided that the outside party — (1) Performs an institutional service or function for which the agency or institution would otherwise use employees; (2) Is under the direct control of the agency or institution with respect to the use and maintenance of education records; and (3) Is subject to the requirements of § 99.33(a) governing the use and redisclosure of personally identifiable information from education records.
+
+34 CFR § 99.33(a)(1) An educational agency or institution may disclose personally identifiable information from an education record only on the condition that the party to whom the information is disclosed will not disclose the information to any other party without the prior consent of the parent or eligible student.
+
+Expected follow-up question:
+
+Has the school evaluated the platform's contract or terms of service against the four conditions of the school-official exception — institutional function, direct control, use restriction, redisclosure prohibition — and does the contract preclude the company from using PII from education records for purposes other than performing the contracted service?
+
+A clickwrap terms-of-service that allows the vendor to use student data for "service improvement and analytics" is incompatible with the school-official exception, which requires the vendor to be under the school's direct control and prohibited from redisclosure or use beyond the contracted service.
+
+Query Continuation
+
+"The terms of service have not been negotiated. They are presented to each user (or a parent on the user's behalf) as a clickwrap agreement. The "service improvement and analytics" clause permits the company to use de-identified student usage data for product development, but also retains the right to use identifying data internally. The platform performs a service (interactive math practice) that the school would otherwise use teachers to provide."
+
+Expected Final Answer
+
+The school may not assign this platform on the school-official-exception theory under FERPA. The school-official exception under § 99.31(a)(1)(i)(B) requires that the vendor be under the school's direct control as to use and maintenance of education records and prohibited from using PII for purposes beyond the contracted service. A clickwrap "service improvement and analytics" clause that permits internal use of identifying data fails both conditions: the school is not in direct control of how the vendor uses the data, and the vendor is not restricted to the contracted service. To proceed under the school-official exception, the school (not individual teachers, and not students through clickwrap) must negotiate a contract that places the vendor under the school's direct control, prohibits use of identifying data for any purpose other than performing the contracted service, and binds the vendor to FERPA's redisclosure restrictions. Alternatively, the school may proceed with prior written consent of each student's parent (or eligible student), in which case the consent must specify the records to be disclosed, the purpose, and the recipients (34 CFR § 99.30(b)). State student-privacy laws (in many states) impose additional restrictions on online educational services that may further limit the school's options.
+
+Concepts in explanation
+
+- CONDITIONAL EXCEPTION: The school-official exception requires four conditions, each operative as an independent constraint.
+- DEFAULT RULE: Without a qualifying exception, disclosure requires prior written consent under § 99.30.
+- CONTRACT-LEVEL CONSTRAINT: Vendor terms-of-service language directly determines FERPA compliance.
+
+---
+
+---

@@ -1,0 +1,32 @@
+Query:
+
+"A second-grade teacher observed a student behaving erratically at recess. The teacher mentioned the incident to a parent volunteer who was supervising. The student's parent has now complained that the teacher disclosed information about their child without consent. Did we violate FERPA?"
+
+Statutory provision
+
+20 U.S.C. § 1232g(a)(4)(A) For the purposes of this section, the term "education records" means … those records, files, documents, and other materials which — (i) contain information directly related to a student; and (ii) are maintained by an educational agency or institution or by a person acting for such agency or institution.
+
+34 CFR § 99.3 (definition of "education records") The term … does not include … (5) Records that only contain information about an individual after he or she is no longer a student at that agency or institution.
+
+Expected follow-up question:
+
+Did the teacher's communication convey information that originated in or is documented in an education record maintained by the school, or did it convey only what the teacher personally observed and which is not reflected in any written or otherwise-maintained record?
+
+FERPA governs disclosures of personally identifiable information from education records. Information based purely on a school official's personal knowledge or observation — never reduced to a "maintained" record — is not within FERPA's scope. The fact that the observation occurred in the teacher's official role does not, by itself, transform it into an education record.
+
+Query Continuation
+
+"The teacher had not yet documented the incident anywhere; the conversation reflected only what the teacher had just personally observed. A behavioral referral form was created later that afternoon, after the conversation."
+
+Expected Final Answer
+
+No FERPA violation occurred. At the time of the conversation, the information communicated was based purely on the teacher's personal observation and was not yet contained in any education record maintained by the school. FERPA applies to "education records," which are records containing information directly related to a student that are maintained by the school or someone acting for it. Personal knowledge that has not been reduced to or recorded in a maintained record is outside FERPA's scope. The subsequent creation of a behavioral referral form does not retroactively transform the earlier oral communication into a FERPA disclosure. (The teacher's later disclosure of the contents of the referral form would be a different question and would fall under FERPA.) The parent may have legitimate professional or pedagogical concerns about the conversation occurring in front of a parent volunteer, but those are not FERPA concerns.
+
+Concepts in explanation
+
+- SCOPE LIMITER: FERPA applies only to "education records" — content must be both directly related to the student and maintained by the school.
+- TIME-OF-DISCLOSURE TEST: The test is applied at the moment of communication.
+
+---
+
+---

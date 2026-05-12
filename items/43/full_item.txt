@@ -1,0 +1,27 @@
+Query:
+
+"A documentary filmmaker has asked our college for the academic records of a former student who died last year at age 24. They say their work concerns the student's posthumous reputation. Are we permitted to share?"
+
+Statutory provision
+
+FPCO/PTAC Guidance (informed by 20 U.S.C. § 1232g(d) and common law principles): Once an eligible student dies, FERPA rights lapse. FERPA does not protect the education records of a deceased eligible student, and the institution may disclose such records at its discretion or consistent with State law.
+
+34 CFR § 99.5(a)(1) When a student becomes an eligible student, the rights accorded to, and consent required of, parents under this part transfer from the parents to the student.
+
+Expected follow-up question:
+
+Was the student an "eligible student" under FERPA at the time of death — that is, age 18 or older, or attending a postsecondary institution at any age — or did the student die while a parent still held FERPA rights (under 18 and not in postsecondary)?
+
+The Department's interpretation is that FERPA rights of an eligible student lapse on death; FERPA no longer protects the records, and the institution has discretion to disclose subject to State law. If the student died before becoming an eligible student, the analysis is more complicated and the parent's FERPA rights may continue or transfer at common law; State law and institutional policy then govern.
+
+Query Continuation
+
+"The student was 24 at the time of death and had been an eligible student for years. State law has no specific provision governing post-mortem disclosure of education records."
+
+Expected Final Answer
+
+FERPA does not protect the records of this deceased eligible student. The institution may disclose the records at its discretion, subject to its own institutional policy and any applicable State law (here, none). Most institutions adopt a written policy governing post-mortem disclosure — typically requiring approval at a senior level, defining categories of permitted recipients (next of kin, executors, researchers under specified conditions), and considering the student's known wishes if any. The institution should consult its own policy before disclosing to a documentary filmmaker; FERPA is no longer an obstacle, but policy and reputational considerations remain. If the student had been a minor at death (and not enrolled in a postsecondary institution), the analysis would differ and parental consent considerations would persist.
+
+---
+
+---

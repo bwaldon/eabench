@@ -1,0 +1,29 @@
+Query:
+
+"I'm a campus HR director at a public university. A 21-year-old student who works for us as a part-time research assistant has formally requested under FERPA to inspect 'all records' the institution maintains about her. She wants this to include her personnel file (employment application, performance reviews, payroll records). Are we required to provide access to the personnel file under FERPA?"
+
+Statutory provision
+
+20 U.S.C. § 1232g(a)(4)(B) The term "education records" does not include — … (iii) in the case of persons who are employed by an educational agency or institution but who are not in attendance at such agency or institution, records made and maintained in the normal course of business which relate exclusively to such person in that person's capacity as an employee and are not available for use for any other purpose …
+
+Expected follow-up question:
+
+Is the student employed by the institution (a) entirely separately from her status as a student — for example, an employee who happens to also be enrolled but whose employment is unrelated to her studies — or (b) employed in a capacity that is contingent on or directly tied to her status as a student (a federal-work-study assignment, a graduate teaching/research assistantship that is part of her academic program)?
+
+The (a)(4)(B)(iii) exclusion applies only to records of persons who are employed but who are NOT in attendance at the institution. A student employee — who is, by definition, in attendance — does not fit the carve-out's predicate. Her employment-related records are therefore education records under (a)(4)(A) to the extent they are maintained by the institution and relate to her. Federal guidance and most institutions' practice limit the FERPA-based right of access to records that are "directly related to the student" qua student, and treat purely employment-administrative records (W-2 forms, payroll deductions) as employment records governed by separate employment-law regimes.
+
+Query Continuation
+
+"She is enrolled as a degree-seeking student in our undergraduate program. Her position is a federal work-study assignment — her employment is tied to her enrollment, and her work supervisor coordinates with the financial aid office to confirm continued eligibility."
+
+Expected Final Answer
+
+The (a)(4)(B)(iii) exclusion does not apply, because the student is in attendance at the institution and her employment is tied to her enrollment (federal work-study). Records maintained by the institution about her — including those generated in the course of her work-study employment — are subject to FERPA's "education records" framework to the extent they are directly related to her.
+
+Practically, the institution should: (1) provide access to records that are directly related to the student's role as a student (her academic record, her financial aid file including the work-study certification and eligibility documents, evaluations she received in connection with her work-study placement); (2) treat purely administrative employment records (W-2s, tax-withholding forms, payroll deduction authorizations) under applicable employment-law regimes rather than FERPA, since these are "directly related to" her in her capacity as a wage-earner rather than as a student.
+
+If the student were employed in a role entirely independent of her student status (a regular staff job that happens to be filled by someone who also happens to be enrolled), the (a)(4)(B)(iii) exclusion would more clearly apply and her employment records would not be FERPA records — though as a practical matter, an institution that draws a clear line between student-employment and non-student-employment categories may still provide voluntary access for employee-relations reasons.
+
+---
+
+---
