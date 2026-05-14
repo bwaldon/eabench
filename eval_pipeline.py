@@ -20,7 +20,8 @@ genai.configure(api_key=GOOGLE_API_KEY)
 
 BASE_DIR = Path(__file__).parent
 FERPA_PATH = BASE_DIR / "ferpa.txt"
-ITEMS_DIR = BASE_DIR / "items"
+BENCHMARK_PATH = BASE_DIR / "benchmark.jsonl"
+RUNS_DIR = BASE_DIR / "items"
 
 SYSTEM_HEADER = "You are a legal expert specializing in FERPA (the Family Educational Rights and Privacy Act)."
 
@@ -69,11 +70,9 @@ def get_judge_answer(question: str, response_text: str, expected_response: str, 
     return next(b.text for b in result.content if b.type == "text").strip().upper()
 
 
-def load_expected_response(item_dir: Path) -> str:
-    full_item_path = item_dir / "full_item.txt"
-    if full_item_path.exists():
-        return full_item_path.read_text()
-    return ""
+def load_benchmark(path: Path) -> list[dict]:
+    with path.open(encoding="utf-8") as f:
+        return [json.loads(line) for line in f if line.strip()]
 
 
 def main():
@@ -82,11 +81,7 @@ def main():
     args = parser.parse_args()
 
     ferpa_text = FERPA_PATH.read_text(encoding="latin-1")
-
-    item_dirs = sorted(
-        [d for d in ITEMS_DIR.iterdir() if d.is_dir()],
-        key=lambda d: int(d.name),
-    )
+    records = sorted(load_benchmark(BENCHMARK_PATH), key=lambda r: int(r["task_id"]))
 
     getters = {
         "gpt-5.4": get_gpt_response,
@@ -95,9 +90,10 @@ def main():
     }
 
     if args.correct_judge:
-        for item_dir in item_dirs:
-            item_num = item_dir.name
-            expected_response = load_expected_response(item_dir)
+        for record in records:
+            item_num = record["task_id"]
+            item_dir = RUNS_DIR / item_num
+            expected_response = record["gold_exchange"]
             for model_name in getters:
                 judge_file = item_dir / f"{model_name}_judge.json"
                 if not judge_file.exists():
@@ -128,11 +124,13 @@ def main():
                     judge_answers[i] = answer
                 judge_file.write_text(json.dumps(judge_answers))
     else:
-        for item_dir in item_dirs:
-            item_num = item_dir.name
-            user_query = (item_dir / "user_query.txt").read_text().strip()
+        for record in records:
+            item_num = record["task_id"]
+            item_dir = RUNS_DIR / item_num
+            item_dir.mkdir(parents=True, exist_ok=True)
+            user_query = record["user_query"]
             prompt = ferpa_text + "\n\n" + SYSTEM_HEADER + "\n\n" + user_query
-            expected_response = load_expected_response(item_dir)
+            expected_response = record["gold_exchange"]
 
             print(f"Processing item {item_num}...")
 
@@ -175,8 +173,9 @@ def main():
                 judge_file.write_text(json.dumps(judge_answers))
 
     rows = []
-    for item_dir in item_dirs:
-        item_num = item_dir.name
+    for record in records:
+        item_num = record["task_id"]
+        item_dir = RUNS_DIR / item_num
         for model_name in getters:
             judge_file = item_dir / f"{model_name}_judge.json"
             if judge_file.exists():
