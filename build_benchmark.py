@@ -10,6 +10,8 @@ import re
 import sys
 from pathlib import Path
 
+from source_parser import parse_source_field, validate_sources
+
 ROOT = Path(__file__).parent
 ITEMS_DIR = ROOT / "items"
 OUT_FILE = ROOT / "benchmark.jsonl"
@@ -36,7 +38,7 @@ HEADER_TO_FIELD: list[tuple[str, str]] = [
 
 FIELD_ORDER = [
     "user_query",
-    "statutory_provision",
+    "source",
     "expected_followup",
     "query_continuation",
     "expected_final_answer",
@@ -101,7 +103,7 @@ def build_record(item_dir: Path) -> dict:
     record = {
         "task_id": item_dir.name,
         "user_query": user_query,
-        "statutory_provision": parsed.get("statutory_provision", "").strip(),
+        "source": parse_source_field(parsed.get("statutory_provision", "")),
         "expected_followup": parsed.get("expected_followup", "").strip(),
         "query_continuation": parsed.get("query_continuation", "").strip(),
         "expected_final_answer": parsed.get("expected_final_answer", "").strip(),
@@ -121,7 +123,7 @@ def main() -> int:
     parser.add_argument(
         "--check",
         action="store_true",
-        help="Report items with missing fields and exit non-zero if any.",
+        help="Exit non-zero if any item has missing fields or source warnings.",
     )
     args = parser.parse_args()
 
@@ -138,6 +140,12 @@ def main() -> int:
         if gaps:
             missing.append((rec["task_id"], gaps))
 
+    source_warnings: list[tuple[str, list[str]]] = []
+    for rec in records:
+        warns = validate_sources(rec["source"])
+        if warns:
+            source_warnings.append((rec["task_id"], warns))
+
     with args.out.open("w", encoding="utf-8") as f:
         for rec in records:
             f.write(json.dumps(rec, ensure_ascii=False) + "\n")
@@ -147,8 +155,14 @@ def main() -> int:
         print(f"\nItems with missing fields ({len(missing)}):", file=sys.stderr)
         for task_id, gaps in missing:
             print(f"  {task_id}: missing {gaps}", file=sys.stderr)
-        if args.check:
-            return 1
+    if source_warnings:
+        print(
+            f"\nItems with source warnings ({len(source_warnings)}):", file=sys.stderr
+        )
+        for task_id, warns in source_warnings:
+            print(f"  {task_id}: {'; '.join(warns)}", file=sys.stderr)
+    if args.check and (missing or source_warnings):
+        return 1
     return 0
 
 
