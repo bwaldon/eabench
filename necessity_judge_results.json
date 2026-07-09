@@ -1,0 +1,138 @@
+{
+  "30": {
+    "task_id": "30",
+    "item_verdict": "ESSENTIAL",
+    "cfr_verdicts": {
+      "34 CFR § 99.31(a)(1)(i)(B)": {
+        "verdict": "ESSENTIAL",
+        "rationale": "Statute covers outsourced school officials generally, but regulation adds direct-control requirement central to these facts and answer."
+      }
+    },
+    "model": "gpt-5.4",
+    "fingerprint": "2bce06554c7f81a3"
+  },
+  "36": {
+    "task_id": "36",
+    "item_verdict": "ESSENTIAL",
+    "cfr_verdicts": {
+      "34 CFR § 99.31(a)(1)(i)(B)": {
+        "verdict": "ESSENTIAL",
+        "rationale": "Provides the outsourced-party school-official rule, direct-control, and redisclosure conditions not supplied by any statute here."
+      },
+      "34 CFR § 99.31(a)(1)(i)(A)": {
+        "verdict": "ESSENTIAL",
+        "rationale": "Supplies the 'legitimate educational interest' standard used to limit sharing to records needed for the team's professional responsibility."
+      }
+    },
+    "model": "gpt-5.4",
+    "fingerprint": "515c7ab8a8bfab2c"
+  },
+  "37": {
+    "task_id": "37",
+    "item_verdict": "ESSENTIAL",
+    "cfr_verdicts": {
+      "34 CFR § 99.12(a)": {
+        "verdict": "ESSENTIAL",
+        "rationale": "Statute gives general inspect/review right; §99.12(a) supplies the multi-student record rule limiting access to own child's info or being informed of it."
+      }
+    },
+    "model": "gpt-5.4",
+    "fingerprint": "28d2c33d84432255"
+  },
+  "38": {
+    "task_id": "38",
+    "item_verdict": "REDUNDANT",
+    "cfr_verdicts": {
+      "34 CFR § 99.3": {
+        "verdict": "REDUNDANT",
+        "rationale": "Statute already defines education records as maintained records. Answer turns on personal observation not yet recorded; cited reg exclusion about post-student records is irrelevant."
+      }
+    },
+    "model": "gpt-5.4",
+    "fingerprint": "2def782944226e37"
+  },
+  "39": {
+    "task_id": "39",
+    "item_verdict": "ESSENTIAL",
+    "cfr_verdicts": {
+      "34 CFR § 99.7(a)(1)": {
+        "verdict": "ESSENTIAL",
+        "rationale": "Statute requires informing parents, but this regulation adds the key annual timing requirement the answer evaluates."
+      },
+      "34 CFR § 99.7(b)": {
+        "verdict": "ESSENTIAL",
+        "rationale": "Provides the operative rule that notice may be by any means reasonably likely to inform; decisive to concluding no mailing was required."
+      }
+    },
+    "model": "gpt-5.4",
+    "fingerprint": "69c957aafa52b401"
+  },
+  "41": {
+    "task_id": "41",
+    "item_verdict": "REDUNDANT",
+    "cfr_verdicts": {
+      "34 CFR § 99.21(a)": {
+        "verdict": "REDUNDANT",
+        "rationale": "It restates the statute's hearing right for inaccurate/misleading/privacy-violating records. The core answer that no grade change is required follows from 20 U.S.C. § 1232g(a)(2)."
+      }
+    },
+    "model": "gpt-5.4",
+    "fingerprint": "448a68d2b61c1288"
+  },
+  "43": {
+    "task_id": "43",
+    "item_verdict": "REDUNDANT",
+    "cfr_verdicts": {
+      "34 CFR § 99.5(a)(1)": {
+        "verdict": "REDUNDANT",
+        "rationale": "It only confirms rights transferred to the student while alive. The answer turns on guidance that FERPA rights lapse at death, not on this regulation."
+      }
+    },
+    "model": "gpt-5.4",
+    "fingerprint": "ea96411430dea3d6"
+  },
+  "45": {
+    "task_id": "45",
+    "item_verdict": "ESSENTIAL",
+    "cfr_verdicts": {
+      "34 CFR § 99.31(a)(1)(i)(B)": {
+        "verdict": "ESSENTIAL",
+        "rationale": "Supplies the school-official outsourcing conditions: institutional service, direct control, and FERPA use limits. No statute source here provides those specifics."
+      },
+      "34 CFR § 99.33(a)(1)": {
+        "verdict": "ESSENTIAL",
+        "rationale": "Provides the operative no-redisclosure/use limitation incorporated by §99.31(a)(1)(i)(B)(3), supporting why vendor data use beyond the service defeats the exception."
+      }
+    },
+    "model": "gpt-5.4",
+    "fingerprint": "96248f5394b66da5"
+  },
+  "47": {
+    "task_id": "47",
+    "item_verdict": "ESSENTIAL",
+    "cfr_verdicts": {
+      "34 CFR § 99.31(a)(9)(ii)(A)": {
+        "verdict": "ESSENTIAL",
+        "rationale": "Statute gives a general advance-notice rule for subpoenas; this regulation supplies the key exception for federal grand jury subpoenas with a nondisclosure order."
+      }
+    },
+    "model": "gpt-5.4",
+    "fingerprint": "d58354383b023ec5"
+  },
+  "50": {
+    "task_id": "50",
+    "item_verdict": "REDUNDANT",
+    "cfr_verdicts": {
+      "34 CFR § 99.5(a)(1)": {
+        "verdict": "REDUNDANT",
+        "rationale": "Restates 20 U.S.C. § 1232g(d): rights transfer to the student upon postsecondary attendance or age 18. Statute alone supports this point."
+      },
+      "34 CFR § 99.5(b)": {
+        "verdict": "REDUNDANT",
+        "rationale": "Only says FERPA does not prevent disclosure to a parent if a §99.31 exception applies. The decisive dependent-student rule is elsewhere, not in this cited regulation."
+      }
+    },
+    "model": "gpt-5.4",
+    "fingerprint": "f4ac3a22a3dc4e76"
+  }
+}

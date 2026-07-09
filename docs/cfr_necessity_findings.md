@@ -2,14 +2,13 @@
 
 Status: **analysis / recommendations only — no benchmark items were modified** ·
 Issue: [#7](https://github.com/bwaldon/eabench/issues/7) ·
-Reproduce: `python analyze_sources.py` (add `--json` for machine-readable output)
+Reproduce: `python analyze_sources.py` (signals) · `python analyze_sources.py --judge` (adds the LLM judge)
 
 Issue #7 asks two things: (1) how prevalent is the USC/CFR mixture, and
 (2) whether items that reference CFR actually *require* the CFR provision to be
 answerable — if not, the CFR passage should be deleted. This document answers
-(1) with hard counts and (2) with a per-item, evidence-backed assessment.
-Depends on the structured `source` schema from #3 (`source_type` distinguishes
-statute / regulation / guidance).
+(1) with hard counts and (2) with a reproducible, two-signal judgment per CFR
+source. Depends on the structured `source` schema from #3.
 
 ## 1. Prevalence
 
@@ -24,115 +23,91 @@ Of **50 items** / **84 sources** (69 statute, 14 regulation, 1 guidance):
 | — regulation + guidance (no statute) | 1 | 43 |
 | references guidance | 1 | 43 |
 
-So the mixture affects **20% of the benchmark** and is concentrated, not
-pervasive.
+The mixture affects **20% of the benchmark** and is concentrated, not pervasive.
 
-## 2. How necessity was assessed
+## 2. How necessity is judged (two independent signals)
 
-Necessity is a legal/content judgment, so this is **not** fully automated.
-`analyze_sources.py` computes reproducible signals; the verdict column below is
-a human judgment layered on top of them. The signals:
+Necessity is a legal judgment, so it is assessed two ways and the two are
+cross-checked. **Neither modifies any item.**
 
-- **cfr-only** — the item has no statute source, so the CFR *cannot* be deleted
-  without leaving the item ungrounded.
-- **source CFR used?** — does the expected answer actually cite the section of
-  each CFR *source*? An unused CFR source is a redundancy signal.
-- **regulation-dependent?** — does the answer's reasoning cite *any* CFR section
-  (including ones beyond the listed sources, e.g. § 99.32/§ 99.33)? This shows
-  whether the model must reach regulatory detail to answer.
+1. **Deterministic signal** (`analyze_sources.py`, no LLM). A cheap prior per
+   CFR source: ESSENTIAL if the expected answer actually cites that section;
+   REDUNDANT if it is uncited but a statute source could stand in; ESSENTIAL if
+   there is no statute to fall back on; else REVIEW. Fully reproducible.
+2. **LLM judge** (`necessity_judge.py`, `--judge`). An OpenAI model
+   (`gpt-5.4`, matching `eval_pipeline.py`) is given the query, **all** source
+   texts, and the expected answer, and classifies each CFR source
+   ESSENTIAL / REDUNDANT / REVIEW with a rationale. Strict-JSON output,
+   validated; verdicts cached to `necessity_judge_results.json` (keyed by an
+   input+rubric+model fingerprint) so re-runs are free and the doc's provenance
+   is captured. The LLM makes the real legal call; the signal is the check.
 
-Signal table (from `analyze_sources.py`):
+Where the two **disagree**, the item is queued for human review (§4). The key
+distinction the LLM draws that the signal cannot: an answer *mentioning* a
+regulation is not the same as the regulation being *decisive* — several answers
+cite a CFR section whose rule is actually supplied by the statute.
 
-| item | cfr-only | reg-dependent | CFR sections cited in answer | unused CFR source |
-|---|---|---|---|---|
-| 30 | no  | yes | 99.31, 99.33 | — |
-| 36 | yes | yes | 99.31, 99.32, 99.33 | — |
-| 37 | no  | yes | 99.12 | — |
-| 38 | no  | **no** | — | **§ 99.3** |
-| 39 | no  | yes | 99.7 | — |
-| 41 | no  | yes | 99.20, 99.21, 99.22 | — |
-| 43 | yes | **no** | — | **§ 99.5(a)(1)** |
-| 45 | yes | yes | 99.30, 99.31 | § 99.33(a)(1) |
-| 47 | no  | yes | 99.31, 99.32 | — |
-| 50 | no  | yes | 99.31, 99.5 | — |
+## 3. Results (`gpt-5.4`, cross-checked)
 
-## 3. Per-item verdicts
+| item | CFR source | LLM | signal | agree | note |
+|---|---|---|---|---|---|
+| 30 | § 99.31(a)(1)(i)(B) | ESSENTIAL | ESSENTIAL | ✓ | adds direct-control test central to the facts |
+| 36 | § 99.31(a)(1)(i)(B) | ESSENTIAL | ESSENTIAL | ✓ | regulation-only; outsourced-official rule |
+| 36 | § 99.31(a)(1)(i)(A) | ESSENTIAL | ESSENTIAL | ✓ | "legitimate educational interest" standard |
+| 37 | § 99.12(a) | ESSENTIAL | ESSENTIAL | ✓ | multi-student redaction rule decides the case |
+| 38 | § 99.3 | **REDUNDANT** | **REDUNDANT** | ✓ | duplicates statutory "education records" definition |
+| 39 | § 99.7(a)(1) | ESSENTIAL | ESSENTIAL | ✓ | annual-timing requirement |
+| 39 | § 99.7(b) | ESSENTIAL | ESSENTIAL | ✓ | "any means reasonably likely to inform" — decisive |
+| 41 | § 99.21(a) | REDUNDANT | ESSENTIAL | ✗ | LLM: hearing right restates (a)(2); answer's core follows from statute |
+| 43 | § 99.5(a)(1) | REDUNDANT | ESSENTIAL | ✗ | LLM: answer turns on death-lapse guidance, not this reg |
+| 45 | § 99.31(a)(1)(i)(B) | ESSENTIAL | ESSENTIAL | ✓ | regulation-only; school-official conditions |
+| 45 | § 99.33(a)(1) | ESSENTIAL | ESSENTIAL | ✓ | no-redisclosure limitation incorporated by the exception |
+| 47 | § 99.31(a)(9)(ii)(A) | ESSENTIAL | ESSENTIAL | ✓ | grand-jury / non-disclosure exception |
+| 50 | § 99.5(a)(1) | REDUNDANT | ESSENTIAL | ✗ | LLM: restates § 1232g(d) rights-transfer |
+| 50 | § 99.5(b) | REDUNDANT | ESSENTIAL | ✗ | LLM: decisive dependent-student rule is elsewhere |
 
-**Legend:** ESSENTIAL = CFR supplies the operative rule the answer turns on;
-REDUNDANT = CFR restates authority the item's statute already provides and the
-answer does not use it; REVIEW = present but not clearly required, needs a human
-call.
+**Agreement:** 10 of 14 CFR sources agree. Both signals call **item 38's § 99.3
+REDUNDANT** — the one consensus deletion. Six items are unanimously ESSENTIAL
+(30, 36, 37, 39, 45, 47).
 
-### ESSENTIAL — keep the CFR (8 items)
+## 4. Human-review queue — the 4 disagreements
 
-- **30** — Statute (b)(1)(A) grants the school-official exception in the
-  abstract; the decisive **four-part operational test** (designated in annual
-  notice, direct control, redisclosure bar, institutional function) lives in
-  § 99.31(a)(1)(i)(B). The answer walks all four prongs and additionally invokes
-  § 99.33(a). Statute alone is insufficient.
-- **36** — Regulation-only; the entire school-official / threat-assessment-team
-  analysis and the § 99.32(d)(1) logging carve-out are regulatory. Nothing to
-  fall back on.
-- **37** — Statute (a)(1)(A) gives the inspection right; the **multi-student
-  redaction/segregation rule** that decides the case is § 99.12(a). The answer
-  is built on it.
-- **39** — Statute (e) requires annual notice; the dispositive
-  "**by any means reasonably likely to inform**" standard is § 99.7(b). The
-  answer hinges on it.
-- **41** — Statute (a)(2) gives the amendment right; the **hearing and
-  written-statement procedure** (§§ 99.20–99.22) that the answer requires the
-  school to follow is regulatory.
-- **45** — Regulation-only; § 99.31(a)(1)(i)(B) is the whole basis of the
-  answer. (Note: the second source, § 99.33(a)(1), is only supporting — the
-  answer references redisclosure conceptually and cites § 99.30(b) rather than
-  § 99.33 — but at least one CFR source is indispensable.)
-- **47** — Statutes (b)(1)(J)(i)/(b)(2)(B) cover the subpoena; the
-  **no-notice** rule § 99.31(a)(9)(ii)(A) and the **logging exemption**
-  § 99.32(d)(5) are regulatory-only and both appear in the answer.
-- **50** — Statute (d) gives rights-transfer; § 99.5(b)'s **dual-enrollment
-  information-exchange** rule is regulatory-only and is expressly invoked in the
-  answer.
+These are the cases where the LLM judges a regulation REDUNDANT even though the
+expected answer cites it (hence the signal called it ESSENTIAL). Each needs a
+maintainer's legal call:
 
-### REDUNDANT — CFR removal candidate (1 item)
+- **41 · § 99.21(a).** The answer requires a hearing and a written statement,
+  but cites §§ 99.22 / 99.21(b)(2) for those — not the listed § 99.21(a). The
+  amendment-scope holding follows from § 1232g(a)(2). *Plausibly the cited
+  subsection should change rather than be deleted.*
+- **43 · § 99.5(a)(1).** Governs rights-transfer when a student *becomes*
+  eligible; the answer is about a *deceased* eligible student and rests on
+  FPCO/PTAC guidance. The regulation is tangential. (Item has no statute source,
+  so removing it leaves guidance-only grounding — itself worth flagging.)
+- **50 · § 99.5(a)(1) and § 99.5(b).** § 99.5(a)(1) restates § 1232g(d). The
+  answer name-drops § 99.5(b) for the dual-enrollment information-exchange
+  point, but the *decisive* dependent-student rule is § 1232g(b)(1)(H) /
+  § 99.31(a)(8) — neither of which is in the item's source list.
 
-- **38** — Both sources define "education records": statute **§ 1232g(a)(4)(A)**
-  and regulation **§ 99.3**. The answer reasons entirely from the statutory
-  definition ("information … not yet contained in any education record
-  maintained by the school") and **never cites § 99.3** (regulation-dependent:
-  no). The item is fully answerable from the statute.
-  **Recommendation:** delete the `34 CFR § 99.3` source from item 38. *(Caveat:
-  § 99.3 is the more commonly quoted working definition and adds itemized
-  exclusions; if the maintainers want the regulatory definition on record, keep
-  it — but it is not load-bearing for this item's answer.)*
+## 5. Bottom line
 
-### REVIEW — not clearly required (1 item)
+The USC/CFR mixture is **mostly load-bearing, not accidental.** By the stricter
+LLM standard, 6 of 10 items are unambiguously regulation-dependent (often on
+regulation-only detail with no statutory equivalent — §§ 99.7(b), 99.12(a),
+99.5(b), 99.31 conditions). Removal is warranted for **item 38** (consensus) and
+should be *considered* for the three disagreement items (41, 43, 50) pending a
+human legal call. The LLM's recurring insight: in items 41/50, the answer
+*cites* the regulation but the *decisive* authority is statutory — so those
+CFR passages may be prunable even though the text mentions them.
 
-- **43** — Guidance + § 99.5(a)(1). The answer is driven by FPCO/PTAC guidance
-  on **deceased** eligible students; § 99.5(a)(1) governs rights-*transfer* when
-  a student *becomes* eligible, a background predicate the answer **never
-  cites** (regulation-dependent: no). It is a tangential authority rather than
-  the governing rule.
-  **Recommendation:** review. Deleting § 99.5(a)(1) would leave the item grounded
-  only in guidance (it has no statute source) — which is itself worth flagging,
-  since this is the benchmark's only guidance-grounded item. The deeper question
-  is whether item 43 should cite the operative authority (§ 1232g(d) + guidance)
-  rather than § 99.5(a)(1).
+## 6. Proposed follow-up (requires approval — not applied here)
 
-## 4. Bottom line
-
-The USC/CFR mixture is **mostly load-bearing, not accidental**: in 8 of 10
-CFR-referencing items the regulation supplies the operative rule the answer
-depends on (frequently regulation-only detail such as §§ 99.7(b), 99.12(a),
-99.5(b), 99.32(d)(5) that has no statutory equivalent). Only **item 38** has a
-clearly redundant CFR passage safe to delete, and **item 43** warrants a
-targeted review. Per the agreed scope, **no items were modified**; §5 lists the
-concrete follow-up edits for maintainer approval.
-
-## 5. Proposed follow-up (requires approval — not applied here)
-
-1. **Item 38:** remove `34 CFR § 99.3` (redundant with statutory definition).
-2. **Item 43:** review the source set; consider replacing/removing
-   `34 CFR § 99.5(a)(1)` in favor of the operative authority, and reconsider
-   guidance-only grounding.
-3. Re-run `python build_benchmark.py --check` and `python analyze_sources.py`
-   after any edit to confirm the counts move as expected.
+1. **Item 38:** remove `34 CFR § 99.3` (redundant with the statutory definition;
+   all signals agree).
+2. **Items 41, 43, 50:** maintainer to adjudicate the four flagged sources —
+   either delete the redundant CFR passage or, where the answer relies on a
+   *different* provision than the one listed (41, 50), correct the source list.
+3. **Item 43:** additionally reconsider guidance-only grounding.
+4. After any edit, re-run `python build_benchmark.py --check`,
+   `python analyze_sources.py`, and `python analyze_sources.py --judge` (verdicts
+   re-compute automatically because the input fingerprint changes).

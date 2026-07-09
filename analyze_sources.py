@@ -58,6 +58,22 @@ class ItemAnalysis:
         """CFR *source* locations whose section never appears in the answer."""
         return [loc for loc, used in self.source_cfr_used.items() if not used]
 
+    def signal_verdict(self, cfr_location: str) -> str:
+        """A deterministic verdict for one CFR source, from signals alone.
+
+        Used only as a cheap prior to cross-check the LLM judge against — the
+        LLM makes the real legal call. ESSENTIAL if the answer actually cites
+        the section; REDUNDANT if it is unused but a statute could stand in;
+        ESSENTIAL if there is no statute to fall back on; else REVIEW.
+        """
+        if self.source_cfr_used.get(cfr_location):
+            return "ESSENTIAL"
+        if self.usc_locations:
+            return "REDUNDANT"
+        if self.is_cfr_only:
+            return "ESSENTIAL"
+        return "REVIEW"
+
 
 def _sections(text: str, pattern: re.Pattern) -> set[str]:
     return {m.group("section") for m in pattern.finditer(text)}
@@ -131,10 +147,40 @@ def summarize(records: list[dict]) -> dict:
     }
 
 
+def run_llm_judge(records, analyses, args):
+    """Run the LLM necessity judge and return {task_id: JudgeResult} or None."""
+    from necessity_judge import DEFAULT_CACHE, make_openai_responder, run_judge
+
+    try:  # convenience: pick up OPENAI_API_KEY from a local .env if present
+        from dotenv import load_dotenv
+
+        load_dotenv()
+    except ImportError:
+        pass
+
+    respond = make_openai_responder(args.model)
+    return run_judge(
+        records,
+        respond=respond,
+        model=args.model,
+        cache_path=args.cache or DEFAULT_CACHE,
+        refresh=args.refresh,
+    )
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--benchmark", type=Path, default=BENCHMARK)
     parser.add_argument("--json", action="store_true", help="Emit machine-readable JSON.")
+    parser.add_argument(
+        "--judge",
+        action="store_true",
+        help="Run the LLM necessity judge (needs OPENAI_API_KEY) and cross-check "
+        "it against the deterministic signals.",
+    )
+    parser.add_argument("--model", default="gpt-5.4", help="LLM judge model (default: gpt-5.4).")
+    parser.add_argument("--refresh", action="store_true", help="Ignore judge cache and re-query.")
+    parser.add_argument("--cache", type=Path, default=None, help="Judge cache path.")
     args = parser.parse_args()
 
     records = load_records(args.benchmark)
@@ -142,22 +188,12 @@ def main() -> int:
     analyses = [a for a in (analyze_item(r) for r in records) if a is not None]
     analyses.sort(key=lambda a: int(a.task_id))
 
+    judged = run_llm_judge(records, analyses, args) if args.judge else None
+
     if args.json:
         payload = {
             "summary": summary,
-            "items": [
-                {
-                    "task_id": a.task_id,
-                    "cfr_locations": a.cfr_locations,
-                    "usc_locations": a.usc_locations,
-                    "is_cfr_only": a.is_cfr_only,
-                    "regulation_dependent": a.regulation_dependent,
-                    "usc_cited_in_answer": a.usc_cited_in_answer,
-                    "cfr_sections_in_answer": sorted(a.cfr_sections_in_answer),
-                    "source_cfr_unused": a.source_cfr_unused,
-                }
-                for a in analyses
-            ],
+            "items": [_item_payload(a, judged) for a in analyses],
         }
         print(json.dumps(payload, indent=2, ensure_ascii=False))
         return 0
@@ -178,7 +214,68 @@ def main() -> int:
             f"{str(a.regulation_dependent):>7}  {str(a.usc_cited_in_answer):>10}  "
             f"{sorted(a.cfr_sections_in_answer)}{unused}"
         )
+
+    if judged is not None:
+        _print_judge_section(analyses, judged)
     return 0
+
+
+def _item_payload(a: "ItemAnalysis", judged) -> dict:
+    payload = {
+        "task_id": a.task_id,
+        "cfr_locations": a.cfr_locations,
+        "usc_locations": a.usc_locations,
+        "is_cfr_only": a.is_cfr_only,
+        "regulation_dependent": a.regulation_dependent,
+        "usc_cited_in_answer": a.usc_cited_in_answer,
+        "cfr_sections_in_answer": sorted(a.cfr_sections_in_answer),
+        "source_cfr_unused": a.source_cfr_unused,
+        "signal_verdicts": {loc: a.signal_verdict(loc) for loc in a.cfr_locations},
+    }
+    if judged is not None and a.task_id in judged:
+        jr = judged[a.task_id]
+        payload["llm_item_verdict"] = jr.item_verdict
+        payload["llm_verdicts"] = jr.cfr_verdicts
+        payload["disagreements"] = [
+            {
+                "location": loc,
+                "signal": a.signal_verdict(loc),
+                "llm": jr.cfr_verdicts.get(loc, {}).get("verdict"),
+            }
+            for loc in a.cfr_locations
+            if jr.cfr_verdicts.get(loc, {}).get("verdict") != a.signal_verdict(loc)
+        ]
+        payload["model"] = jr.model
+    return payload
+
+
+def _print_judge_section(analyses, judged) -> None:
+    print()
+    print("LLM NECESSITY JUDGE (verdict | signal)")
+    disagreements = []
+    for a in analyses:
+        jr = judged.get(a.task_id)
+        if jr is None:
+            continue
+        print(f"  item {a.task_id}  [item_verdict: {jr.item_verdict}]")
+        for loc in a.cfr_locations:
+            signal = a.signal_verdict(loc)
+            entry = jr.cfr_verdicts.get(loc, {})
+            llm = entry.get("verdict", "?")
+            flag = "" if llm == signal else "   <-- DISAGREE"
+            if llm != signal:
+                disagreements.append((a.task_id, loc, signal, llm))
+            print(f"      {loc}")
+            print(f"        LLM: {llm:<10} signal: {signal:<10}{flag}")
+            if entry.get("rationale"):
+                print(f"        rationale: {entry['rationale']}")
+    print()
+    if disagreements:
+        print(f"DISAGREEMENTS ({len(disagreements)}) — review these:")
+        for tid, loc, signal, llm in disagreements:
+            print(f"  item {tid}: {loc}  signal={signal} llm={llm}")
+    else:
+        print("DISAGREEMENTS: none — LLM and signals agree on every CFR source.")
 
 
 if __name__ == "__main__":
