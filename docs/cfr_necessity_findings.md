@@ -1,6 +1,6 @@
 # CFR-source prevalence & necessity — findings
 
-Status: **analysis / recommendations only — no benchmark items were modified** ·
+Status: **edits applied after maintainer review — 2 redundant CFR passages removed (see §6)** ·
 Issue: [#7](https://github.com/bwaldon/eabench/issues/7) ·
 Reproduce: `python analyze_sources.py` (signals) · `python analyze_sources.py --judge` (adds the LLM judge)
 
@@ -24,6 +24,11 @@ Of **50 items** / **84 sources** (69 statute, 14 regulation, 1 guidance):
 | references guidance | 1 | 43 |
 
 The mixture affects **20% of the benchmark** and is concentrated, not pervasive.
+
+> **Post-edit state (after §6).** Removing the two redundant CFR passages leaves
+> **9** CFR-referencing items and **82** sources (69 statute, **12** regulation,
+> 1 guidance): 6 mixed, 2 regulation-only, 1 regulation+guidance. The tables
+> below are stated as of *analysis time* (before the edits).
 
 ## 2. How necessity is judged (two independent signals)
 
@@ -73,8 +78,9 @@ REDUNDANT** — the one consensus deletion. Six items are unanimously ESSENTIAL
 ## 4. Human-review queue — the 4 disagreements
 
 These are the cases where the LLM judges a regulation REDUNDANT even though the
-expected answer cites it (hence the signal called it ESSENTIAL). Each needs a
-maintainer's legal call:
+expected answer cites it (hence the signal called it ESSENTIAL). Each was given
+a maintainer's legal call — **see §6 for the resolution** (41, 43 kept; 50's
+§ 99.5(a)(1) removed; 38 removed by consensus):
 
 - **41 · § 99.21(a).** The answer requires a hearing and a written statement,
   but cites §§ 99.22 / 99.21(b)(2) for those — not the listed § 99.21(a). The
@@ -98,16 +104,28 @@ regulation-only detail with no statutory equivalent — §§ 99.7(b), 99.12(a),
 should be *considered* for the three disagreement items (41, 43, 50) pending a
 human legal call. The LLM's recurring insight: in items 41/50, the answer
 *cites* the regulation but the *decisive* authority is statutory — so those
-CFR passages may be prunable even though the text mentions them.
+CFR passages may be prunable even though the text mentions them. On close
+inspection this held only partially: item 50's § 99.5(a)(1) was prunable but
+its § 99.5(b) was load-bearing, and item 41's CFR proved load-bearing after
+all (§6).
 
-## 6. Proposed follow-up (requires approval — not applied here)
+## 6. Actions taken (maintainer-reviewed)
 
-1. **Item 38:** remove `34 CFR § 99.3` (redundant with the statutory definition;
-   all signals agree).
-2. **Items 41, 43, 50:** maintainer to adjudicate the four flagged sources —
-   either delete the redundant CFR passage or, where the answer relies on a
-   *different* provision than the one listed (41, 50), correct the source list.
-3. **Item 43:** additionally reconsider guidance-only grounding.
-4. After any edit, re-run `python build_benchmark.py --check`,
-   `python analyze_sources.py`, and `python analyze_sources.py --judge` (verdicts
-   re-compute automatically because the input fingerprint changes).
+Each flagged source was adjudicated against the actual item text (does the
+expected answer *rely* on the regulation, and would deletion leave a dangling
+citation?). Two passages were removed; two were kept.
+
+| item | action | reason |
+|---|---|---|
+| **38** | **removed** `34 CFR § 99.3` | Redundant with the statutory "education records" definition (§ 1232g(a)(4)(A)); the answer never cites it. All three checks agree. |
+| **50** | **removed** `34 CFR § 99.5(a)(1)`; **kept** `34 CFR § 99.5(b)` | § 99.5(a)(1) merely restates § 1232g(d) and is uncited. § 99.5(b) is the operative dual-enrollment carve-out, cited in both the answer and the Concepts. With § 99.5(a)(1) gone, the judge re-rates § 99.5(b) **ESSENTIAL**. |
+| **41** | **kept** `34 CFR § 99.21(a)` | Despite the REDUNDANT verdict, the answer's decisive procedural obligations (hearing under **§ 99.22**, written statement under **§ 99.21(b)(2)**) are regulation-only; deleting the CFR would strip grounding the answer depends on. |
+| **43** | **kept** `34 CFR § 99.5(a)(1)` | It is the item's only *codified* authority (the other source is FPCO/PTAC guidance) and supports the "eligible student" predicate the follow-up turns on. Removal would leave the benchmark's sole guidance-only item. |
+
+Net effect: `regulation` sources 14 → 12; CFR-referencing items 10 → 9; remaining
+signal/judge disagreements are items 41 and 43, both **deliberately kept** for the
+reasons above.
+
+The edits were made to `items/38/full_item.txt` and `items/50/full_item.txt`
+(the source of truth), and `benchmark.jsonl` was regenerated. Reproduce/verify:
+`python build_benchmark.py --check && python analyze_sources.py --judge`.

@@ -39,18 +39,6 @@
     "model": "gpt-5.4",
     "fingerprint": "28d2c33d84432255"
   },
-  "38": {
-    "task_id": "38",
-    "item_verdict": "REDUNDANT",
-    "cfr_verdicts": {
-      "34 CFR § 99.3": {
-        "verdict": "REDUNDANT",
-        "rationale": "Statute already defines education records as maintained records. Answer turns on personal observation not yet recorded; cited reg exclusion about post-student records is irrelevant."
-      }
-    },
-    "model": "gpt-5.4",
-    "fingerprint": "2def782944226e37"
-  },
   "39": {
     "task_id": "39",
     "item_verdict": "ESSENTIAL",
@@ -121,18 +109,14 @@
   },
   "50": {
     "task_id": "50",
-    "item_verdict": "REDUNDANT",
+    "item_verdict": "ESSENTIAL",
     "cfr_verdicts": {
-      "34 CFR § 99.5(a)(1)": {
-        "verdict": "REDUNDANT",
-        "rationale": "Restates 20 U.S.C. § 1232g(d): rights transfer to the student upon postsecondary attendance or age 18. Statute alone supports this point."
-      },
       "34 CFR § 99.5(b)": {
-        "verdict": "REDUNDANT",
-        "rationale": "Only says FERPA does not prevent disclosure to a parent if a §99.31 exception applies. The decisive dependent-student rule is elsewhere, not in this cited regulation."
+        "verdict": "ESSENTIAL",
+        "rationale": "Statute source only gives rights-transfer to the student. This regulation supplies the operative rule allowing parent disclosure via the dependent-student exception."
       }
     },
     "model": "gpt-5.4",
-    "fingerprint": "f4ac3a22a3dc4e76"
+    "fingerprint": "22fe6322c0f88378"
   }
 }
